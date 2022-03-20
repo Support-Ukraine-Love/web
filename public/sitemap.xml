@@ -2,9 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://supportukraine.love/categories/</loc>
+    <loc>https://supportukraine.love/resources/</loc>
+    <lastmod>2022-03-10T22:40:10-05:00</lastmod>
+  </url><url>
+    <loc>https://supportukraine.love/post/</loc>
+    <lastmod>2022-03-10T22:13:39-05:00</lastmod>
   </url><url>
     <loc>https://supportukraine.love/</loc>
+    <lastmod>2022-03-10T19:54:35-05:00</lastmod>
+  </url><url>
+    <loc>https://supportukraine.love/letters/</loc>
+    <lastmod>2022-03-10T19:27:46-05:00</lastmod>
+  </url><url>
+    <loc>https://supportukraine.love/about/</loc>
+    <lastmod>2022-03-10T19:27:34-05:00</lastmod>
+  </url><url>
+    <loc>https://supportukraine.love/main/</loc>
+    <lastmod>2022-03-10T19:26:38-05:00</lastmod>
+  </url><url>
+    <loc>https://supportukraine.love/categories/</loc>
   </url><url>
     <loc>https://supportukraine.love/tags/</loc>
   </url>

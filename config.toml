@@ -1,21 +1,18 @@
 baseURL = "https://supportukraine.love/"
 languageCode = "en-us"
-title = "Support Ukraine"
+title = "🌻💙💛 Support Ukraine"
+author = "The People"
 theme = "compose"
+
+[params]
+   contentDir = "content" # This needs to be set for Compose Theme, if using
 
 [languages]
   [languages.en]
-    title = "Support Ukraine"
+    title = "🌻💙💛 Support Ukraine"
     subtitle = "A collection of resources to help support Ukraine"
-    keywords = ""
-    copyright = ""
     menuMore = "Show more"
     writtenBy = "Many"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
-    minuteReadingTime = "min read"
     dateFormatSingle = "2006-01-02"
     dateFormatList = "2006-01-02"
     # leave empty to disable, enter display text to enable
@@ -33,7 +30,7 @@ theme = "compose"
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
-        url = "/about"
+        url = "index.html"
       [[languages.en.menu.main]]
         identifier = "resources"
         name = "Resources"
@@ -43,8 +40,24 @@ theme = "compose"
         name = "Letters"
         url = "/letters"
 
-# NOTE: Need this to render HTML in Markdown like sup, small, etc.
-#       Default is false
 [markup]
   [markup.goldmark.renderer]
-    unsafe = true
+    hardWraps = false
+    unsafe = true # Required for raw HTML like sup, small as well as math
+    xhtml = false
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = false
+    tabWidth = 2
+
+## Required for search to work
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+## Testing
+disableKinds = ["taxonomy", "taxonomyTerm"]
