@@ -9,7 +9,7 @@ theme = "compose"
 
 [languages]
   [languages.en]
-    title = "🌻💙💛 Support Ukraine"
+    title = "Support Ukraine 💙💛🌻"
     subtitle = "A collection of resources to help support Ukraine"
     menuMore = "Show more"
     writtenBy = "Many"
