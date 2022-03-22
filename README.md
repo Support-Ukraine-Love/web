@@ -106,4 +106,5 @@ that you can view at:
 This is additional information to help with using the
 Compose theme itself, like adding images.
 
-
+FIXME - this is testing that the commit structure is now working
+(it wasn't)
