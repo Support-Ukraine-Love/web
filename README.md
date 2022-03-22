@@ -34,6 +34,8 @@ is done as part of the Netlify build process.
    Preview Changes in subsequent section).
 1. Netlify uses `0.83.1` to build. Version `0.94.2` has also 
    been used locally to build successfully.
+1. Style consistentcy: There is a 🌻 as the last line of every
+page.
 
 ⚠️ **Important** - Since this is a free GitHub account there's no
 way to formally protect the `main` branch. That said, please use
