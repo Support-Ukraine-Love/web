@@ -99,12 +99,9 @@ To verify that your local changes match remote, use the
 `development` branch. This triggers a preview site on Netlify
 that you can view at:
 
-`URL_TO_ADD`
+https://creative-sawine-65837b.netlify.app/
 
 # Misc. Compose Theme Information
 
 This is additional information to help with using the
 Compose theme itself, like adding images.
-
-FIXME - this is testing that the commit structure is now working
-(it wasn't)
