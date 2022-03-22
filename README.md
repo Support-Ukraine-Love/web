@@ -35,6 +35,11 @@ is done as part of the Netlify build process.
 1. Netlify uses `0.83.1` to build. Version `0.94.2` has also 
    been used locally to build successfully.
 
+⚠️ **Important** - Since this is a free GitHub account there's no
+way to formally protect the `main` branch. That said, please use
+the `development` branch for local code development and then PR to
+`main`, which will then trigger a deploy to production.
+
 ## Hugo To-Know: Using the Compose Theme
 
 The below information is about how to updating existing
