@@ -1,26 +1,19 @@
 ---
-title: "Resources"
-weight: 1
+title: "United States"
+weight: 2
+description: >
+  This page has helpful information if you are a citizen of the United States
 ---
 
-Test resources
+## United States Template Letter
 
-
-//---
-//title: "Resources"
-//date: 2022-03-10T22:40:10-05:00
-//draft: false
-//---
-
-## Template Letter to United States Representatives
-
-### Purpose
+#### Purpose
 
 If you are a citizen of the United States and want to reach out to
 your elected officials, here is a template for what you can
 discuss / say.
 
-### Find Your Representatives
+#### Find Your Representatives
 
 If you're not sure who your representatives are, or what their
 contact information is, you can use the following site to get
@@ -28,7 +21,7 @@ their full contact information including phone and email:
 
 https://www.congress.gov/members/find-your-member 
 
-### Phone / Voice Template
+#### Phone / Voice Template
 
 Hi \<**<u>representative</u>**\> - my name is \<**<u>name</u>**\> and I am a voter in 
 \<**<u>state / district</u>**\>. I am concerned about the escalating war in Eastern
@@ -70,7 +63,7 @@ out. While the threat of nuclear war is very real, that will
 matter little if either or both of these sites turn into an
 equally devastating nuclear disaster.
 
-### Email Template
+#### Email Template
 
 Dear \<**<u>representative</u>**\>:
 
