@@ -1,55 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>🌻💙💛 Support Ukraine</title>
-    <link>https://supportukraine.love/</link>
-    <description>Recent content on 🌻💙💛 Support Ukraine</description>
+    <title>Support Ukraine on 🌻💙💛 Support Ukraine</title>
+    <link>/</link>
+    <description>Recent content in Support Ukraine on 🌻💙💛 Support Ukraine</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 10 Mar 2022 19:54:35 -0500</lastBuildDate><atom:link href="https://supportukraine.love/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Resources</title>
-      <link>https://supportukraine.love/resources/</link>
-      <pubDate>Thu, 10 Mar 2022 22:40:10 -0500</pubDate>
+      <title>Charities</title>
+      <link>/charities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://supportukraine.love/resources/</guid>
-      <description></description>
+      <guid>/charities/</guid>
+      <description>Humanitarian Aid  Nova Ukraine
+A non-profit organization dedicated to raising awareness about Ukraine in the US and throughout the world and providing humanitarian aid to Ukraine. Razom Ukraine
+Razom, which means “together” in Ukrainian, believes deeply in the enormous potential of dedicated volunteers around the world united by a single goal: to unlock the potential of Ukraine.  Other Forms of Aid and Resourcesh  Help Ukraine Win
+Site that aggregates charities and other information to help Ukraine.</description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>https://supportukraine.love/post/</link>
-      <pubDate>Thu, 10 Mar 2022 22:13:39 -0500</pubDate>
+      <title>Information &amp; Disinformation</title>
+      <link>/information/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://supportukraine.love/post/</guid>
-      <description>Test main page</description>
+      <guid>/information/</guid>
+      <description>Purpose To make and maintain the two known lists of infomration: trusted and untrusted. There is a lot of grey area in the middle that is not going to be covered by these source lists.
+✅ Trusted Sources ✅ The following are trusted sources of information.
+Video 🎥 e.g. YouTube, Twitch, Television Text 📝 e.g. Digital newspapers, Twitter and Other Social Media ⛔️ Distrusted Sources ⛔️ The following are distrusted sources of information, including sources of direct propogata and intentional misinformation.</description>
     </item>
     
     <item>
-      <title>Letters</title>
-      <link>https://supportukraine.love/letters/</link>
-      <pubDate>Thu, 10 Mar 2022 19:27:46 -0500</pubDate>
+      <title>What and Who</title>
+      <link>/whats-happening/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://supportukraine.love/letters/</guid>
-      <description>Test Letters Index Page</description>
+      <guid>/whats-happening/</guid>
+      <description>These pages cover who to know, what agencies, and how they interrelate.
+Who&amp;rsquo;s Who Immigration Reponse Some governments have given special visa and/or immigration status to Ukranian refugees.
+ 🇨🇦 Canada  </description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>This site is hosted on Github and updates to the site directly are made via pull request and tickets are managed via a Github repo.</description>
+    </item>
+    
+    <item>
+      <title>United States</title>
+      <link>/letters/united-states/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/letters/united-states/</guid>
+      <description>United States Template Letter Purpose If you are a citizen of the United States and want to reach out to your elected officials, here is a template for what you can discuss / say.
+Find Your Representatives If you&amp;rsquo;re not sure who your representatives are, or what their contact information is, you can use the following site to get their full contact information including phone and email:
+https://www.congress.gov/members/find-your-member
+Phone / Voice Template Hi &amp;lt;representative&amp;gt; - my name is &amp;lt;name&amp;gt; and I am a voter in &amp;lt;state / district&amp;gt;.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://supportukraine.love/about/</link>
+      <link>/about/</link>
       <pubDate>Thu, 10 Mar 2022 19:27:34 -0500</pubDate>
       
-      <guid>https://supportukraine.love/about/</guid>
+      <guid>/about/</guid>
       <description>Test about index page</description>
-    </item>
-    
-    <item>
-      <title>Main</title>
-      <link>https://supportukraine.love/main/</link>
-      <pubDate>Thu, 10 Mar 2022 19:26:38 -0500</pubDate>
-      
-      <guid>https://supportukraine.love/main/</guid>
-      <description>This is a text main index page</description>
     </item>
     
   </channel>

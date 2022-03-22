@@ -28,17 +28,13 @@ theme = "compose"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "index.html"
+        identifier = "charities"
+        name = "Charities & Aid"
+        url = "/charities"
       [[languages.en.menu.main]]
-        identifier = "resources"
-        name = "Resources"
-        url = "/resources"
-      [[languages.en.menu.main]]
-        identifier = "letters"
-        name = "Letters"
-        url = "/letters"
+        identifier = "contact"
+        name = "Contact"
+        url = "/contact"
 
 [markup]
   [markup.goldmark.renderer]
