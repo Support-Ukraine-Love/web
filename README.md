@@ -15,6 +15,8 @@ run locally (next step) _or_ you'll see error(s) around
 1. Run `hugo server` for local runnning version. (Do
 not need to specify `-D` as this isn't a blog site / there
 are no drafts.)
+1. The `baseURL` is `/` so that the theme can load in both
+development and production. ⚠️ Do not change this.
 
 # Making Changes
 
@@ -46,25 +48,28 @@ if/when needed.
 ### Directory Structure of `content`
 
 ```
-→ tree -L 1 content
+→ tree content -L 1
 content
 ├── _index.md
 ├── about
 ├── charities
+├── contact
+├── images
 ├── information
 ├── letters
-├── main
-├── post
-└── resources
+└── whats-happening
 ```
 
 The main categories / directories to be concerned with are: 
-charities, information, letters, and resources. Succinctly:
+charities, contact, information, letters, and whats-happening.
+Succinctly:
 
 * Charities - charities as well as other forms of aid
+* Contact - How to contact "us" / request changes to the site
 * Information - News sources and specifically calling out misinformation sources
 * Letters - Template letters to reach out to your government representatives
-* Resources - More general resources
+* What's Happening - Explaining the Who's Who and What's Important
+for the various people, governments, etc. to follow.
 
 There are two patterns you'll see in the above:
 
@@ -99,7 +104,7 @@ To verify that your local changes match remote, use the
 `development` branch. This triggers a preview site on Netlify
 that you can view at:
 
-https://creative-sawine-65837b.netlify.app/
+[https://creative-sawine-65837b.netlify.app/](https://creative-sawine-65837b.netlify.app/)
 
 # Misc. Compose Theme Information
 
