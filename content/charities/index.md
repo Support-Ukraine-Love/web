@@ -7,14 +7,19 @@ description: >
 
 ## Humanitarian Aid
 
-* [Nova Ukraine](https://novaukraine.org/donate/)<br />
-A non-profit organization dedicated to raising awareness about
-Ukraine in the US and throughout the world and providing
-humanitarian aid to Ukraine.
+* [Nova Ukraine](https://novaukraine.org/)<br />
+Nova Ukraine is a nonprofit organization dedicated to providing
+humanitarian aid to the people of Ukraine and raising awareness
+about Ukraine in the United States as well as in the rest of the
+world. They are providing [emergency aid](https://novaukraine.org/delivering-emergency-aid-to-the-ukrainian-refugees/)
+directly in Ukraine and <u>have non-profit status in the United
+States</u>.
 * [Razom Ukraine](https://razomforukraine.org/donate/)<br />
 Razom, which means “together” in Ukrainian, believes deeply in the
 enormous potential of dedicated volunteers around the world united
-by a single goal: to unlock the potential of Ukraine.
+by a single goal: to unlock the potential of Ukraine. Razom is
+also providing [emergency aid](https://razomforukraine.org/razom-emergency-response/)
+directly in Ukraine.
 
 ## Other Forms of Aid and Resources
 
