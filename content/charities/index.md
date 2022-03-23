@@ -34,6 +34,12 @@ Some governments have given special visa and/or immigration status
 to Ukranian refugees.
 
 * 🇨🇦 [Canada](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/ukraine-fund-fonds.aspx?lang=eng)
+* 🇮🇪 [Ireland](https://www.irishtimes.com/news/world/europe/visas-for-ukrainian-citizens-entering-ireland-to-be-waived-taoiseach-confirms-1.4811368)
+* 🇪🇺 [European Union](https://www.reuters.com/world/europe/eu-prepares-millions-refugees-ukraine-2022-03-03/)
+  * Also reportd on [Council on Foreign Relations](https://www.cfr.org/in-brief/ukraine-humanitarian-crisis-refugees-aid).
+
+Data also being kept updated on UN High Commissioner for Refugee's
+web page ([here](https://data2.unhcr.org/en/situations/ukraine)).
 
 ## Past Campaigns
 

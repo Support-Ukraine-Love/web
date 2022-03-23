@@ -6,4 +6,4 @@ description: Open Source Intelligence
 
 ## Tech-Based Initiatives
 
-* Social Media Report and Demote Initiative - Link TBD
+* Social Media Report and Demote Initiative - [Telegram Link](https://t.me/+QEnOlKXGKmczNzY0)<br />
