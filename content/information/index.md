@@ -39,13 +39,9 @@ of correct and incorrect information, but they are
 _not_ propoganda.
 
 * [NEXTA](https://twitter.com/nexta_tv)<br />
-  Telegram channel and Twitter account.
+  Belarusian Telegram channel and Twitter account.
 
-### Video 🎥
-
-#### e.g. YouTube, Twitch, Television
-
-### Text 📝
+### Text
 
 #### Twitter and Other Social Media
 
@@ -68,13 +64,6 @@ recognize them.
 
 * TASS - sites from tass.com
 * Ria - sites from ria.ru
-
-### Video 🎥
-#### e.g. YouTube, Twitch, Television
-
-### Text 📝
-#### Twitter and Other Social Media
-
 
 ## ⚠️  Caution ⚠️
 

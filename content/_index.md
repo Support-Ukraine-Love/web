@@ -10,37 +10,43 @@ description: "Main page for Support Ukraine"
 
 <small>Photo by [Jeb Buchman](https://unsplash.com/@jebbuchman?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/blue-sky--sunflower-field?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</small>
 
-This page is dedicated for those of us who are watching what is
-happening in Ukraine and trying to figure out to help.
+This page is dedicated to those of us who wish to help
+Ukraine by providing information and resources. These are
+split into a few categories (also seen on the left nav menu):
 
-The information available here is broken down into a few categories:
-
-* [Resources](resources)
 * [Charities](charities)
+* [Information & Disinformation](information)
 * [OSINT](osint) (Open Source Intelligence)
-* [Information Sources / News](information)
+* [Template Letters](letters)
+* [What's Happening](whats-happening)
 * [Contact Us](contact)
 
-There are several types of resources available on this site. The main
-[Resources](resources) has information that can help people reach out to
-their governments - who to call, what to ask for that would be
-helfpul, as well as general information about the structure of how
-individual country governments interface with each other.
+#### Breakdown of what each of these are
 
-Charities that are currently giving aid directly to real time are
-also listed. Note that these are mostly local charities as large,
+[Charities](charities) that are currently giving aid directly to
+Ukraine. The charities listed here are local charities as large,
 international charities are subject to beaurocratic delays and
 getting resources to people is incredibly time-sensitive.
 
-For those that are tech aware, there are also a series of related
-resources and information under OSINT. This will allow you take
-part in various tech initiatives and software projects that are
-supporting Ukraine.
+[Information and Disinformation](information) is two primary lists:
+sites known to provide accurate information and a list of sources to
+avoid that are known propoganda / spreading deliberately false
+information. There is also a third list of sites to use with caution.
 
-And lastly, information. There is a lot information going around
-with varying degrees of accuracy. Some of this is due to the rapid
-pace of the news cycle, but some of this is intentional
-disinformation. We're compiling a list of known sources of
-reliable information as well as sources to avoid. 
+[OSINT](osint), or Open Source Intelligence, provides resources
+specific to technology. These include relevant software projects
+and tech initiatives.
+
+[Template Letters](letters) are for those interested in reaching out
+to elected officials. These are split out by geographic region / 
+government.
+
+[What's Happening](whats-happening) is the generic title chosen for
+topics that are effectively a speed course through the various
+governments, councils, names of representatives, and so forth and
+how they relate to each other. (Currently being drafted.)
+
+[Contact Us](contact) is how to reach out to help maintain this
+site or to send us updated information, PRs, etc.
 
 🌻
