@@ -1,6 +1,6 @@
 ---
 title: "Information & Disinformation"
-weight: 1
+weight: 2
 description: >
   Known Trusted and Distrusted Sources of Information.
 ---
@@ -41,9 +41,7 @@ _not_ propoganda.
 * [NEXTA](https://twitter.com/nexta_tv)<br />
   Belarusian Telegram channel and Twitter account.
 
-### Text
-
-#### Twitter and Other Social Media
+### Twitter and Other Social Media
 
 * [Olga Lautman](https://twitter.com/OlgaNYC1211)
 * [Phil Stewart](https://twitter.com/phildstewart)
@@ -64,6 +62,9 @@ recognize them.
 
 * TASS - sites from tass.com
 * Ria - sites from ria.ru
+* Russia Today - sites from rt.com<br />
+  Note: A common abbreviation is "RT", not to be confused with
+  "retweet" depending on context / platform.
 
 ## ⚠️  Caution ⚠️
 

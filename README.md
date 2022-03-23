@@ -117,3 +117,10 @@ that you can view at:
 
 This is additional information to help with using the
 Compose theme itself, like adding images.
+
+The `weight` field: is used to determine how the various items on
+the nav menu are ordered. When items share the same number they
+are alphabetized. The current ordering is charities at `1`,
+contact at `3`, and the rest are all at `2`. This ensures that
+charities is always at the top, contact always at the bottom, and
+the rest are listed in alphabetical order.

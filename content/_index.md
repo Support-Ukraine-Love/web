@@ -47,6 +47,8 @@ governments, councils, names of representatives, and so forth and
 how they relate to each other. (Currently being drafted.)
 
 [Contact Us](contact) is how to reach out to help maintain this
-site or to send us updated information, PRs, etc.
+site or to send us updated information, PRs, etc. This page also
+lists specific information we're currently reaching out for
+assistance with.
 
 🌻

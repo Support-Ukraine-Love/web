@@ -1,5 +1,5 @@
 ---
-title: "Charities"
+title: "Charities & Aid"
 weight: 1
 description: >
   List of charities serving Ukraine.
@@ -27,6 +27,13 @@ directly in Ukraine.
 that aggregates charities and other information to help Ukraine.
 * [Support Ukraine Now](https://supportukrainenow.org/)<br />Site
 aggregating charities and other ways to directly help Ukrainians.
+
+## Immigration Reponse
+
+Some governments have given special visa and/or immigration status
+to Ukranian refugees.
+
+* 🇨🇦 [Canada](https://www.international.gc.ca/world-monde/issues_development-enjeux_developpement/response_conflict-reponse_conflits/crisis-crises/ukraine-fund-fonds.aspx?lang=eng)
 
 ## Past Campaigns
 

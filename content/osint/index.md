@@ -1,5 +1,9 @@
 ---
 title: "OSINT"
-weight: 1
+weight: 2
 description: Open Source Intelligence
 ---
+
+## Tech-Based Initiatives
+
+* Social Media Report and Demote Initiative - Link TBD
