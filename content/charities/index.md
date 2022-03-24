@@ -28,6 +28,17 @@ that aggregates charities and other information to help Ukraine.
 * [Support Ukraine Now](https://supportukrainenow.org/)<br />Site
 aggregating charities and other ways to directly help Ukrainians.
 
+## Untrusted Orgs
+
+Simialr to how there are sources of misinformation, there are
+charities that **_aren't_** out there doing the good work. Here's
+a list with context for Why They're Here:
+
+* Red Cross - they are meeting with Lavrov in Mocscow, interested
+in offices there as of 23 Mar 2022. [Source - Reuters](https://www.reuters.com/world/russias-lavrov-meet-red-cross-chief-moscow-ukraine-discussions-2022-03-23/), 
+[Alt Source - US News](https://www.usnews.com/news/world/articles/2022-03-23/russias-lavrov-to-meet-red-cross-chief-in-moscow-for-ukraine-discussions),
+[Anadolu Agency in Turkey reports new offices](https://www.aa.com.tr/en/russia-ukraine-war/red-cross-seeks-to-open-office-near-russia-ukraine-border/2544478)
+
 ## Immigration Reponse
 
 Some governments have given special visa and/or immigration status

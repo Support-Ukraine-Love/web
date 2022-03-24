@@ -31,6 +31,9 @@ more than one.
 * [BNO News](https://bnonews.com/index.php/category/world/)<br />
    News about the war is primarily divided between the World 
    and Politics (for UN meetings, etc.) sections.
+* [AFP](https://www.afp.com/en/news-hub)<br />
+  Agence France-Presse (English: French Media Agency) is also
+  reporting on the war.
 
 ### Twitter and Other Social Media
 
