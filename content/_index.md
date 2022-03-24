@@ -17,7 +17,7 @@ split into a few categories (also seen on the left nav menu):
 * [Charities](charities)
 * [Information & Disinformation](information)
 * [OSINT](osint) (Open Source Intelligence)
-* [Template Letters](letters)
+* [Template Letters](templates)
 * [What's Happening](whats-happening)
 * [Contact Us](contact)
 
@@ -37,7 +37,7 @@ information. There is also a third list of sites to use with caution.
 specific to technology. These include relevant software projects
 and tech initiatives.
 
-[Template Letters](letters) are for those interested in reaching out
+[Template Letters](templates) are for those interested in reaching out
 to elected officials. These are split out by geographic region / 
 government.
 
