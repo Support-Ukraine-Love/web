@@ -10,6 +10,22 @@ description: "Main page for Support Ukraine"
 
 <small>Photo by [Jeb Buchman](https://unsplash.com/@jebbuchman?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/blue-sky--sunflower-field?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</small>
 
+## ⚠️  Time Sensitive Request for Information ⚠️
+
+We are currently looking for:
+* Template letters for reaching out to government officials in
+support of Ukraine. Currently only template letter is
+US-specific.
+* Information about countries that have visa or any other special
+immigration process for Ukrainian refugees.
+* Any known Trusted Sources or Sources of Propoganda that are not
+listed on our [Information & Disinformation](information) page.
+
+If you have information about any of the above, please reach out
+to us via our [Contact](contact) page.
+
+---
+
 This page is dedicated to those of us who wish to help
 Ukraine by providing information and resources. These are
 split into a few categories (also seen on the left nav menu):
