@@ -1,8 +1,6 @@
-- item: About
-  url: about/
-- item: Resources
-  url: resouces/
-- item: Letters
-  url: letters/
+- item: Charities
+  url: charities/
+- item: Contact 
+  url: contact/
 - item: Tag
   url: tags
