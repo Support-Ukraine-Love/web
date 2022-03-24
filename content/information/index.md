@@ -32,24 +32,52 @@ more than one.
    News about the war is primarily divided between the World 
    and Politics (for UN meetings, etc.) sections.
 
-### "Grey Zone" Traditional News
-
-These are sites that have been known to post a mix
-of correct and incorrect information, but they are
-_not_ propoganda.
-
-* [NEXTA](https://twitter.com/nexta_tv)<br />
-  Belarusian Telegram channel and Twitter account.
-
 ### Twitter and Other Social Media
 
-* [Olga Lautman](https://twitter.com/OlgaNYC1211)
-* [Phil Stewart](https://twitter.com/phildstewart)
+#### People
+
+* [Olga Lautman](https://twitter.com/OlgaNYC1211)<br />
+  Independent researcher and Senior Fellow for the Center for
+  European Policy Analysis.
+* [Phil Stewart](https://twitter.com/phildstewart)<br />
+  Military and Intelligence correspondent with Reuters.
+* [Illia Ponomarenko](https://twitter.com/IAPonomarenko)<br />
+  Defense Reporter with the Kyiv Independent.
+* [Samuel Ramani](https://twitter.com/SamRamani2)<br />
+  Dphil/PhD in International Relations at Oxford, specializing in
+  post-1991 Russian foreign policy. Associate Fellow at Royal
+  United Services Institute for Defense and Security Studies. 
+* [Olga Rudenko](https://twitter.com/olya_rudenko)<br />
+  Chief editor of Kyiv Independent.
+* [Olga Tokariuk](https://twitter.com/olgatokariuk)<br />
+  Independent journalist and Fellow for the Center for European
+  Policy Analysis.
+* [Xena](https://twitter.com/xenasolo)<br />
+  International Master degree in political science.
+
+#### Agencies
+
 * [ФБК](https://twitter.com/fbkinfo)<br />
    In English this is FBK, or the Anti-Corruption Foundation. This is
    Alexei Navalny's non-profit.
 * [СБ України](https://twitter.com/servicessu)<br />
   Official Twitter for the Security Service of Ukraine.
+* [Kyiv Independent](https://twitter.com/KyivIndependent)<br />
+  Independent English-language journalism in Ukraine.
+* [Razom for Ukraine](https://twitter.com/razomforukraine)<br />
+  Ukrainian charity providing emergency aid. See
+  [Charities & Aid](../charities) for more information.
+
+### ☑️  "Grey Zone" ☑️
+
+These are notable sites that have been known to post a mix
+of correct and incorrect information, but they are
+_not_ propoganda. Note that there are a _lot_ of sites that
+probably fall in this category so we will not be tracking them
+all, only the few we see appearing most often.
+
+* [NEXTA](https://twitter.com/nexta_tv)<br />
+  Belarusian Telegram channel and Twitter account.
 
 ## ⛔️ Distrusted Sources ⛔️
 
