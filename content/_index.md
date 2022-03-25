@@ -10,7 +10,16 @@ description: "Main page for Support Ukraine"
 
 <small>Photo by [Jeb Buchman](https://unsplash.com/@jebbuchman?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/blue-sky--sunflower-field?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</small>
 
-## ⚠️  Time Sensitive Request for Information ⚠️
+## ⚠️ Update: thorough documentation for Ukranian Refugees ⚠️
+
+[This Google Doc](https://docs.google.com/document/d/1w59p4ar7wwrZCV8c9PeUIJPGFA53jUcFaJhJCCM5Fik/edit)
+is available in English, Ukrainian, and Russian and has
+information for Ukrainian refugees. It is very thorough (81 pages)
+and information on nations that have visa/immigration processes,
+if you are disabled, if you are LGBTQ+, and so on. 
+
+
+## Time Sensitive Request for Information
 
 We are currently looking for:
 * Template letters for reaching out to government officials in
