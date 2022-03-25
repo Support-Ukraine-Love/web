@@ -10,6 +10,12 @@ description: >
 This site is hosted on GitHub and updates to the site directly are
 made via pull request and tickets are managed via a GitHub repo.
 
+## Discord
+
+[Kris Nóva](https://twitter.com/krisnova) is hosting us on her Discord. You can join her
+Discord [here](https://discord.gg/AbufYEENdd) - we're the
+`#🇺🇦-support-ukraine` channel.
+
 ## How to request changes
 
 Please use our [Trello form](https://app.bluecatforms.com/q1Ga9mo3/new-form)
