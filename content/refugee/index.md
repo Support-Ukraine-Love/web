@@ -164,4 +164,110 @@ chemical release, people should:
   * Their [Facebook](https://www.facebook.com/sprotyv.official/) page has valuable safety & awareness information.
 
 * How to make water potable flyer ([Download](assets/images/potable-water.jpg))
- 
+
+### Housing & Transportation
+
+🇺🇦 **[Lviv | Arena Lviv
+Stadium](https://zaxid.net/kudi_zvertatis_bizhentsyam_u_lvovi_ta_yak_yim_dopomogti_n1536966)**<br />
+Resettlement center for displaced persons and several points in the city where help is collected for
+them. According to LODA Chairman Maksym Kozytskyi, there are a
+total of 37,000 ready places for refugees in the region.
+  
+* 0684147963 - for those who need asylum, housing, or humanitarian
+  assistance
+* 0971821860 - for those who need asylum, housing, or humanitarian
+  assistance
+* 0636633371 - to address transport issues
+
+<br />
+
+**🇺🇦 [How to get help and a temporary home in Ukraine: instructions from Action](https://www.unian.ua/society/yak-otrimati-dopomogu-ta-timchasoviy-dim-v-ukrajini-instrukciya-vid-diji-novini-ukrajini-11742667.html)**
+<br />
+Currently, [CNAPs](https://koda.gov.ua/en/interactive-map-of-cnaps/) operate as Care Centers in 120 settlements of Ukraine.
+
+Internally displaced persons can receive assistance and temporary
+shelter at administrative service centers (ADCs) in 14 oblasts of
+Ukraine.
+
+CNAPs operate as Care Centers where you can get basic necessities
+and temporary shelter. You can find out exactly
+[where the Care Center works](https://www.unian.ua/techno/communications/mincifri-zapustilo-chatbot-dlya-dopomogi-pereselencyam-11721988.html)
+with a chatbot on Telegram [@turbotnyk_bot](https://t.me/turbotnyk_bot).
+(For [Viber](https://tinyurl.com/turbotnyk))
+
+Assistance is available in Rivne, Poltava, Zhytomyr, Chernivtsi,
+Ternopil, Zakarpattia, Zaporizhia, Luhansk, Khmelnytsky, Volyn,
+Lviv, Cherkasy, Vinnytsia and Ivano-Frankivsk regions.
+[CNAPs Interactive Map](https://koda.gov.ua/en/interactive-map-of-cnaps/)
+
+The coordinators are available 24/7 at these numbers:
+* +380501010454
+* +380993121127
+
+<br />
+
+**🇺🇦 [Settlement opportunities for IDPs](https://r2p.org.ua/vnutrishno-peremishheni-osoby/#)**
+
+Availability of housing facilities in Dnipropetrovsk, Zaporizhia
+and Kharkiv oblasts that can be used as temporary/social housing
+for internally displaced persons under the condition of
+reconstruction or cosmetic repairs. They were placed on an
+interactive online map. If you need advice or more detailed
+information about these facilities, fill out the
+[form](https://ee.humanitarianresponse.info/x/FdG9QOsD) and you
+will be contacted by representatives of the
+[Right to Protection Charitable Foundation](https://ua.linkedin.com/company/right-to-protection-cf)
+within three working days. Data is not
+passed on to third parties. 
+
+🇺🇦 **[Dopomagai Org | Shelter](https://shelter.dopomagai.org/)**
+
+Free temporary housing in safe cities
+of Ukraine or abroad, provided by caring people. Search among
+thousands of ads, or call the hotline 0 (800) 332 238. (More
+information, from [Kyiv City Gov](https://www.facebook.com/100064898971743/posts/340752394764724/).)
+
+**🇺🇦[ List of Caritas Ukraine organizations](http://news.ugcc.ua/news/ugkts_nadaie_pritulok_b%D1%96zhentsyam_na_zahod%D1%96_ukraini_spisok_kontakt%D1%96v_95802.html)**
+that are ready to provide shelter in Ukraine. 
+
+**🇺🇦 [Bolt taxi service](https://kyivguide.com.ua/bolt-taxify-in-kyiv/)**
+provides its fleet for the evacuation of
+Ukrainians from places where heavy military operations are taking
+place to safer cities in Western Ukraine.
+
+Passengers only need to refuel the car themselves. The driver
+must have a driving licence of category "B" and be a citizen of
+Ukraine. For passengers, citizenship of Ukraine is also
+mandatory. [Source](https://visitukraine.today/blog/155/bolt-taxi-service-provides-cars-for-evacuation-for-free)
+
+ * You can take a car for evacuation in the cities listed
+   [here](https://visitukraine.today/blog/155/bolt-taxi-service-provides-cars-for-evacuation-for-free).
+ * Contact numbers:
+   * +380630577390
+   * +380639584701
+   * +380982040707
+ * You can also fill in the [form for evacuation](https://docs.google.com/forms/d/e/1FAIpQLSf1GdPcMOWb1ZYEQtjCV_c5zRciPo533yTVt5ZjBgzueZK4FA/viewform).
+
+**🇺🇦 [UNHCR | UN Refugee Agency](https://www.unhcr.org/)**<br />
+They are providing immigration information and will make referrals for accommodation (ex. to
+Airbnb, who they are partnering with.). See [this flyer](assets/images/UNHCR-contact-info.jpg) for contact
+information for different countries. 
+([Facebook](https://www.facebook.com/UNHCR/))
+([Twitter](https://twitter.com/refugees))
+
+Plaintext contact information from the flyer:
+
+* [Czech Republic](http://help.unhcr.org/czech) & [CZ Government Website](https://www.vlada.cz/en/)<br />
+  Hotline: +420 974 801 802
+* [Hungary](http://t.co/W3VUqJEwTw) & [Hungarian Helsinki Committee](https://helsinki.hu/en/)
+* [Moldova Asylum Authorities](https://www.unhcr.org/republic-of-moldova.html) & [Available Services](http://dopomoga.org.htmlexaminer.com/)<br />
+  You can contact UNHCR at [hunbu@unhcr.org](mailto:mailto:hunbu@unhcr.org).<br />
+  Hotline of the Moldovan Bureau for Migration and Asylum: +373 (0) 8000 15 27
+* [Poland](https://help.unhcr.org/poland/) & [Polish Govt Site For Ukrainians](https://www.gov.pl/web/udsc/ukraina-en)<br />
+  Hotline: +48477217575
+* [Romania](https://help.unhcr.org/romania/) & [Romanian National Council For Refugees](https://diaspora-engagement.eu/org/the-romanian-national-council-for-refugees/)
+* [Slovakia](https://help.unhcr.org/slovakia/) & [Slovakia's Website for Ukrainians](https://ua.gov.sk/en.html)
+* [Turkey](https://help.unhcr.org/turkey/) & [Turkey Immigration For Ukrainians](https://www.turkeyimmigration.org/check-requirements/ukraine)
+* [Ukraine](http://help.unhcr.org/ukraine/about-unhcr-in-ukraine)
+* [All Other Countries](https://help.unhcr.org/)
+
