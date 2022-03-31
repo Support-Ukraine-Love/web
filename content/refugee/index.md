@@ -10,6 +10,10 @@ The source for the information on this document is on
 
 Please keep either this page or that document bookmarked.
 
+Note: where relevant there are language indicators between English
+(abbrev: EN), Ukrainian (abbrev: 🇺🇦), and/or Russian (abbrev:
+🇷🇺).
+
 ## Official Agencies
 
 Information about the social media handles for various gorvernment
@@ -279,3 +283,155 @@ Plaintext contact information from the flyer:
 * [Ukraine](http://help.unhcr.org/ukraine/about-unhcr-in-ukraine)
 * [All Other Countries](https://help.unhcr.org/)
 
+<br />
+
+🇺🇦 **[Slovakia | Kto pomôže Ukrajine](https://ktopomozeukrajine.sk/)**<br />
+Government-recommended site to help refugees arriving in Slovakia. This site is incredibly
+well-done and includes security processes for those wishing to
+offer help. The site itself has a lot of very useful information!
+
+Refugees can request help with:
+accommodation, transport, material, psychological support, legal
+aid and other forms of care (education, child care, legal aid)
+
+<br />
+
+🇺🇦 **[Moldova | Dopomoha](https://dopomoha.md/)**<br />
+The site the Government of Moldova links to
+for free assistance for refugees from Ukraine. The site provides
+categories of help with contact information/ links to assistance.
+For accommodation or things not listed, you're required to submit
+a request form. It's a pretty good site & is organized well - it
+even includes free dental help.
+
+<br />
+
+🇺🇦 **[„UnAcoperiș” "A Roof"](https://unacoperis.ro/en/request-help)**<br />
+A solution for identifying accommodation
+spaces to help refugees who arrive in Romania and need help
+immediately. The platform can register legal and natural persons
+who can provide rooms or buildings for people living in shelters
+provided by the Romanian authorities. A Roof is a platform
+developed by Code for Romania and managed by the CNCCI, National
+Center for Command and Coordination of Interventions and partner
+organizations." 
+
+<br />
+
+🇺🇦 **[Hostelworld | Rooms For Refugees](https://hwhelp.hostelworldgroup.com/hc/en-us/articles/4505830563474-Rooms-4-Refugees-Supporting-those-fleeing-Ukraine)**<br />
+Reached out to our hostel
+partners across Europe to create a directory of hostels that are
+able to provide accommodation for refugees fleeing Ukraine All
+hostels have confirmed that rooms allocated to refugees will not
+be shared with other travelers, so you will have your own space
+and privacy to look after yourselves and your families."
+([Facebook](https://www.facebook.com/Hostelworld/))
+([Twitter](https://twitter.com/hostelworld?lang=en))
+
+<br />
+
+🇺🇦 **[\#HospitalityHelps](https://hospitality-helps.org/english/main)**<br />
+This initiative has one single goal: providing
+temporary hotel accommodation to Ukrainian residents, who are
+forced to leave their homes as a result of the war." Rooms are
+provided free of charge to refugees fleeing the war. You can
+request accommodation on their site, at the above link.
+ * [Free accommodation for up to 5 nights in Hilton hotels for Ukrainians](https://193land.com/hilton-free-roms-for-ukraine): The offer is valid throughout Europe!
+
+<br />
+
+🇺🇦 **[Host4Ukraine](https://www.host4ukraine.com/)** is being promoted by the United Nations High
+Commissioner for Refugees (UNHCR) and is  featured by national and
+international news agencies like MTV Uutiset & Bloomberg.
+(Run by [Churchpool](https://churchpool.com/en/))
+([Facebook](https://facebook.com/host4ukraine))
+([Twitter](https://twitter.com/Host4Ukraine))
+
+<br />
+
+🇺🇦 **[I Can Help](https://icanhelp.host/)**<br />
+"The main goal of our platform is to assist and
+facilitate people in need to find a host and also for the host to
+find those who need solidarity housing." This site is recommended
+by former US President, Barack Obama.<br />
+👉👉The site has a security process for vetting. 👈👈
+
+<br />
+
+🇺🇦 **[Homes for Ukraine](https://homesforukraine.eu/en/home-eng/)**
+is an initiative of non-profit public
+organizations 
+[Barbareum](http://st-barbara-austria.org/uk/),
+[Unlimited Democracy](https://www.unlimiteddemocracy.com/),
+and [TUMA](https://makumira.ac.tz/)
+with the aim of providing free, temporary accommodation within Europe for
+Ukrainians.
+
+<br />
+
+🇺🇦 **[BlaBlaCar](https://bit.ly/blablatransfer)** is a free service that helps to evacuate people to
+safety and bring humanitarian aid on return.
+* [How does it work?](https://support.blablacar.com/hc/uk/articles/360015367779-%D0%AF%D0%BA-%D0%BF%D1%80%D0%B0%D1%86%D1%8E%D1%94-BlaBlaCar-)
+
+<br />
+
+🇺🇦 **[Uber](https://twitter.com/USEmbassyWarsaw/status/1498389932800421894)**
+is offering free rides from the Poland-Ukraine border. ([Flyer](assets/docs/uber-rideshare-code.jpg))<br />
+Update 16 Mar 2022: "We plan to expand our support for refugees in other
+neighboring countries. With hundreds of thousands of people also
+fleeing Ukraine towards Romania and Czechia, we will extend our
+support of free rides to both countries."
+
+<br />
+
+🇺🇦 **<u>Transportation/Accommodation Request From The Border With
+The EU</u>**: [This form](http://docs.google.com/forms/d/e/1FAIpQLSeHuzZ3ppgF5iKOXpFKeikguWn0ykZzLruJKZpiQHx23hnYbw/viewform)
+is for refugees from Ukraine who require
+transport from the EU border with Ukraine (or elsewhere within the
+EU) and/or accommodation. We will coordinate people who are ready
+to help and give them your contact information. Please keep in
+mind that we are not always able to find suitable transportation.
+We advise you to look for alternatives in parallel.
+
+
+###  Facebook Groups: Crowdsourcing Transports & Accommodation
+
+> ⚠️  ⚠️ **Alert**⚠️ ⚠️ <br /><br />
+> While these groups are having good success, vet all
+> offers as well as you can and follow personal safety protocols
+> (such as, keeping your phone batteries charged, documenting the
+> license plates of cars you get into, making sure people know where
+> you are going & with whom - you can also turn on GPS tracking/live
+> location on WhatsApp to share your movements with contacts you
+> choose. Decide with family/friends on a code word or phrase that
+> will tell them you are in danger. Ideally, accept offers of help
+> in a group, not alone. **<u>If you feel that something isn't "right" -
+> leave!).</u>**
+> 
+> ("Vet" = check out or verify.)
+
+* [We Help Ukraine](https://www.wehelpukraine.lt/): Help offers for accommodation, transportation
+and food/water/supplies; you can also submit help requests. They
+also have a Facebook group, 
+[Lietuva padeda Ukrainai/Литва допомагає Україні](https://www.facebook.com/groups/3112002959126318/).
+* [Facebook Group | Accommodation and Transport For Ukrainians](https://www.facebook.com/groups/967002083935140/?ref=share):
+This is an active group with many offers, as well as group
+problem-solving and recommendations. 
+* [Facebook Group | Ukraine Refugee & Animal Transport/ Housing/ Fostering](https://www.facebook.com/groups/530024265058805/)
+* [Facebook Group | Transport - Ukraina](https://www.facebook.com/groups/346476650687589/?ref=share)
+* 🇵🇱 [UA Pomoc: Strona główna](http://uapomoc.pl): This is a grassroots social action
+site for those who want to help and for those who are looking for
+help! We connect people of good heart with those who need help! If
+you came from Ukraine and are looking for a place where you could
+stay with your family, search our database! (Transportation
+offers are also listed.) (Site lang: EN + 🇺🇦 + 🇵🇱)
+* [Google Doc | Drivers Offering Help](https://bit.ly/35vyCFq)
+* [Telegram Channel](https://t.me/vodiivolonterylviv): drivers helping Ukrainians flee the country.
+* [RefugeeBooking.com](https://www.refugebooking.com/): "Free Refugee Accommodation: Refugees from
+  the Ukrainian war can connect with Hosts from neighbouring
+  countries and throughout the world."
+  ([Flyer](assets/docs/refugeebooking-flyer.jpg), lang:EN)
+* [Help & Transport Ukraine PL/UA/Pomoc](https://www.facebook.com/groups/help.pomoc.ukraine/?ref=share)
+  ([Flyer](assets/docs/help-transport-ukraine-flyer.jpg), lang: EN + 🇺🇦 + 🇵🇱)
+* [Transport A Sister / Help Ukraine 2022](https://www.facebook.com/groups/2182253995256054/)
+  ([Flyer](assets/docs/transport-a-sister-flyer.jpg), lang: EN)
