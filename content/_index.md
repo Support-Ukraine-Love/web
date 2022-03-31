@@ -13,7 +13,7 @@ description: "Main page for Support Ukraine"
 ## ⚠️ Update: thorough documentation for Ukranian Refugees ⚠️
 
 [This Google Doc](https://docs.google.com/document/d/1w59p4ar7wwrZCV8c9PeUIJPGFA53jUcFaJhJCCM5Fik/edit)
-is available in English, Ukrainian, and Russian and has
+is available in English, 🇺🇦 Ukrainian, and 🇷🇺 Russian and has
 information for Ukrainian refugees. It is very thorough (81 pages)
 and information on nations that have visa/immigration processes,
 if you are disabled, if you are LGBTQ+, and so on. 
