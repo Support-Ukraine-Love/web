@@ -220,6 +220,8 @@ will be contacted by representatives of the
 within three working days. Data is not
 passed on to third parties. 
 
+<br />
+
 🇺🇦 **[Dopomagai Org | Shelter](https://shelter.dopomagai.org/)**
 
 Free temporary housing in safe cities
@@ -227,8 +229,12 @@ of Ukraine or abroad, provided by caring people. Search among
 thousands of ads, or call the hotline 0 (800) 332 238. (More
 information, from [Kyiv City Gov](https://www.facebook.com/100064898971743/posts/340752394764724/).)
 
+<br />
+
 **🇺🇦[ List of Caritas Ukraine organizations](http://news.ugcc.ua/news/ugkts_nadaie_pritulok_b%D1%96zhentsyam_na_zahod%D1%96_ukraini_spisok_kontakt%D1%96v_95802.html)**
 that are ready to provide shelter in Ukraine. 
+
+<br />
 
 **🇺🇦 [Bolt taxi service](https://kyivguide.com.ua/bolt-taxify-in-kyiv/)**
 provides its fleet for the evacuation of
@@ -247,6 +253,8 @@ mandatory. [Source](https://visitukraine.today/blog/155/bolt-taxi-service-provid
    * +380639584701
    * +380982040707
  * You can also fill in the [form for evacuation](https://docs.google.com/forms/d/e/1FAIpQLSf1GdPcMOWb1ZYEQtjCV_c5zRciPo533yTVt5ZjBgzueZK4FA/viewform).
+
+<br />
 
 **🇺🇦 [UNHCR | UN Refugee Agency](https://www.unhcr.org/)**<br />
 They are providing immigration information and will make referrals for accommodation (ex. to
