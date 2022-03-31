@@ -394,7 +394,7 @@ mind that we are not always able to find suitable transportation.
 We advise you to look for alternatives in parallel.
 
 
-###  Facebook Groups: Crowdsourcing Transports & Accommodation
+####  Facebook Groups: Crowdsourcing Transports & Accommodation
 
 > ⚠️  ⚠️ **Alert**⚠️ ⚠️ <br /><br />
 > While these groups are having good success, vet all
@@ -435,3 +435,108 @@ offers are also listed.) (Site lang: EN + 🇺🇦 + 🇵🇱)
   ([Flyer](assets/docs/help-transport-ukraine-flyer.jpg), lang: EN + 🇺🇦 + 🇵🇱)
 * [Transport A Sister / Help Ukraine 2022](https://www.facebook.com/groups/2182253995256054/)
   ([Flyer](assets/docs/transport-a-sister-flyer.jpg), lang: EN)
+
+#### Plane, Train, & Bus Information
+
+* [Ukrainian Railways](https://www.uz.gov.ua/en/): Updated map on the status functionality of
+Railway Stations in Ukraine.
+  * Their [Telegram channel](http://t.me/UkrzalInfo/1332) shows updates (see their pinned post).
+  * At the volunteer camps in Zakarpattia and Lviv regions volunteer
+    centers, it is possible to receive medical care and food -
+    **<u>including vegetarian meals</u>**.
+  * Ukrainian railways publish the schedule at around 21:00 daily. The
+    schedule shows a number of trains going to Poland, Hungary and the
+    Czech Republic.
+
+[<img src="assets/docs/ukrainian-railway-map.jpg" width="50%" />](assets/docs/ukrainian-railway-map.jpg)<br />
+<small>Click image to open full size. Date of map is 02 Mar
+2022.</small>
+
+* 🇺🇦 The Kyiv City State Administration told [how land public transport](https://www.ukrinform.ua/rubric-kyiv/3429175-u-kmda-rozpovili-ak-pracuvatime-nazemnij-gromadskij-transport.html) will work.
+* 🇪🇺[ Information on free travel options offered by European  transport companies](https://ec.europa.eu/info/strategy/priorities-2019-2024/stronger-europe-world/eu-solidarity-ukraine/eu-assistance-ukraine/information-people-fleeing-war-ukraine_en#information-on-free-travel-options-offered-by-european-transport-companies): 
+ Information for the following countries:
+ Austria, Belgium, Bulgaria, Czechia, Denmark, Finland, France,
+ Germany, Hungary, Italy, Latvia, Lithuania, Luxembourg,
+ Netherlands, Poland, Romania, Slovakia, Slovenia, Spain &
+ Sweden. (Also see: 
+ [EU Transport](https://transport.ec.europa.eu/index_en), 
+ [Twitter](https://twitter.com/transport_eu?lang=en))
+ (Source link lang: EN +
+ 🇺🇦 + 🇷🇺)
+* 🇪🇺 Ukrainian refugees with a Ukrainian passport and a valid
+   visa can request a free ticket from Eurostar staff at Amsterdam
+   Central, Brussels-Midi, Lille Europe or Paris Nord stations
+   going to London.
+   ([Source](https://inews.co.uk/inews-lifestyle/travel/ukraine-refugees-eurostar-free-tickets-london-paris-amsterdam-russia-1493770))
+* 🇨🇿 [Czech Railways](https://www.cd.cz/en/) is offering free passage on its trains to
+  Ukrainian citizens fleeing the war.
+* 🇵🇱 [FlixBus](https://global.flixbus.com/) is providing free rides from Bucharest, in addition
+to Przemyśl and Rzeszów. For more info and ticket requests, go
+[here](https://global.flixbus.com/ukraine-support). (In Ukrainian,
+go [here](http://www.flixbus.ua/pidtrymka-ukrainy)).
+([Source](https://facebook.com/groups/ukraineresourcesinformationandrelief/permalink/324574872973949/))
+* 🇦🇹 Ukrainians fleeing from war can use [unsere
+  oebb](https://www.unsereoebb.at/en/) trains in
+  Austria without a ticket.
+  ([Source](https://twitter.com/lgewessler/status/1497920274053971973?s=20&t=kJQcOXKkKhmNhs5s35Q4DQ))
+* 🇩🇪 Germany: "[Deutsche Bahn](https://www.bahn.de/), is collaborating with railways in
+  Poland to add more carriages to trains for refugees. Refugees
+  with Ukrainian passports or identity cards can use all
+  long-distance trains from Poland to Germany free of charge."
+  ([Source](https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Bahn-erleichtert-Gefluechteten-aus-der-Ukraine-Weiterreise-nach-Deutschland-Sonderzuege-in-Planung-7311236))
+* 🇪🇸 Spain: "[Renfe](https://www.renfe.com/es/en) offers free travel on all its trains to
+  refugees from Ukraine. For the management of all the movements
+  of Ukrainian immigrants, Renfe will organize all its operations
+  in Barcelona, which is configured as a 'hub' or
+  connection center to receive refugees arriving in Spain or for
+  the departure of citizens to France and, subsequently, to other
+  parts of Europe. 
+  <br /><br />
+  Once in Barcelona, the refugees can take any Renfe
+  train and continue their journey. In order to benefit from free
+  Renfe trains, Ukrainian citizens who wish to do so must carry a
+  passport or identity document and present it at Renfe sales
+  points, service centers or station ticket offices.
+  ([Source](https://www.facebook.com/103448042283925/posts/111089664853096/))
+* 🇫🇷 France: [Trains for
+  Ukrainians](https://www.sncf.com/fr/groupe/gratuite-trains-refugies-ukrainiens#ukrainska-mova-41240)
+  information (site lang: 🇺🇦). People fleeing from Ukraine can
+  also use [Thalys](https://www.thalys.com/) trains free of
+  charge (site lang: multi).
+* 🇮🇪 Ireland: To assist those on their journey, [Bus
+  Éireann](http://www.buseireann.ie/?utm_source=galwaygaa) said
+  people arriving into the country having fled the war can travel
+  to their “final destination for free on
+  [Expressway](https://www.expressway.ie/) and Bus
+  Éireann services”.
+  <br /><br />
+  To avail of the offer, the refugees must show the driver their
+  Ukrainian ID, evidence of arrival in Ireland within the previous
+  seven days, such as an airline booking email, or confirmation from
+  a co-ordinating group or charity.
+  <br /><br /> 
+  [Irish Rail](https://www.irishrail.ie/) is helping refugees fleeing the crisis with their rail
+  travel upon arrival into Ireland, for transfer from arrival point
+  to relatives, host families or other facilities within the
+  country.
+  <br /><br /> 
+  [Stena Line](https://www.stenaline.co.uk/) has been providing free travel to Ukrainians across all
+  routes since the beginning of the conflict. They now get free
+  meals onboard too."
+  ([Source](https://www.irishtimes.com/news/ireland/irish-news/some-public-transport-services-available-for-free-for-ukrainian-refugees-1.4825440))
+* [Wizz Air](https://wizzair.com/#/rescue): "The Hungarian budget carrier is to give away seats on
+  flights departing from Ukraine’s border countries Hungary,
+  Romania, Slovakia and Poland.
+  <br /> <br />
+  Special rescue fares of €29.99 (£25) on all short haul flights and
+  $59.99 (£45) on longer haul flights (to the UAE, Canary Islands
+  and Iceland) will also be available for Ukrainians fleeing the
+  war." ([Source](https://www.facebook.com/wizzair/)) (Through March 2022)
+* "[Finnair](https://www.finnair.com/) supports Ukrainians with a 95% discount on net fares
+  for one-way tickets from Warsaw, Krakow, Gdansk, Budapest and
+  Prague to Helsinki, the key routes for those who are leaving
+  Ukraine. The discount is available with code Ukraine95 at
+  Finnair.com through March. Airport taxes and fees will be added
+  to ticket prices."
+  ([Source](https://www.facebook.com/291393512910/posts/10159751133282911/))
+
