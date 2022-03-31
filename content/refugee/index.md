@@ -540,3 +540,139 @@ go [here](http://www.flixbus.ua/pidtrymka-ukrainy)).
   to ticket prices."
   ([Source](https://www.facebook.com/291393512910/posts/10159751133282911/))
 
+
+### Medical & Health
+
+
+* [MoH of Ukraine](https://en.moz.gov.ua/): list of pharmacies where diabetics can get insulin
+  \- continually updated. Call the pharmacy and check the
+  availability of medications before going.
+  <br /><br />
+  Reminder: In a state of war, patients can receive "Affordable
+  Medicines" both electronically and on paper.
+  <br />
+  * How to get a consultation from a family doctor or a prescription
+    for insulin: [Go
+	here](https://tsn.ua/zdorovya/korysni-statti/vazhlivi-zmini-u-medicini-pid-chas-viyni-yak-otrimati-konsultaciyu-simeynogo-likarya-chi-recept-na-insulin-2020681.html)
+  * [List of pharmacies](http://t.me/mozofficial/2247)
+  * [Where to find insulin](http://bit.ly/apteky_insul)
+  * You can contact the MoH hotline at: 0800 60 20 19. The operator
+    will submit your application for processing and insulin will be
+    found either in a pharmacy or delivered by volunteers.
+  * Ukraine Pharmacy Locator
+    [Map](https://www.google.com/maps/d/embed?mid=11ftUM5axVYLzh23VvRRUNBcDZ4stmh1l&ehbc=2E312F&ll=50.54066462166791%2C30.515160743160727&z=6&fbclid=IwAR3AYuntsTaQ9VATEjfpNxlxW5bfWWimu4jLevXwCdpf08uKK6SyiqHu6eg)
+  * Kyiv Pharmacy Locator
+    [Map](https://www.google.com/maps/d/viewer?mid=1dDKrnjMJs3vcFfoE77CVYV-X2tF9jzeZ&ll=50.22666457982802%2C28.946304030713467&z=9)
+* The Ministry of Health published recommendations on home care
+  during martial law. Go
+  [here](https://moz.gov.ua/article/news/pidgotovlenij-%e2%80%93-znachit-zahischenij).
+* Brigham and Women's Hospital made videos showing Ukrainians how
+  to recognize and react to life-threatening bleeding. [Stop The
+  Bleed](https://m.youtube.com/watch?v=epCU2EiDXsc&feature=youtu.be) is in Ukrainian.
+
+* The doctors of the DSNS advise how to perform first aid in [this
+video](https://fb.watch/bTzooJ-EHl/).
+* Information from the [Ukrainian Red
+  Cross](https://redcross.org.ua/en/): First Aid for
+  [hypothermia &
+  frostbite](https://www.facebook.com/101653595808533/posts/110675678239658/)
+  and for
+  [stroke](https://www.facebook.com/101653595808533/posts/111863054787587/).
+* [Tactical Combat Casualty
+  Care](https://www.gsmsg.org/ukrainiantccc), which the American military uses,
+  translated into Ukrainian.
+* [Casualty Evacuation
+  Manual](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN32888-ATP_4-02.13-000-WEB-1.pdf),
+  Also see
+  [here](https://twitter.com/SpencerGuard/status/1502663284247326721), for a short thread with
+  instructions/graphics on making homemade "litters" - devices to
+  carry the wounded.
+* "The [National Health Service of
+  Ukraine](https://en.moz.gov.ua/search?tag=NHS+of+Ukraine) has [clarified where to
+  observe pregnant women and receive medical
+  care](https://www.ukrinform.ua/rubric-society/3434677-nacsluzba-zdorova-dala-rozasnenna-sodo-dopomogi-vagitnim-pid-cas-vijni.html) during martial
+  law." It concerns free services and locating care centers. 
+  * National Health Insurance Fund Contact Center: 16-77
+  * During martial law, doctors will meet/receive patients without a
+    referral.
+  * [Video](https://fb.watch/bSsfvWI8X1/) with more information. 
+
+
+**<u>Humanitarian Aid / First Aid Guide</u>**
+
+This is an excellent resource to use in case of emergency, when
+medical personnel are unavailable or cannot immediately respond:
+* [Ukraine Humanitarian Aid: Medical Quick
+  Guide.](https://docs.google.com/document/d/1-li6T8KwFSB3zSEG_hP4ffa5yR1zS15t7MwJmYPKSPs/edit?usp=drivesdk)
+  (lang: EN)
+* [Guide in
+  Ukrainian](https://docs-google-com.translate.goog/document/d/1-li6T8KwFSB3zSEG_hP4ffa5yR1zS15t7MwJmYPKSPs/mobilebasic?_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=en)
+* [Guide in
+  Russian](https://docs-google-com.translate.goog/document/d/1-li6T8KwFSB3zSEG_hP4ffa5yR1zS15t7MwJmYPKSPs/mobilebasic?_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=en)
+
+
+While it is not meant to take the place of medical care, it offers
+clear guidance for quick actions to take in response to injury or
+illness. It provides information and care guidance for the
+following: 
+
+* Gunshot Wounds:<br />
+  Arterial Bleeding, Entrance and Exit Wounds & Tourniquet
+* Application
+* Explosion and Burn Wounds, Wounds caused by Explosions &
+  Recognizing and Treating different degree burns
+* Major cuts and wounds
+* Airway & Respiration
+* Spinal & Neck injury
+* How to recognize a shock & How to treat shock
+* Treating hypothermia
+* Dehydration // Recognizing dehydration
+* Eye injury
+* Fractures
+* Minor cuts and wounds; How to avoid wound infection & How to treat
+  a wound infection
+* Taking vitals & documenting
+* Improvised Devices
+
+**<u>How to Apply a Tourniquet</u>**
+
+[<img src="assets/docs/how-to-apply-tourniquet.jpg" width="25%" />](assets/docs/how-to-apply-tourniquet.jpg)<br />
+<small>Click image for full size</small>
+
+####  Doctors, Midwives, & Clinics
+
+* [Samaritan's Purse](https://www.samaritanspurse.org/our-ministry/ukraine-response/)
+  medical clinic is open at the train station in
+  Lviv to help Ukrainians in need of care.
+* [Doctors For Ukrainians In Poland](https://www.znanylekarz.pl/dla-ukrainy)
+  Doctors for Ukraine: listings of doctors who provide advice in Ukrainian or Russian. (Telemedicine)
+* [Lekarze dla Ukrainy](https://lekarzedlaukrainy.pl/en?) (Doctors for Ukraine) and available in
+  Ukrainian, Polish and English, allows Ukrainian refugees to search
+  for medical specialists across Poland and for Polish doctors to
+  list their free services."
+  [Source](https://www.thefirstnews.com/article/krakow-student-creates-website-to-connect-ukrainian-refugees-with-doctors-giving-free-consultations-and-advice-28816)
+* ‘How to get medical care online or by phone. [List of  doctors](https://life.pravda.com.ua/health/2022/02/28/247586) who
+  are ready to help' (This is in Ukrainian and is continually
+  updated.)
+* Lviv, [Mini-Clinic](https://facebook.com/minipoliklinika) offering consultations via the telephone: +380 67 327 9020
+* "Support for pregnant women throughout Ukraine. You can find
+  midwives [here](https://t.me/bezpekavagitnihua)."
+  ([Source](https://euneighbourseast.eu/uk/news-and-stories/latest-news/pidtrymka-zhinok-i-divchat-shho-postrazhdaly-vid-vijny-yaka-dopomoga-dostupna-v-ukrayini/)
+* Pediatricians offering online
+  [consultations](https://pediatrplus.com.ua/) in Ukraine. 
+* Free medical consultations from 
+  [Dobrobut
+  doctors](https://www.dobrobut.com/med/c-bezoplatni-konsultacii-likariv-dobrobut-telefonom-ta-onlajn?fbclid=IwAR1EkAknIOtRlpQs4FHrnQFE-mCz1BRa5zZjXpnIIFzIDRiNr7L_eCfCdUw)
+  by phone and online.
+
+
+#### Medical Help Bots
+
+* You can use [MedhelpUkrainebot](https://t.me/MedhelpUkrainebot) if you are in need of medical
+  attention. 
+* The [MedHelp_UA_bot](https://lp.chatforma.com/landing/2394) is a chatbot for Telegram or Viber, created by
+  doctors and pharmacists, in order to provide medical care and help
+  finding medication or transportation for medical care.
+* The [Doc2rbot](https://t.me/Doc2rbot) helps you locate a doctor.
+
+
