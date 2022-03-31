@@ -20,6 +20,20 @@ development and production. ⚠️ Do not change this.
 
 # Making Changes
 
+## Refugee Information
+
+To keep our efforts in sync, the sole source of truth for the
+refugee page is [this Google
+doc](https://docs.google.com/document/d/1w59p4ar7wwrZCV8c9PeUIJPGFA53jUcFaJhJCCM5Fik/edit#).
+
+Changes are managed by doing an export of the Google Doc to HTML,
+then making the edits on the `content/refugee/index.md` file.
+
+All to the source material, including typos, updated URLs, etc.
+should be done on the Google doc. The doc is being maintained by
+several, experienced, disaster responders. (See more info on this
+at the bottom of the Google doc.)
+
 ## Site To-Know
 
 This code of the site is being managed here on Github. The
