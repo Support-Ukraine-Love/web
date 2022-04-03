@@ -34,6 +34,7 @@ Note: where relevant there are language indicators between English
 
 **[Danger Zones](https://www.google.com/maps/d/u/0/viewer?ll=50.37243250000009%2C30.460808699999994&mid=14PnyHN3WPgBZgpJ3q0BOMswKge1hv1au&shorturl=1&z=11): Interactive, live update map of target areas, by [Liveuamap](https://liveuamap.com/).**
 
+---
 
 ## Ukrainian Official Agencies
 
@@ -92,6 +93,7 @@ Note: where relevant there are language indicators between English
 
 [Ukraine Embassies & Consulates](https://www.embassy-worldwide.com/country/ukraine/) (Search tool)
 
+---
 
 ## Safety & Security
 
@@ -195,6 +197,8 @@ The ICRC & UNHCR Advise:
 * [How to make water drinkable](https://www.fema.gov/press-release/20210318/fact-sheet-how-make-your-water-safe-drink). 
 
 <img src="assets/images/image4.jpg" width="50%">
+
+---
 
 ## Housing & Transportation 
 
@@ -316,6 +320,8 @@ The ICRC & UNHCR Advise:
     * [Irish Rail](https://www.irishrail.ie/) is helping refugees fleeing the crisis with their rail travel upon arrival into Ireland, for transfer from arrival point to relatives, host families or other facilities within the country.
     * [Stena Line](https://www.stenaline.co.uk/) has been providing free travel to Ukrainians across all routes since the beginning of the conflict. They now get free meals onboard too." [Source](https://www.irishtimes.com/news/ireland/irish-news/some-public-transport-services-available-for-free-for-ukrainian-refugees-1.4825440)
 
+---
+
 ## Medical/Health
 
 * [COVID-19 Vaccinations](https://kyivcity.gov.ua/news/u_stolitsi_pratsyuyut_73_punkti_vaktsinatsi_vid_COVID-19_adresi_telefoni/) are available at 73 locations in Kyiv. You can find addresses & telephone numbers at the above link.
@@ -373,6 +379,8 @@ The ICRC & UNHCR Advise:
 * The [MedHelp_UA_bot](https://lp.chatforma.com/landing/2394) is a chatbot for Telegram or Viber, created by doctors and pharmacists, in order to provide medical care and help finding medication or transportation for medical care.
 * The [Doc2rbot](https://t.me/Doc2rbot) helps you locate a doctor.
 
+---
+
 ## Emergency Hotlines
 
 * [List of Emergency Telephone Numbers](https://en.wikipedia.org/wiki/List_of_emergency_telephone_numbers) — Emergency services contact numbers, by country.
@@ -398,42 +406,21 @@ The ICRC & UNHCR Advise:
     * "If you or someone you know if suicidal, call one of the numbers below. If someone is in IMMEDIATE danger, please call your local emergency number e.g. 911 in the US or 112 in the EU."
 * [International Directory | Find A Helpline](https://findahelpline.com/i/iasp): "Struggling? Get free, confidential support from a real human over phone, text or web chat — free emotional support, wherever you are."
 
+---
+
 ## Searching For Missing Loved Ones
 
-
-
 * If you lose contact with your loved ones, you can contact the [Red Cross Search Service of Ukraine](https://redcross.org.ua/en/tracing-service/) at the following numbers:
-
-    ▫️Kiev – 096 304 4375, 066 250 9957
-
-
-    ▫️Lviv – 095 250 1274
-
-
-    ▫️Kharkiv – 099 206 5493
-
-
-    ▫️Dnipro – 095 250 1181
-
-
-    ▫️Kramatorsk – 095 250 1229
-
+    * Kiev – 096 304 4375, 066 250 9957
+    * Lviv – 095 250 1274
+    * Kharkiv – 099 206 5493
+    * Dnipro – 095 250 1181
+    * Kramatorsk – 095 250 1229
 * A [chatbot](https://t.co/BisaO8i8Cs) has been launched in the _Kyiv region_ to search for missing people.
 
+<img src="assets/images/image16.jpg" width="50%" />
 
-
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image13.jpg "image_tooltip")
-
-
-
-
-* "There are close to two million people displaced in Ukraine, countless families have been separated from their loved ones by the conflict. At the request of the IT Army of Ukraine we built [DeTy.org](https://dety.org/), a website to make it easy for families to find their missing loved ones**."**
-
-    How it works:
-
+* "There are close to two million people displaced in Ukraine, countless families have been separated from their loved ones by the conflict. At the request of the IT Army of Ukraine we built [DeTy.org](https://dety.org/), a website to make it easy for families to find their missing loved ones."<br />How it works:
     * Create a profile for yourself — in case someone is trying to locate you.
     * Search for profiles by exact name match. 
     * If there is no match, you can create a message for the person you're searching for in case they check the site.
@@ -445,17 +432,11 @@ The ICRC & UNHCR Advise:
 * [Nadiia_Kharkiv_bot](https://t.me/Nadiia_Kharkiv_bot): You can use this bot to request help in _Kharkiv_, if you're looking for a loved one.
 * Search for missing persons:** "**This [form](https://docs.google.com/forms/d/e/1FAIpQLSc1npbE_UAgOJnIpxq9ZbK1bbBMpJOGjOgS0QAYRBKJ10CKRw/viewform) is for collecting data about people with whom you have no [contact]. The information will be available to law enforcement agencies, volunteers and the Donetsk Regional Military Administration."
 * "[Ukraine Zone](https://ukrainezone.org/) is a British team looking to reunite displaced Ukrainians back with loved ones during the present conflict with Russia. 
-
-    This service is free and available on smartphones or any browser, should local services be unreliable, screened or politically restricted."
-
-
+    * This service is free and available on smartphones or any browser, should local services be unreliable, screened or politically restricted."
 
 ---
 
-
-# **8. Food, Water, Supplies & Financial Support **
-
-
+## Food, Water, Supplies & Financial Support
 
 * The [Ukraine Cabinet of Ministers](https://www.kmu.gov.ua/en) has approved:
     * Reimbursement of about UAH 450/month for each person housed by Ukrainians who sheltered IDPs free of charge, to reimburse utility;
@@ -468,65 +449,31 @@ The ICRC & UNHCR Advise:
     * Available 24/7
 * [saveua_bot](https://t.me/saveua_bot): "This bot will allow you to find or provide assistance in different regions of Ukraine: transport, food, medicine, etc." This bot also requires that you verify your identity for security reasons. 
 * [turbotnyk_bot](https://t.me/turbotnyk_bot) is a chatbot Caregiver which helps Ukrainian migrants 24/7 to get a temporary home and necessary things (mattresses, bedding, baby or hygiene items) in the [CNAPs](https://koda.gov.ua/en/interactive-map-of-cnaps/), which work as points of care." 
-    * The coordinators can be reached 24/7 at these numbers: +380501010454
-
-        +380993121127
-
+    * The coordinators can be reached 24/7 at these numbers:<br />+380501010454<br />+380993121127
 * [Foraging/Regrowing Food](https://t.co/cIZd0iu9ML) - [Source](https://twitter.com/StephenKolanko1/status/1497749264776278016?t=oeHKvcijRpLdgaL7ytdN6w&s=19)
 * [Five Ways To Purify Water Without A Filter](https://www.primalsurvivor.net/ways-to-purify-water-survival/) — [Source](https://twitter.com/StephenKolanko1/status/1501771824128008193?t=epxspR8ec09ELBHfmy3J_A&s=19)
 
-
 ---
 
+## Disabilities & Vulnerable Persons (Pensioners)
 
-# **_9. Disabilities & Vulnerable Persons (Pensioners)_**
-
-
-<table>
-  <tr>
-   <td>
-<ul>
-
-<li>"<a href="https://www.ukrposhta.ua/en">Ukrposhta</a> explains how to <a href="https://t.co/K5Z8z4oIQT">receive pensions and cash benefits</a> during the war."
-    "If you are in your permanent residence,  please expect your payment at home or go to the nearest office where it's safe, if you changed place of residence during the war. Call the Contact Center of the UKRPost at phone number 0800 300 545 (button 2) OR to the Pension Fund of Ukraine in your region or provide information through the electronic cabinet." 
-</li>
-</ul>
-   </td>
-   <td>
-
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image14.jpg" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-  </tr>
-</table>
-
-
-
-
+* [Ukrposhta](https://www.ukrposhta.ua/en) explains how to <a href="https://t.co/K5Z8z4oIQT">receive pensions and cash benefits</a> during the war."
+    "If you are in your permanent residence,  please expect your payment at home or go to the nearest office where it's safe, if you changed place of residence during the war. Call the Contact Center of the UKRPost at phone number 0800 300 545 (button 2) OR to the Pension Fund of Ukraine in your region or provide information through the electronic cabinet." <br /><img src="assets/images/image19.jpg" width="50%" />
 * In Ukraine and NEED HELP? [SafeBow](https://safebow.org/) works directly with families and individuals to evacuate from Ukraine, prioritizing at-risk populations, including children, LGBT, BiPOC, elderly, and disabled individuals. Reach out [here](https://docs.google.com/forms/d/e/1FAIpQLSdxx_OJEDpbms9XKcnjyT4f_PmDd4_VMQXxbLSpJQCe5hsBeA/viewform?fbzx=4602178245592464764).
 * The Ukrainian Government has [simplified border crossings](https://t.co/vLztsgMRC0) for certain categories of people with disabilities and accompanying persons.
 * [NoWar.help | Support for Sick, Disabled and Deaf People](https://www.nowar.help/en/disability): Information about organizations offering help in Ukraine, Germany and Slovakia. Many of those listed support deaf individuals.
 * [Fight for Right](https://ffr.org.ua/) is supporting people with disabilities to evacuate from Ukraine. You can call their emergency hotline if you're needing immediate assistance: +380978831508; [office.ffr@org.ua](mailto:office.ffr@org.ua) / You can find more information here: [The Partnership For Inclusive Disaster Strategies](https://disasterstrategies.org/ukraine-crisis/) or here: [CrowdSource Rescue](https://twitter.com/cs_rescue/status/1507599855635640323?t=NjOY_CK1aLWzfe_kiYfUOQ&s=19).
 * [Off-The-Grid Missions](https://www.offthegridmissions.org/ukraine/): "We are coordinating with our network of NGOs to provide access to important information for deaf people in need in Ukraine." They have a lot of great information on their site. Kyiv map of [shelter locations](https://www.google.com/maps/d/u/0/viewer?ll=50.37243250000009%2C30.460808699999994&mid=14PnyHN3WPgBZgpJ3q0BOMswKge1hv1au&shorturl=1&z=11).
 * [Migrant Offshore Aid Station (MOAS)](https://www.moas.eu/)
-
-    Contact: [info@moas.eu](mailto:info@moas.eu): Avery, helping coordinate evacuations for people with disabilities. WhatsApp contact: +1 (951) 751-3978
-
+   * Contact: [info@moas.eu](mailto:info@moas.eu): Avery, helping coordinate evacuations for people with disabilities. WhatsApp contact: +1 (951) 751-3978
 * [Quick Help for People in Need of Care](https://www.health-h.de/en/post/quick-help-for-ukrainian-people-in-need-of-care?fbclid=IwAR0b8jKSnss3JLartJokEdt6eApHHDMe2TGzpo5v1i0Ao8Qm9KPyQPqzAl4): "Under the hashtag **#_health4ukraine_**, a private group from Germany is now organizing special transports of mobility-impaired people, people in need of care and their relatives to safe areas, as well as the referral of affected persons from the war zone to care facilities throughout all over Germany." 
 * [AE member organisations supporting autistic people in Ukraine](https://www.autismeurope.org/ae-member-organisations-supporting-autistic-people-in-ukraine/): "In this page you will find the actions and support that AE member organisations are providing to _autistic_ refugees from Ukraine."
 * "This [Facebook group](https://www.facebook.com/groups/667774194546768/) is being used to help centralize information regarding existing channels of support for Ukrainian refugees and any kind of available support for _autistic_ people in Ukraine." [Source](https://www.autismeurope.org/what-we-do/areas-of-action/support-for-autistic-people-in-ukraine/)
     * Also see: [International Autism Organizations](https://www.autismspeaks.org/international-autism-organizations) for more resources listed by country. 
 
-
 ---
 
-
-# **10. Women & Children_ _**
-
-
+## Women & Children
 
 * "What should parents expect from their children while in the shelter? How should they support them?
 
@@ -563,13 +510,9 @@ The ICRC & UNHCR Advise:
 
 * Free children's [audiobooks](https://abuk.com.ua/catalog/compilation/29?fbclid=IwAR1lzWu3ezPkvP5p4uMuwst-TA0XBe6TSgu0H0NEnEW9zJ6ys3CrCBIk4Uo).
 
-
 ---
 
-
-# **11. LGBTQ+ Community **
-
-
+## LGBTQ+ Community
 
 * "[Insight.org](https://t.co/wjKTmc00nm) is organizing temporary stays of people from the LGBTQ+ community and their families in other cities/countries, helping with accommodation and basic necessities, coordinating with organizations and other people on the ground, while providing free psychological assistance." (They also provide legal help.) [Source](https://t.co/NhXBIL22yB)
     * Request psychologist help [here](https://docs.google.com/forms/d/e/1FAIpQLSctFBXMK3J34F2oDW4ofszZiALb3Cwwkn58PLGTQiCPKfS9XQ/closedform).
@@ -578,13 +521,9 @@ The ICRC & UNHCR Advise:
 * Immigration: [Support for BIPOC & LGBTQ+ Communities](https://www.nowar.help/en/bipoc) from NoWar.help.
 * In Ukraine and NEED HELP? [SafeBow](https://safebow.org/) works directly with families and individuals to evacuate from Ukraine, prioritizing at risk populations, including children, LGBT, BiPOC, elderly, and disabled individuals. Reach out [here](https://docs.google.com/forms/d/e/1FAIpQLSdxx_OJEDpbms9XKcnjyT4f_PmDd4_VMQXxbLSpJQCe5hsBeA/viewform?fbzx=4602178245592464764).
 
-
 ---
 
-
-# **12. BiPOC Community**
-
-
+## BiPOC Community
 
 * Emergency hotline for African, Asian and other students wishing to leave Ukraine may call this hotline for assistance: +38 093 418 5684.
 * Immigration: [Support for BIPOC & LGBTQ+ Communities](https://www.nowar.help/en/bipoc) from NoWar.help.
@@ -603,14 +542,9 @@ The ICRC & UNHCR Advise:
 
         Please contact us if you require immigration assistance or would want to learn more about the different options for continuing your education."
 
-
-
 ---
 
-
-# **13. Artists, Writers, Scientists, Scholars & Students**
-
-
+## Artists, Writers, Scientists, Scholars & Students
 
 * Displaced students can study online at other universities. 
 
@@ -643,26 +577,15 @@ The ICRC & UNHCR Advise:
 * From [House of Europe](https://houseofeurope.org.ua/en): "European institutions and programs offer a number of [opportunities to support](https://www.facebook.com/108793443805527/posts/708651113819754/) Ukrainian students and educators."
 * Another great list from 'House of Europe' detailing [opportunities in the culture and creative industries sector](https://www.facebook.com/108793443805527/posts/707885870562945/).
 
-
 ---
 
-
-# **14. Animals**
-
-
+## Animals
 
 * Tips for [evacuating with animals](https://www.facebook.com/917592118296008/posts/4755422114512970/).
 * Take a picture of you _with_ your pets - take pictures of any unique identifying marks/bodily features they may have, as well (one of my cats has one tan toe on each front paw, for example ~ Jenn). Email your photos to yourself, in case your phone is lost.
 * The [European Association of Zoos and Aquaria](https://www.eaza.net/) has set up a donation system that will send funds to the [Nikolaev Zoo](http://zoo.nikolaev.ua/en) and the zoos in [Kharkiv](https://zoo.kharkov.ua/) and [Kyiv](https://zoo.kiev.ua/en/homepage/). You can find donation information **[here](https://www.eaza.net/emergency-appeal-for-ukrainian-zoos/)**. 🦒
 
-
-### **
-
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "~Companion Animals"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[~Companion Animals](#heading=h.jb9biiwc211e)**
-
-
+### Companion Animals
 
 * 🇺🇦 "In _Kyiv_, the Zoopatrol (an organization that takes care of homeless or lost pets) volunteers are helping to save pets that were left alone in apartments. People can fill out a form indicating the area of the city where the pet is, how long they’ve been alone, whether they need a new shelter, and so on. If an owner agrees, volunteers can make a hole in the wall of an apartment, so that the animal can get out to eat and drink." Go [here](https://t.co/4E0w9SEeyA).
     * Tel: +380635735663
@@ -687,17 +610,7 @@ The ICRC & UNHCR Advise:
     _Rescues in need of emergency help can email requests to: _[support@breakingthechains.co.uk](mailto:support@breakingthechains.co.uk)
 
 * [Paw Squad](https://www.pawsquad.com/): "We've made our services FREE for anyone in need in Ukraine, w/ access to our _24 hour vets via video, audio or live text chat_. We are here for urgent medical advice & first aid support." Go [here](https://t.co/aOy7ITWJFs).
-
-
-
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image15.jpg "image_tooltip")
-
-
-
-
+* <img src="assets/images/image3.jpg" width="50%" />
 * Facebook Group: [Help To Ukrainian Dog Owners/Breeders - Temp Home & Care For Pets](https://www.facebook.com/groups/274662958080088/?ref=share): Lots of temporary rehoming offers and accommodation availability, as well as information on animal-related help.
 * 🇺🇦 [UAnimals](https://www.facebook.com/UAnimals.official/) is helping to rescue animals, provides both funding and pet food to shelters and holds pet food giveaways around _Kyiv_. They post helpful tips, advice and other animal-related updates to their Facebook page. 
 * 🇺🇦 [Ukraine Small Animal Veterinary Association](https://wsava.org/associations/usava/)
@@ -729,13 +642,7 @@ The ICRC & UNHCR Advise:
     * Rosslare Europort [europort@agriculture.gov.ie](mailto:europort@agriculture.gov.ie)
 
 
-### **_
-
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "~Horses"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[~Horses](#heading=h.7cehrv3t55dj)_**
-
-
+### Horses
 
 * [Fleet of Angels | Fund For Ukraine Horses](https://www.fundforukrainehorses.com/) Horse owners can now apply: "Grant recipients may use the funds to provide feed for horses that are in Ukraine and cannot yet be evacuated.  Some horse owners who have successfully evacuated to a NATO country may also qualify for funding assistance with feed or quarantine expenses, depending on the circumstances."​ To apply, complete the form at the above link. 
 * 🇷🇴 "[Equiwent](https://www.equiwent.org/) supports and protect horses and humans; refugees. We have our own Horse-Clinic in _East-Romania_/at the Border to Ukraine where we have non-profit (free) vets and farriers for poor horses in east Europe. The name of the Border crossing to Ukraine is: _SIRET_. 
@@ -750,23 +657,15 @@ The ICRC & UNHCR Advise:
     * Request help via [this form](https://helpukrainehorses.eu/en/ask-for-help/?amp=1) — let them know of your situation and how they can assist! You can request help with: shelter and stabling, goods, or advice.
     * ([Facebook](https://www.facebook.com/helpuahorses))([Twitter](https://mobile.twitter.com/helpuahorses))
 
-
 ---
 
-
-# **15. Mental Health**
-
-
+## Mental Health
 
 * Ministry 0f Health Ukraine: ['How to deal with stress during the war'](https://moz.gov.ua/article/health/jak-vporatisja-zi-stresom-pid-chas-vijni-): "Russia's aggression & hostilities on the territory of Ukraine have been going on for a month. Under such conditions, we can feel stress & deep feelings, fear, anxiety, both for ourselves and for loved ones. To safely adapt to modern realities, minimize the effects of stress, we offer you simple steps [see link]."                                 
 
     _"Remember that it is normal to feel anxiety, worry and fear at a time when there is fighting around you and the country is at war with the aggressor._ _This is an acceptable reaction of your psyche and body to the situation."_
 
-
-
-## **~Providers/Agencies  **
-
-
+### Providers/Agencies
 
 * Psychological Assistance:
 
@@ -784,26 +683,12 @@ The ICRC & UNHCR Advise:
 * "[Psychological support of Ukrainians during the war](https://t.me/PsihologDopomogaWarInUa2022) from psychotherapists-practitioners." [Source](https://euneighbourseast.eu/uk/news-and-stories/latest-news/pidtrymka-zhinok-i-divchat-shho-postrazhdaly-vid-vijny-yaka-dopomoga-dostupna-v-ukrayini/)
 * "The online platform ["Tell Me"](https://tellme.com.ua/) is providing free psychological assistance to Ukrainians around the clock. If you feel anxious, have panic attacks, are close to depression or even on the verge - leave a request and wait. The specialist will contact you as soon as possible."
 
-
-## **~Hotlines & Support Groups**
-
-
+### Hotlines & Support Groups
 
 * [Lifeline Ukraine National Line on Suicide Prevention and Mental Health Prevention](https://lifelineukraine.com/en) - 7333.
 * The [Ukrainian Red Cross](https://redcross.org.ua/en/) are doing their best to provide psychosocial support. Their hotline is 0 800 331 800.
-
-
-
-<p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image16.jpg "image_tooltip")
-
-
-
-
+* <img src="assets/images/image21.jpg" width="50%" />
 * "Intervention Phone Offering Psychological Support: +48 669 981 038
-
     Call if: 
 
     * You had to suddenly leave Ukraine for _Poland;_
@@ -850,11 +735,7 @@ The ICRC & UNHCR Advise:
 
     To get a consultation, you only need to [download the application](https://ekimo.page.link/6yEU): IOS or Android; or call the hotline at +380443440512. The chosen doctor will contact the patient at the appointed time."
 
-
-
-## **~Field Guides/Information/Apps**
-
-
+### Field Guides/Information/Apps
 
 * "Stress relief [in the bomb shelter](https://hey.mindist.io/meditation?meditationId=irdOPptMRuE4FvX3atFY) , 12 min audio — Gleb Khodorkovsky."
 * [Psychological First Aid for Displaced Children and Families (NCTSN)](https://www.nctsn.org/resources/pfa-for-displaced-children-and-families).
