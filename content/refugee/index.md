@@ -1396,10 +1396,7 @@ Humanitarian Casework Assistance from [CA Senator Padilla's Office](https://www.
 
 ---
 
-
-# **20. Translators & Communication**
-
-
+## Translators & Communication
 
 * "Please reach out to [Respond Crisis Translation](https://respondcrisistranslation.org/) for translations. There is a large Russian & Ukrainian language team who will help." ([Facebook](https://www.facebook.com/about/crisisresponse/))([Twitter](https://twitter.com/respondcrisis))
 * [Translators Without Borders ](https://translatorswithoutborders.org/) 'Ukraine Conflict Appeal' button at the top of their home page: "Translators without Borders is a global community of over 80,000 members helping people get vital information and be heard, whatever language they speak." ([Facebook](https://www.facebook.com/translatorswithoutborders/)) ([Twitter](https://twitter.com/translatorswb?lang=en))
@@ -1407,83 +1404,28 @@ Humanitarian Casework Assistance from [CA Senator Padilla's Office](https://www.
 * [Google Translate App](https://translate.google.com/intl/en/about/): "Continuously translate speech in near real-time, allowing you to talk with someone who speaks a different language." "Speak, snap [pictures of signs or scan images of documents], write or type." 
 * To translate a website or google doc into another language, you can copy/paste the link [here](http://itools.com/tool/google-translate-web-page-translator), and choose which language you'd prefer. [Google Chrome](https://www.google.com/chrome/downloads/) is another option. 
 
-<table>
-  <tr>
-   <td>
-
-
-<p id="gdcalert26" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image23.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert27">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image23.jpg" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-   <td>
-
-<p id="gdcalert27" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image24.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert28">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image24.jpg" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-  </tr>
-</table>
-
-
-
+| ![](assets/images/image23.jpg) | ![](assets/images/image26.jpg) |
+|-------|-------|
 
 * [Symbol set and resources for Augmentative and Alternative Communicación (AAC)](https://arasaac.org/?fbclid=IwAR3uEDFuw1-sc5Nwv6XB8ipa46Xbn4TQ7eMQikKw5yqOBRjnVjxoCy8z2X8): "Bilingual communication boards with pictograms and text in Ukrainian: medical emergencies and treatments, clothing, daily needs."
+* Picture boards can be used for communicating with refugees from Ukraine who only speak Ukrainian or Russian; translated into many languages. 
+    * 🇬🇧 [Angielski/English](https://drive.google.com/drive/u/0/folders/1Gx-zRkCKRnf6v1ikDDkwoHoGTzQ_yF3Z)
+    * 🇨🇿 [Czeski/Czech](https://drive.google.com/drive/u/0/folders/16X-4woG4nSu1M_G8c09bq72d60_cwMGT)
+    * 🇩🇰 [Duński/Danish](https://drive.google.com/drive/u/0/folders/1XreIrxnMdbTbL_1OeCCmgCS9Rezqz6BS) 
+    * 🇫🇷 [Francuski/French](https://drive.google.com/drive/u/0/folders/1Za_3h57gq6V71RCLzZHNitNRoC9pXwvr) 
+    * 🇳🇱 [Holenderski/Dutch](https://drive.google.com/drive/u/0/folders/1XRIXNHSuAf7u77kDTNWwl7cTkD8Gv1hQ)
+    * 🇩🇪 [Niemiecki/German](https://drive.google.com/drive/u/0/folders/1fUXOeKyGIcFi0zYLdpXV2L-CLu3eUgGd)
+    * 🇳🇴 [Norweski/Norwegian](https://drive.google.com/drive/u/0/folders/1g3lRtNnVEKH8rKUcoX0B_JjMXTElUOrq)
+    * 🇵🇱 [Polski/Polish](https://drive.google.com/drive/u/0/folders/1DAD4I1xuYYuG84c6LmXdZm8ko42RNJdE)
+    * 🇵🇹 [Portugalski/Portuguese](https://drive.google.com/drive/u/0/folders/1k7DCs8MN5SR-d8Marb1a2oUx74wJXr6p)
+    * 🇷🇺 [Rosyjski/Russian](https://drive.google.com/drive/u/0/folders/1ilaz3ZEuqpK5GFCaINPofM1KARZkBtW2)
+    * 🇷🇴 [Rumuński/Romanian](https://drive.google.com/drive/u/0/folders/1nERU5r0OWCpgUWmfy7mZAPspOS96INok)
+    * 🇷🇸 [Serbski/Serbian](https://drive.google.com/drive/u/0/folders/1JrmltrQJBXJlbEuPiYHoT9rVuj4chrxd)
+    * 🇸🇰 [Słowacki/Slovak](https://drive.google.com/drive/u/0/folders/18xK8GoQOineLOF2JnXGvmAy3ALrkF97v) 
+    * 🇭🇺 [Węgierski/Hungarian](https://drive.google.com/drive/u/0/folders/1CNWV2Jab5hlabYMcCT38ZtY5UAekrvAj)
+    * 🇮🇹 [Włoski/Italiano](https://drive.google.com/drive/u/0/folders/1BDn4_QITFtQowMU54-fhLiVdGHPaS840)
 
-    Picture boards can be used for communicating with refugees from Ukraine who only speak Ukrainian or Russian; translated into many languages. 
-
-
-        🇬🇧 [Angielski/English](https://drive.google.com/drive/u/0/folders/1Gx-zRkCKRnf6v1ikDDkwoHoGTzQ_yF3Z)
-
-
-        🇨🇿 [Czeski/Czech](https://drive.google.com/drive/u/0/folders/16X-4woG4nSu1M_G8c09bq72d60_cwMGT)
-
-
-        🇩🇰 [Duński/Danish](https://drive.google.com/drive/u/0/folders/1XreIrxnMdbTbL_1OeCCmgCS9Rezqz6BS) 
-
-
-        🇫🇷 [Francuski/French](https://drive.google.com/drive/u/0/folders/1Za_3h57gq6V71RCLzZHNitNRoC9pXwvr) 
-
-
-        🇳🇱 [Holenderski/Dutch](https://drive.google.com/drive/u/0/folders/1XRIXNHSuAf7u77kDTNWwl7cTkD8Gv1hQ)
-
-
-        🇩🇪 [Niemiecki/German](https://drive.google.com/drive/u/0/folders/1fUXOeKyGIcFi0zYLdpXV2L-CLu3eUgGd)
-
-
-        🇳🇴 [Norweski/Norwegian](https://drive.google.com/drive/u/0/folders/1g3lRtNnVEKH8rKUcoX0B_JjMXTElUOrq)
-
-
-        🇵🇱 [Polski/Polish](https://drive.google.com/drive/u/0/folders/1DAD4I1xuYYuG84c6LmXdZm8ko42RNJdE)
-
-
-        🇵🇹 [Portugalski/Portuguese](https://drive.google.com/drive/u/0/folders/1k7DCs8MN5SR-d8Marb1a2oUx74wJXr6p)
-
-
-        🇷🇺 [Rosyjski/Russian](https://drive.google.com/drive/u/0/folders/1ilaz3ZEuqpK5GFCaINPofM1KARZkBtW2)
-
-
-        🇷🇴 [Rumuński/Romanian](https://drive.google.com/drive/u/0/folders/1nERU5r0OWCpgUWmfy7mZAPspOS96INok)
-
-
-        🇷🇸 [Serbski/Serbian](https://drive.google.com/drive/u/0/folders/1JrmltrQJBXJlbEuPiYHoT9rVuj4chrxd)
-
-
-        🇸🇰 [Słowacki/Slovak](https://drive.google.com/drive/u/0/folders/18xK8GoQOineLOF2JnXGvmAy3ALrkF97v) 
-
-
-        🇭🇺 [Węgierski/Hungarian](https://drive.google.com/drive/u/0/folders/1CNWV2Jab5hlabYMcCT38ZtY5UAekrvAj)
-
-
-        🇮🇹 [Włoski/Italiano](https://drive.google.com/drive/u/0/folders/1BDn4_QITFtQowMU54-fhLiVdGHPaS840)
-
-
-    "The pictographic symbols used are the property of the Government of Aragón (Spain) and have been created by Sergio Palao for ARASAAC ([http://www.arasaac.org](http://www.arasaac.org))." [Source](https://www.facebook.com/100001014351027/posts/5066202616756833/)
-
+* "The pictographic symbols used are the property of the Government of Aragón (Spain) and have been created by Sergio Palao for ARASAAC ([http://www.arasaac.org](http://www.arasaac.org))." [Source](https://www.facebook.com/100001014351027/posts/5066202616756833/)
 
 
 ---
