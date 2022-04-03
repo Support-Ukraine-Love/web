@@ -749,36 +749,17 @@ The ICRC & UNHCR Advise:
 * The Institute of Cognitive Modeling: ['It Seems To Me](https://itseems.com.ua/)' is an anonymous online diary. *Journaling can be an effective coping tool during times of stress & anxiety. 
 * 'Recommendations for dealing with people in crisis situations and following difficult life events'. (This is useful information for anyone in contact with Survivors of war.) Brochure [link](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:a88e1735-230e-3d3f-8a84-7bcb1920b538). In [Ukrainian](https://rm.coe.int/for-helpers-ukr-print/1680a5c95a).
 
-
-
-<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image17.jpg "image_tooltip")
-
-
-<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image18.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image18.jpg "image_tooltip")
-
-
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image19.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image19.jpg "image_tooltip")
-
-
+| ![](assets/images/image1.jpg) | ![](assets/images/image14.jpg) |
+|-------|-------|
+| ![](assets/images/image2.jpg) | <br /> |
 
 ---
 
+## Gender-Based Violence & Human Trafficking
 
-# **_16. Gender-Based Violence & Human Trafficking_**
+> **Ukrainian National Hotline for Prevention of Domestic Violence, Trafficking in Human Beings and Gender Discrimination:**<br />
+    **Landline 0 800 500 335 or Mobile 116 123. Dial 112 for Emergencies in EU Countries.**
 
-
-
-* **Ukrainian National Hotline for Prevention of Domestic Violence, Trafficking in Human Beings and Gender Discrimination:**
-    * **Landline 0 800 500 335 or Mobile 116 123. Dial 112 for Emergencies in EU Countries.**
 * [CHLSS | Regarding Refugee Children Fleeing the War in Ukraine](https://chlss.org/blog/regarding-refugee-children-fleeing-the-war-in-ukraine/)
 * [UNICEF | Guidance for protecting displaced and refugee children in and outside of Ukraine](https://www.unicef.org/emergencies/guidance-protecting-displaced-children-ukraine?fbclid=IwAR1QE--onRxBsJHc9Z4QNW-ozs2ScT775lIPKPAYx33DgSSbX1UvqHvOs0U): "How authorities and aid workers can help keep children displaced by the war in Ukraine safe from trafficking and other forms of exploitation and abuse."
 * [Istanbul Convention](https://www.coe.int/en/web/istanbul-convention/text-of-the-convention): Action against violence, against women and domestic violence.
@@ -820,13 +801,9 @@ The ICRC & UNHCR Advise:
     * Skype: lastrada-ukraine." [Source](https://euneighbourseast.eu/uk/news-and-stories/latest-news/pidtrymka-zhinok-i-divchat-shho-postrazhdaly-vid-vijny-yaka-dopomoga-dostupna-v-ukrayini/)
 * [Affected first and worst’: Ukrainian women and girls at increased risk of sexual violence](https://www.brusselstimes.com/209977/affected-first-and-worst-ukrainian-women-and-girls-at-increased-risk-of-sexual-violence)
 
-
 ---
 
-
-# **17. Legal Assistance & Banking**
-
-
+## Legal Assistance & Banking
 
 * [Ukrainian Legal Aid](https://ukrainelegalaid.org/#/): "This website is for Ukrainians who have fled as refugees to other countries seeking asylum and other legal assistance. We've collected a database of volunteer attorneys willing to help." (Site is in Ukr, Eng, Rus, Pol & Hun)
 * "Lawyers in the [Canadian Bar Association | CBA](https://www.cba.org/For-The-Public/Crisis-in-Ukraine) Immigration Law Section are spearheading an initiative to provide services, without charge, to individuals affected by the crisis in Ukraine. These services include legal consultations and advice for those seeking to take advantage of Immigration, Refugees and Citizenship Canada’s facilitative initiatives and programs to bring eligible Ukrainian nationals to _Canada_.
@@ -867,10 +844,7 @@ The ICRC & UNHCR Advise:
 
 ---
 
-
-# **18. Immigration & Border Crossing Info**
-
-
+## Immigration & Border Crossing Info
 
 * [Ukraine Border Crossings Monitoring](https://www.mapotic.com/ukraine-border-crossings): "Providing general info and overview about the current situation at Ukraine borders." Also see: [Monitoring of Border Crossings Queues](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTmKNAxZn2cPpBqPHnRx9Hc_GPzfi7U92h05hkNuES6pA8l7IcbfdRELMkTBWGcBFoRkUdwlnfX889X/pubhtml?gid=0&single=true&fbclid=IwAR0cqOMl7qEgeYTE4_VbCp2XiRsOx-R2wyd9B7iHE6uijqJ8mjxAqmgCzfU).
 * The Ukrainian Government has [simplified border crossings](https://t.co/vLztsgMRC0) for certain categories of people with disabilities and accompanying persons.
@@ -921,7 +895,7 @@ The ICRC & UNHCR Advise:
 * [LPHR Org | Information for the escape to Germany/Switzerland/ Poland](https://www.lphr.org/en/info-flucht/): Helpful links in German & Ukrainian.
 * The [International Refugee Assistance Project (IRAP)](https://support.iraplegalinfo.org/hc/en-us/articles/4629538686612) is an excellent page with legal/asylum, psychosocial & disability resource listings, humanitarian aid orgs & government sites/information for Ukrainian refugees. It has information for: _Moldova, Poland, Romania, Hungary & Slovakia_.
 * 🇪🇺 [Information for people fleeing the war in Ukraine](https://ec.europa.eu/info/strategy/priorities-2019-2024/stronger-europe-world/eu-solidarity-ukraine/eu-assistance-ukraine/information-people-fleeing-war-ukraine_en): "If you are fleeing the war in Ukraine and coming to the European Union, you will find key information about your rights with regard to crossing the border into an EU country, eligibility for temporary protection and applying for international protection, as well as the rights of travel inside the European Union." Information in Eng, Ukr & Rus. 
-* 🇪🇺 (3/19) Citizens of Ukraine can cross the borders of _Poland, Slovakia, Hungary, Romania, the Czech Republic and Moldova_ in their own cars without ["Green Card" policies](https://visitukraine.today/blog/201/do-ukrainian-drivers-need-a-green-card-when-entering-the-eu).
+* 🇪🇺 (19-Mar) Citizens of Ukraine can cross the borders of _Poland, Slovakia, Hungary, Romania, the Czech Republic and Moldova_ in their own cars without ["Green Card" policies](https://visitukraine.today/blog/201/do-ukrainian-drivers-need-a-green-card-when-entering-the-eu).
 
     "In case of traveling to other countries, [Green Card policies can now be issued by Ukrainian insurers](https://visitukraine.today/blog/201/do-ukrainian-drivers-need-a-green-card-when-entering-the-eu), including via the Internet, both for a short period (up to 60 days) with a 50% discount, and for any period."
 
@@ -938,55 +912,37 @@ The ICRC & UNHCR Advise:
 
 [USG | Reception Center Locations](https://www.usaid.gov/sites/default/files/documents/2022-03-11_USG_Ukraine_Complex_Emergency_Program_Map.pdf)
 
-
-
-<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image20.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image20.jpg "image_tooltip")
-
-
+<img src="assets/images/image27.jpg" width="50%" />
 
 ---
 
+## By Country: Refugee Info, Immigration & Facebook Groups
 
-# **19. By Country: Refugee Info, Immigration & Facebook Groups**
+[UNHCR | Refugee Help Pages](https://help.unhcr.org/)
 
+* [Czech Republic](http://help.unhcr.org/czech) & [CZ Government Website](https://www.vlada.cz/en/)
+    * Hotline: +420 974 801 802
+* [Hungary](http://t.co/W3VUqJEwTw) & [Hungarian Helsinki Committee](https://helsinki.hu/en/)
+* [Moldova Asylum Authorities](https://www.unhcr.org/republic-of-moldova.html) & [Available Services](http://dopomoga.org.htmlexaminer.com/)
+    * You can contact UNHCR at [hunbu@unhcr.org](mailto:hunbu@unhcr.org).
+    * Hotline of the Moldovan Bureau for Migration and Asylum: +373 (0) 8000 15 27.
+* [Poland](http://t.co/wRy8CEtIzE) & [Polish Govt Site For Ukrainians](https://www.gov.pl/web/udsc/ukraina-en). 
+    * Hotline: +48477217575
+* [Romania](http://t.co/H11VisLGFM) & [Romanian National Council For Refugees](https://diaspora-engagement.eu/org/the-romanian-national-council-for-refugees/)
+* [Slovakia](http://t.co/B08aWP7ILK) & [Slovakia's Website for Ukrainian](https://ua.gov.sk/en.html)
+* [Turkey](https://help.unhcr.org/turkey/#_ga=2.6290357.721434156.1647648538-1458154826.1646456093&_gac=1.259124856.1646989152.CjwKCAiAg6yRBhBNEiwAeVyL0JYI1gtATqf_fkAOGmRsfLKkVXkAdPjHEeUIIsIkYhe_yiNJHAZ1yRoCIpQQAvD_BwE) & [Turkey Immigration For Ukrainians](https://www.turkeyimmigration.org/check-requirements/ukraine)
+* [Ukraine](http://help.unhcr.org/ukraine/about-unhcr-in-ukraine)
+* [All Other Countries](http://t.co/UuwtEkUrzb)
 
-    [UNHCR | Refugee Help Pages](https://help.unhcr.org/)
+#### 🇦🇺 Australia
 
+[Immigration & Citizenship](https://immi.homeaffairs.gov.au/)
 
+[Immigration and Visas](https://info.australia.gov.au/information-and-services/immigration-and-visas) & [Ukraine visa support](https://www.homeaffairs.gov.au/help-and-support/ukraine-visa-support#:~:text=On%2023%20February%202022%2C%20the,family%20members%2C%20came%20into%20effect.)
 
-    * [Czech Republic](http://help.unhcr.org/czech) & [CZ Government Website](https://www.vlada.cz/en/)
-        * Hotline: +420 974 801 802
-    * [Hungary](http://t.co/W3VUqJEwTw) & [Hungarian Helsinki Committee](https://helsinki.hu/en/)
-    * [Moldova Asylum Authorities](https://www.unhcr.org/republic-of-moldova.html) & [Available Services](http://dopomoga.org.htmlexaminer.com/)
-        * You can contact UNHCR at [hunbu@unhcr.org](mailto:hunbu@unhcr.org).
-        * Hotline of the Moldovan Bureau for Migration and Asylum: +373 (0) 8000 15 27.
-    * [Poland](http://t.co/wRy8CEtIzE) & [Polish Govt Site For Ukrainians](https://www.gov.pl/web/udsc/ukraina-en). 
-        * Hotline: +48477217575
-    * [Romania](http://t.co/H11VisLGFM) & [Romanian National Council For Refugees](https://diaspora-engagement.eu/org/the-romanian-national-council-for-refugees/)
-    * [Slovakia](http://t.co/B08aWP7ILK) & [Slovakia's Website for Ukrainian](https://ua.gov.sk/en.html)
-    * [Turkey](https://help.unhcr.org/turkey/#_ga=2.6290357.721434156.1647648538-1458154826.1646456093&_gac=1.259124856.1646989152.CjwKCAiAg6yRBhBNEiwAeVyL0JYI1gtATqf_fkAOGmRsfLKkVXkAdPjHEeUIIsIkYhe_yiNJHAZ1yRoCIpQQAvD_BwE) & [Turkey Immigration For Ukrainians](https://www.turkeyimmigration.org/check-requirements/ukraine)
-    * [Ukraine](http://help.unhcr.org/ukraine/about-unhcr-in-ukraine)
-    * [All Other Countries](http://t.co/UuwtEkUrzb)
+"Access to State Services With [Humanitarian and Refugee Visa](https://immi.homeaffairs.gov.au/what-we-do/refugee-and-humanitarian-program)
 
-
-#### **🇦🇺 <span style="text-decoration:underline;">Australia </span>**
-
-
-    [Immigration & Citizenship](https://immi.homeaffairs.gov.au/)
-
-
-    [Immigration and Visas](https://info.australia.gov.au/information-and-services/immigration-and-visas) & [Ukraine visa support](https://www.homeaffairs.gov.au/help-and-support/ukraine-visa-support#:~:text=On%2023%20February%202022%2C%20the,family%20members%2C%20came%20into%20effect.)
-
-
-    "Access to State Services With [Humanitarian and Refugee Visa](https://immi.homeaffairs.gov.au/what-we-do/refugee-and-humanitarian-program)
-
-
-    [Persons](https://visaguide.world/australia-visa/humanitarian/#:~:text=Global%20Special%20Humanitarian%20Visa%2D%20subclass,member%20or%20a%20close%20relative.) who hold a [humanitarian and refugee visa](https://immi.homeaffairs.gov.au/what-we-do/refugee-and-humanitarian-program/the-special-humanitarian-program), have access to Australia’s government services. This includes:
-
-
+[Persons](https://visaguide.world/australia-visa/humanitarian/#:~:text=Global%20Special%20Humanitarian%20Visa%2D%20subclass,member%20or%20a%20close%20relative.) who hold a [humanitarian and refugee visa](https://immi.homeaffairs.gov.au/what-we-do/refugee-and-humanitarian-program/the-special-humanitarian-program), have access to Australia’s government services. This includes:
 
 * Medicare
 * Centrelink
@@ -994,18 +950,14 @@ The ICRC & UNHCR Advise:
 * Trauma Counselling (if you want)." [Source ](https://visaguide.world/australia-visa/humanitarian/#:~:text=Global%20Special%20Humanitarian%20Visa%2D%20subclass,member%20or%20a%20close%20relative.)
 
 
-#### 🇦🇹 **<span style="text-decoration:underline;">Austria</span>**
+#### 🇦🇹 Austria
 
 
-    [Federal Office for Immigration and Asylum (BFA)](https://www.bfa.gv.at/news.aspx?id=7138695A2B6150634156493D)
+[Federal Office for Immigration and Asylum (BFA)](https://www.bfa.gv.at/news.aspx?id=7138695A2B6150634156493D)
 
+[Austrian Foreign Ministry ](https://www.bmeia.gv.at/en/)
 
-    [Austrian Foreign Ministry ](https://www.bmeia.gv.at/en/)
-
-
-    [Information For Ukrainian Citizens in Austria](https://www.bbu.gv.at/ukraine)
-
-
+[Information For Ukrainian Citizens in Austria](https://www.bbu.gv.at/ukraine)
 
 * "If you are in urgent need of assistance, please contact the hotline: +43 1 2676 870 9460
 * If you do not have the financial means to organize accommodation on your own, we provide shelters.
@@ -1013,511 +965,411 @@ The ICRC & UNHCR Advise:
 * Medical Services for refugees from Ukraine (passport or document of residence has to be shown) are free
 * If you show your Ukrainian ID, tickets for the Austrian Railway are free." [Source](https://www.bbu.gv.at/)
 
-    [Borgen Project | Organizations Helping Refugees in Austria](https://borgenproject.org/refugees-in-austria/) 
+[Borgen Project | Organizations Helping Refugees in Austria](https://borgenproject.org/refugees-in-austria/) 
+
+The City of Vienna, several NGOs and "Helfer Wiens" have set up [this platform](https://www.wien.gv.at/english/health-socialservices/refugees/) for everyone who wants to help.
 
 
-    The City of Vienna, several NGOs and "Helfer Wiens" have set up [this platform](https://www.wien.gv.at/english/health-socialservices/refugees/) for everyone who wants to help.
+#### 🇧🇪 Belgium
+
+[Information For Refugees ](https://m.facebook.com/uarefugeesinbe)(Facebook Page)
 
 
-
-#### 🇧🇪 **<span style="text-decoration:underline;">Belgium</span>**
-
-
-    [Information For Refugees ](https://m.facebook.com/uarefugeesinbe)(Facebook Page)
-
- 
-
-
-#### 🇧🇬 **<span style="text-decoration:underline;">Bulgaria</span>**
+#### 🇧🇬 Bulgaria
 
 [Bulgaria For Ukraine](https://www.bg4ua.com/)
 
 
-#### 🇨🇦 **<span style="text-decoration:underline;">Canada</span>**
+#### 🇨🇦 Canada
 
 [Immigrating from Ukraine to Canada](https://www.visaplace.com/canadian-immigration/country/ukraine/)
 
 Call: 1.855.936.1718
 
 
-    [How Ukraine Refugees Can Come to Canada](https://www.visaplace.com/blog-immigration-law/ukraine-canada-refugee/)
+[How Ukraine Refugees Can Come to Canada](https://www.visaplace.com/blog-immigration-law/ukraine-canada-refugee/)
 
 
-    **3/17 "**Ukrainians and their immediate family members of any nationality may stay in Canada for up to three years. Overseas applicants need to apply online for a [visitor visa](https://www.canadavisa.com/canadian-temporary-resident-visa-visitor.html) and provide their [biometrics](https://www.canadavisa.com/visiting-canada-biometrics.html).
+(**17-Mar**) "Ukrainians and their immediate family members of any nationality may stay in Canada for up to three years. Overseas applicants need to apply online for a [visitor visa](https://www.canadavisa.com/canadian-temporary-resident-visa-visitor.html) and provide their [biometrics](https://www.canadavisa.com/visiting-canada-biometrics.html).
 
 
-    The Canadian government encourages [CUAET applicants](https://www.canada.ca/en/immigration-refugees-citizenship/news/2022/03/canada-ukraine-authorization-for-emergency-travel.html) to apply for a three-year [open work permit](https://www.canadavisa.com/canadian-immigration-open-work-permits.html) at the same time as their visa application. This will allow them to work in Canada for any employer."
+The Canadian government encourages [CUAET applicants](https://www.canada.ca/en/immigration-refugees-citizenship/news/2022/03/canada-ukraine-authorization-for-emergency-travel.html) to apply for a three-year [open work permit](https://www.canadavisa.com/canadian-immigration-open-work-permits.html) at the same time as their visa application. This will allow them to work in Canada for any employer."
 
 
-    "Applicants who do not have a valid passport may still apply. [Immigration, Refugees and Citizenship Canada](https://www.canadavisa.com/ircc.html) (IRCC) will issue a single journey travel document on a case-by-case basis, where appropriate." [Source ](https://www.cicnews.com/2022/03/canada-launches-special-temporary-residence-pathway-for-ukrainians-0323260.html/amp)
+"Applicants who do not have a valid passport may still apply. [Immigration, Refugees and Citizenship Canada](https://www.canadavisa.com/ircc.html) (IRCC) will issue a single journey travel document on a case-by-case basis, where appropriate." [Source ](https://www.cicnews.com/2022/03/canada-launches-special-temporary-residence-pathway-for-ukrainians-0323260.html/amp)
 
 
-    [Immigration Measures For People Affected by the Situation in Ukraine](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures.html): "We’ve created a phone line and a [web form](http://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures.html#contact-form) to prioritize questions from:
-
-
+[Immigration Measures For People Affected by the Situation in Ukraine](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures.html): "We’ve created a phone line and a [web form](http://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures.html#contact-form) to prioritize questions from:
 
 * people affected by the situation in Ukraine
 * people contacting us on behalf of someone who is affected."
 
-    *You can now add the keyword “Ukraine2022” to the IRCC Web form with your enquiry and your email will be prioritized.
+*You can now add the keyword “Ukraine2022” to the IRCC Web form with your enquiry and your email will be prioritized.
 
 
-    "Contact us by phone at +1-613-321-4243; Mon to Fri, 6:30am to 7pm (ET). Available both inside and outside Canada. We’ll accept charges for collect calls or calls with reverse charges." ~ [Canada to welcome those fleeing the war in Ukraine](https://www.canada.ca/en/immigration-refugees-citizenship/news/2022/03/canada-to-welcome-those-fleeing-the-war-in-ukraine.html).
+"Contact us by phone at +1-613-321-4243; Mon to Fri, 6:30am to 7pm (ET). Available both inside and outside Canada. We’ll accept charges for collect calls or calls with reverse charges." ~ [Canada to welcome those fleeing the war in Ukraine](https://www.canada.ca/en/immigration-refugees-citizenship/news/2022/03/canada-to-welcome-those-fleeing-the-war-in-ukraine.html).
 
 
-    [Canada-Ukraine authorization for emergency travel](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/cuaet.html): "Temporary residence programs are intended to help those affected by the Russian invasion of Ukraine to seek temporary safe harbour in Canada, until it is safe to return to Ukraine. Temporary residents may be able to apply for permanent residency through various programs, should they decide to stay in Canada at the end of their temporary stay."
+[Canada-Ukraine authorization for emergency travel](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures/cuaet.html): "Temporary residence programs are intended to help those affected by the Russian invasion of Ukraine to seek temporary safe harbour in Canada, until it is safe to return to Ukraine. Temporary residents may be able to apply for permanent residency through various programs, should they decide to stay in Canada at the end of their temporary stay."
 
 
-    [Canada | Find useful information and resources](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures.html#information)
+[Canada | Find useful information and resources](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/ukraine-measures.html#information)
 
 
-    Ukrainian Canadian Congress: If you'd like to offer your assistance/ services, please go here, [Assistance to Ukranians Affected by War in Ukraine](https://www.surveymonkey.com/r/HYPCHTP), and complete their form.
+Ukrainian Canadian Congress: If you'd like to offer your assistance/ services, please go here, [Assistance to Ukranians Affected by War in Ukraine](https://www.surveymonkey.com/r/HYPCHTP), and complete their form.
 
 
-    "The [University of Alberta](https://www.cbc.ca/amp/1.6382745) is offering financial support to Ukrainian students who may be suffering financial hardship because of the Russian invasion."
+"The [University of Alberta](https://www.cbc.ca/amp/1.6382745) is offering financial support to Ukrainian students who may be suffering financial hardship because of the Russian invasion."
 
 
+#### 🇨🇿 Czech Republic
 
-#### 🇨🇿 **<span style="text-decoration:underline;">Czech Republic</span>**
 
-
-    Government [Website](https://www.mvcr.cz/clanek/informace-pro-obcany-ukrajiny.aspx). 
+Government [Website](https://www.mvcr.cz/clanek/informace-pro-obcany-ukrajiny.aspx). 
 
 Hotline number +420 974 801 802
 
 [Organization To Aid Refugees](https://www.opu.cz/en/) (CZ)
 
 
-    UNHCR Help Page: [help.unhcr.org/czech](https://help.unhcr.org/czech/)
+UNHCR Help Page: [help.unhcr.org/czech](https://help.unhcr.org/czech/)
 
 
-    [opu.cz](https://www.opu.cz/en/) (Provides free legal and social counselling to applicants.)
+[opu.cz](https://www.opu.cz/en/) (Provides free legal and social counselling to applicants.)
 
 
-    [www.nasiukrajinci.cz](http://www.nasiukrajinci.cz)
+[www.nasiukrajinci.cz](http://www.nasiukrajinci.cz)
 
 
-    [www.stojimezaukrajinou.cz](http://www.stojimezaukrajinou.cz)
+[www.stojimezaukrajinou.cz](http://www.stojimezaukrajinou.cz)
 
 
-    [Pomoc Ukrajinĕ - sbírky, odkazy, tipy](https://www.facebook.com/groups/pomocukrajine/) (Facebook Group)
+[Pomoc Ukrajinĕ - sbírky, odkazy, tipy](https://www.facebook.com/groups/pomocukrajine/) (Facebook Group)
 
 
-    "[Opora.uk](https://www.opora.uk/?fbclid=IwAR1-fBV3TYVsz2PrWFW0IapMfyib41ARNKxGvElcVFkycLQ2oAtUR8bM1gU) can provide direct emergency assistance to families arriving into CZ, from funding basic necessities, finding shelter, informational support to partnering with local organisations to facilitate both emergency and long-term resettlement needs of Ukrainian families."
+"[Opora.uk](https://www.opora.uk/?fbclid=IwAR1-fBV3TYVsz2PrWFW0IapMfyib41ARNKxGvElcVFkycLQ2oAtUR8bM1gU) can provide direct emergency assistance to families arriving into CZ, from funding basic necessities, finding shelter, informational support to partnering with local organisations to facilitate both emergency and long-term resettlement needs of Ukrainian families."
 
- 
-
-
-#### 🇪🇪 **<span style="text-decoration:underline;">Estonia</span>**
+#### 🇪🇪 Estonia
 
 [Estonian Refugee Council](https://www.pagulasabi.ee/uk)
 
 
-    [Coming to Estonia](https://kriis.ee/en/security-situation-europe/ukrainian-war-refugees/coming-estonia): "Initial information to Ukrainian citizens and their family members about the opportunities they have to come to Estonia, the necessary documents and contacts."
+[Coming to Estonia](https://kriis.ee/en/security-situation-europe/ukrainian-war-refugees/coming-estonia): "Initial information to Ukrainian citizens and their family members about the opportunities they have to come to Estonia, the necessary documents and contacts."
 
- 
-
-
-#### 🇫🇮 **<span style="text-decoration:underline;">Finland</span>**
+#### 🇫🇮 Finland
 
 [Finland | Basic Information](https://sites.google.com/view/finland-)
 
 [Ukranians in Finland Org](https://ukrainians-in-finland.org)
 
-
-    [Accommodation & Help For Ukranians In Finland](https://www.facebook.com/groups/698870174438352/) (Facebook Group)
-
-
-#### 🇫🇷 **<span style="text-decoration:underline;">France</span>**
+[Accommodation & Help For Ukranians In Finland](https://www.facebook.com/groups/698870174438352/) (Facebook Group)
 
 
-    [Reception in France of people displaced from Ukraine](https://www.welcometofrance.com/accueil-en-france-des-personnes-deplacees-dukraine) (Gov Website)
+#### 🇫🇷 France
+
+[Reception in France of people displaced from Ukraine](https://www.welcometofrance.com/accueil-en-france-des-personnes-deplacees-dukraine) (Gov Website)
+
+#### 🇩🇪 Germany
+
+People fleeing from Ukraine can find important information [here](https://www.integrationsbeauftragte.de/ib-de/staatsministerin/war-in-ukraine-2008510).
 
 
-#### **🇩🇪 <span style="text-decoration:underline;">Germany</span>**
+[FAQs](https://www.bmi.bund.de/SharedDocs/faqs/EN/topics/ministry/ukraine-war-eng/faq-list-ukrain-war-en.html) about entry from Ukraine and about residence in Germany.
 
 
-    People fleeing from Ukraine can find important information [here](https://www.integrationsbeauftragte.de/ib-de/staatsministerin/war-in-ukraine-2008510).
-
-
-    [FAQs](https://www.bmi.bund.de/SharedDocs/faqs/EN/topics/ministry/ukraine-war-eng/faq-list-ukrain-war-en.html) about entry from Ukraine and about residence in Germany.
-
-
-    You can reach the crisis hotline of the [German Federal Foreign Office](https://www.auswaertiges-amt.de/en) on +49 (0) 30 / 5000 3000
+You can reach the crisis hotline of the [German Federal Foreign Office](https://www.auswaertiges-amt.de/en) on +49 (0) 30 / 5000 3000
 
 [Germany Handbook](https://handbookgermany.de/de/ukraine-info/ru.html) (In Ukrainian)
 
 
-    [#Unterkunft Ukraine](https://unterkunft-ukraine.de) (A platform for finding or offering accommodation.)
+[#Unterkunft Ukraine](https://unterkunft-ukraine.de) (A platform for finding or offering accommodation.)
 
 
-    Munich: [Münchner Freiwillige ](https://www.muenchner-freiwillige.de/)(Non-profit)
+Munich: [Münchner Freiwillige ](https://www.muenchner-freiwillige.de/)(Non-profit)
 
 
-    [Münchner Freiwillige - Wer helfen e.V.](https://www.facebook.com/muenchnerfreiwillige) (Facebook Page)
+[Münchner Freiwillige - Wer helfen e.V.](https://www.facebook.com/muenchnerfreiwillige) (Facebook Page)
 
 
-    Berlin: [Information for refugees from Ukraine](https://www.berlin.de/ukraine/en/)
+Berlin: [Information for refugees from Ukraine](https://www.berlin.de/ukraine/en/)
 
 
-    Comprehensive information for [Ukrainian refugees arriving in Berlin](https://t.co/QXzG3tqdwL): "As a war refugee, you have a right of residence for an initial period of one year and simplified access to the labour market." [Source](https://twitter.com/AltTaxPro/status/1502688507965308931?t=D670HxpPyx8mk6kRw2LSlw&s=19)
+Comprehensive information for [Ukrainian refugees arriving in Berlin](https://t.co/QXzG3tqdwL): "As a war refugee, you have a right of residence for an initial period of one year and simplified access to the labour market." [Source](https://twitter.com/AltTaxPro/status/1502688507965308931?t=D670HxpPyx8mk6kRw2LSlw&s=19)
 
 
-    Facebook Group: [Bridge: a group to help Ukrainian refugees](https://www.facebook.com/groups/718925522598800/?ref=share) (Germany)
+Facebook Group: [Bridge: a group to help Ukrainian refugees](https://www.facebook.com/groups/718925522598800/?ref=share) (Germany)
 
 
-#### **🇬🇷 <span style="text-decoration:underline;">Greece </span>**
+#### 🇬🇷 Greece
 
 
-    "The Government of the Hellenic Republic has endorsed a decision to send buses or planes to Poland to voluntarily accept and resettle some Ukrainian refugees." 3/11 [Source](https://www.ukrinform.net/rubric-ato/3426215-greece-to-take-some-ukrainian-refugees-from-poland.html)
+"The Government of the Hellenic Republic has endorsed a decision to send buses or planes to Poland to voluntarily accept and resettle some Ukrainian refugees." 3/11 [Source](https://www.ukrinform.net/rubric-ato/3426215-greece-to-take-some-ukrainian-refugees-from-poland.html)
 
 
-    "The Embassy of Greece in Ljubljana is announcing that Greece has put in place [special procedures](https://www.mfa.gr/missionsabroad/en/slovenia-en/news/announcement-about-special-procedures-for-ukrainian-refugees.html) for Ukrainian refugees to enter Greece."
+"The Embassy of Greece in Ljubljana is announcing that Greece has put in place [special procedures](https://www.mfa.gr/missionsabroad/en/slovenia-en/news/announcement-about-special-procedures-for-ukrainian-refugees.html) for Ukrainian refugees to enter Greece."
 
 
-    Ukrainians can request help from the migration & asylum ministry site [here](https://migration.gov.gr/ukraine/). (Greek, English & Ukrainian)
+Ukrainians can request help from the migration & asylum ministry site [here](https://migration.gov.gr/ukraine/). (Greek, English & Ukrainian)
 
 
-    "All Ukrainian citizens who plan to enter Greece are no longer required to fill in the Passenger Locator Form (PLF) upon their arrival in this country - from Sun, March 6." [SchengenVisaInfo.com ](https://www.schengenvisainfo.com)
+"All Ukrainian citizens who plan to enter Greece are no longer required to fill in the Passenger Locator Form (PLF) upon their arrival in this country - from Sun, March 6." [SchengenVisaInfo.com ](https://www.schengenvisainfo.com)
 
 
-    "Starting April 4, a special fast track procedure to identify and provide a special biometric ID to all Ukrainians wishing to stay temporarily in Greece will be in place." [Source](https://www.ekathimerini.com/news/1179053/greece-prepares-to-host-ukrainian-refugees/) (&lt;- Very good update article.)
+"Starting April 4, a special fast track procedure to identify and provide a special biometric ID to all Ukrainians wishing to stay temporarily in Greece will be in place." [Source](https://www.ekathimerini.com/news/1179053/greece-prepares-to-host-ukrainian-refugees/) (&lt;- Very good update article.)
 
 
-#### **🇭🇺 <span style="text-decoration:underline;">Hungary</span>**
+#### 🇭🇺 Hungary
 
 
-    [Hungarian Helsinki Committee](https://helsinki.hu/en/information-for-people-fleeing-from-ukraine/) (They offer free legal guidance & assistance for asylum claims)
+[Hungarian Helsinki Committee](https://helsinki.hu/en/information-for-people-fleeing-from-ukraine/) (They offer free legal guidance & assistance for asylum claims)
 
 UNHCR: [Hungary Refugee Help Page](http://t.co/W3VUqJEwTw)
 
 
-    "[Cordelia Foundation](https://cordelia.hu/en/) offers psychological support to survivors of trauma and their families." (Services are free)
+"[Cordelia Foundation](https://cordelia.hu/en/) offers psychological support to survivors of trauma and their families." (Services are free)
 
 
-    [Menedék Hungarian Association for Migrants](https://menedek.hu/en/news/what-will-happen-people-fleeing-ukraine-last-update-09032022)
+[Menedék Hungarian Association for Migrants](https://menedek.hu/en/news/what-will-happen-people-fleeing-ukraine-last-update-09032022)
 
 
-    [https://www.facebook.com/groups/994143548136400/](https://www.facebook.com/groups/994143548136400/)
-
- 
+[https://www.facebook.com/groups/994143548136400/](https://www.facebook.com/groups/994143548136400/)
 
 
-#### **🇮🇪 <span style="text-decoration:underline;">Ireland</span>**
+#### 🇮🇪 Ireland
 
 
-#### **🇮🇱 <span style="text-decoration:underline;">Israel</span>**
+#### 🇮🇱 Israel
 
 
-    [Israel Ministry of Foreign Affairs](https://mfa.gov.il/mfa/consularservices/pages/visas.aspx)
+[Israel Ministry of Foreign Affairs](https://mfa.gov.il/mfa/consularservices/pages/visas.aspx)
 
 
-    **3/13** "[Israel will receive relatives of Ukrainians who are already in the country](https://www.i24news.tv/en/news/ukraine-conflict/1647197036-israel-to-let-in-more-ukrainians-with-relatives-in-the-country)**" **Israel's Interior Minister: 
+**3/13** "[Israel will receive relatives of Ukrainians who are already in the country](https://www.i24news.tv/en/news/ukraine-conflict/1647197036-israel-to-let-in-more-ukrainians-with-relatives-in-the-country)**" **Israel's Interior Minister: 
 
 
-    Non-Jewish family members seeking asylum in Israel will not count toward the 5000-person cap.
+Non-Jewish family members seeking asylum in Israel will not count toward the 5000-person cap.
 
 
-    **3/14** "Under Israel’s Law of Return, citizenship can be automatically granted to any person who has at least one Jewish grandparent.
+**3/14** "Under Israel’s Law of Return, citizenship can be automatically granted to any person who has at least one Jewish grandparent.
 
 
-    The new system, known as “Green Path,” would allow nearly all refugees reasonably claiming to be eligible for Israeli citizenship into the country, without receiving immigration visas. Once in Israel, they will complete the immigration process and only then receive citizenship." [Source](https://www.timesofisrael.com/israel-to-significantly-shorten-entry-process-for-would-be-immigrants-from-ukraine/)
+The new system, known as “Green Path,” would allow nearly all refugees reasonably claiming to be eligible for Israeli citizenship into the country, without receiving immigration visas. Once in Israel, they will complete the immigration process and only then receive citizenship." [Source](https://www.timesofisrael.com/israel-to-significantly-shorten-entry-process-for-would-be-immigrants-from-ukraine/)
 
 
-    [ Jewish Agency For Israel Org](https://www.jewishagency.org/home-at-last/)
+[Jewish Agency For Israel Org](https://www.jewishagency.org/home-at-last/)
 
 
-#### **🇮🇹 <span style="text-decoration:underline;">Italy</span>**
+#### 🇮🇹 Italy
 
-
-    [Ukrainian Migration to Italy](https://www.tandfonline.com/doi/pdf/10.1080/15362940802371507)
+[Ukrainian Migration to Italy](https://www.tandfonline.com/doi/pdf/10.1080/15362940802371507)
 
 [Asylum Visa In Italy](https://www.immigration-italy.com/obtain-asylum-visa-in-italy)
 
-
-    [Help, Accommodation & Shelter For Ukrainians In Italy ](https://www.facebook.com/groups/465946801653038/)(Facebook Group)
-
-
-#### **🇱🇹 <span style="text-decoration:underline;">Lithuania</span>**
+[Help, Accommodation & Shelter For Ukrainians In Italy ](https://www.facebook.com/groups/465946801653038/)(Facebook Group)
 
 
+#### 🇱🇹 Lithuania
 
-* [Lithuania | A Guide For Ukrainian Refugees](https://docs.google.com/document/d/1f5o_oWoJLVCF18mIMBrOzAwtmCj3bs2RsrlOoEa8A-w/edit?usp=drivesdk)
-
-
-#### **🇦🇩 <span style="text-decoration:underline;">Moldova</span>**
+[Lithuania | A Guide For Ukrainian Refugees](https://docs.google.com/document/d/1f5o_oWoJLVCF18mIMBrOzAwtmCj3bs2RsrlOoEa8A-w/edit?usp=drivesdk)
 
 
-    Please see the page of the [Asylum Authorities](http://bma.gov.md/ro/content/%D0%B2%D0%B0%D0%B6%D0%BB%D0%B8%D0%B2%D0%BE) and this page for [Available Services](https://dopomoga.life).
+#### 🇦🇩 Moldova
+
+Please see the page of the [Asylum Authorities](http://bma.gov.md/ro/content/%D0%B2%D0%B0%D0%B6%D0%BB%D0%B8%D0%B2%D0%BE) and this page for [Available Services](https://dopomoga.life).
 
 
-    [How To Apply For Asylum In Moldova](https://www.uni-bielefeld.de/themen/refugees/index.xml)
+[How To Apply For Asylum In Moldova](https://www.uni-bielefeld.de/themen/refugees/index.xml)
 
 
-    You may Email UNHCR at: [hunbu@unhcr.org](mailto:hunbu@unhcr.org).
+You may Email UNHCR at: [hunbu@unhcr.org](mailto:hunbu@unhcr.org).
 
 
-    [Moldovan gov site on assistance for people entering Moldova from Ukraine ](http://bma.gov.md/en/content/important)
+[Moldovan gov site on assistance for people entering Moldova from Ukraine ](http://bma.gov.md/en/content/important)
 
 
-    [The Charity Centre for Refugees](https://ccr.md/)
+[The Charity Centre for Refugees](https://ccr.md/)
 
 
-    If you need help or information, this is an excellent [page](https://ccr.md/ukraine/).
+If you need help or information, this is an excellent [page](https://ccr.md/ukraine/).
 
 
-    Hotline for assistance 080001527.
+Hotline for assistance 080001527.
 
 
-    (From Ukraine +37322820007)
+(From Ukraine +37322820007)
 
 
-    [Ajutor Ucraineni în Moldova / Допоможіть українцям у Молдові](https://www.facebook.com/groups/347615063908402) (Facebook Group)
-
- 
+[Ajutor Ucraineni în Moldova / Допоможіть українцям у Молдові](https://www.facebook.com/groups/347615063908402) (Facebook Group)
 
 
-#### **🇳🇱 <span style="text-decoration:underline;">Netherlands</span>**
+#### 🇳🇱 Netherlands
+
+[Coming to the Netherlands as a Ukrainian](https://ind.nl/en/ukraine/Pages/Coming-to-the-Netherlands-as-a-Ukrainian.aspx): "​Ukrainians who come to the Netherlands can usually travel freely. And do not have to apply for asylum. Reception is possible in various places in the Netherlands."
+
+[Working in the Netherlands ](https://jobon.nl/events/werken-in-nederland-voor-oekrainers/)
+
+[Oekraïne Vluchtelingen NL](https://www.facebook.com/groups/683253849468899) (Facebook Group)
 
 
-    [Coming to the Netherlands as a Ukrainian](https://ind.nl/en/ukraine/Pages/Coming-to-the-Netherlands-as-a-Ukrainian.aspx): "​Ukrainians who come to the Netherlands can usually travel freely. And do not have to apply for asylum. Reception is possible in various places in the Netherlands."
+#### 🇳🇿 New Zealand
+
+[New Zealand Immigration](https://www.immigration.govt.nz/about-us/media-centre/news-notifications/important-information-for-ukrainian-nationals)
+
+"The 2022 Special Ukraine Policy will be open for one year and enable New Zealand citizens and residents in New Zealand who were born in Ukraine or are Ukrainian citizens to sponsor their parents, grand-parents, adult siblings and adult children and their immediate family.
+
+Successful applicants will be granted a two-year visa with work rights, or study rights if they are 18 or younger.
+
+New Zealand sponsors can now complete a sponsorship form and submit it to Immigration New Zealand (INZ)."
 
 
-    [Working in the Netherlands ](https://jobon.nl/events/werken-in-nederland-voor-oekrainers/)
+#### 🇵🇱 Poland
 
+[Poland | A Guide For Ukranian Refugees](https://docs.google.com/document/d/1vFjhJosI4tHCTbZyVq360Lj_nuOC1Rd_5A6VB7s9Snk/edit?usp=drivesdk)
 
-    [Oekraïne Vluchtelingen NL](https://www.facebook.com/groups/683253849468899) (Facebook Group)
-
-🇳🇿 **<span style="text-decoration:underline;">New Zealand</span>**
-
-
-    [New Zealand Immigration](https://www.immigration.govt.nz/about-us/media-centre/news-notifications/important-information-for-ukrainian-nationals)
-
-
-    "The 2022 Special Ukraine Policy will be open for one year and enable New Zealand citizens and residents in New Zealand who were born in Ukraine or are Ukrainian citizens to sponsor their parents, grand-parents, adult siblings and adult children and their immediate family.
-
-
-    Successful applicants will be granted a two-year visa with work rights, or study rights if they are 18 or younger.
-
-
-    New Zealand sponsors can now complete a sponsorship form and submit it to Immigration New Zealand (INZ)."
-
-
-#### **🇵🇱 <span style="text-decoration:underline;">Poland</span>**
-
-
-
-* [Poland | A Guide For Ukranian Refugees](https://docs.google.com/document/d/1vFjhJosI4tHCTbZyVq360Lj_nuOC1Rd_5A6VB7s9Snk/edit?usp=drivesdk)
-
-
-
-<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image21.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image21.jpg "image_tooltip")
-
+<img src="assets/images/image20.jpg" width="50%" />
 
 [Graphic Source](https://twitter.com/Jr3597/status/1504291258256211971?t=thNrS-JOq5HGa5UvI_fuAA&s=19)
 
 
-#### **🇵🇹 <span style="text-decoration:underline;">Portugal</span>**
+#### 🇵🇹 Portugal
 
+[Ucrânia SOS Portugal](https://www.facebook.com/ucrania.sos.portugal/) (Gov Facebook Page)
 
-    [Ucrânia SOS Portugal](https://www.facebook.com/ucrania.sos.portugal/) (Gov Facebook Page)
-
-
-    "[JRS Portugal](https://www.jrsportugal.pt/) provides free support at various stages of integration:
-
-
+"[JRS Portugal](https://www.jrsportugal.pt/) provides free support at various stages of integration:
 
 * assistance with legalization of documents;
 * help of psychologists;
 * employment assistance,
-* Portuguese language courses;
+* Portuguese language courses; and other assistance.
 
-        and other assistance.
-
-
-    Contacts:
-
-
-    [centro.atendimento@jrs.net](mailto:centro.atendimento@jrs.net)
-
-
-    [jrsportugal@jrs.net](mailto:jrsportugal@jrs.net)
-
-
-    +351 217 552 790 (option 1)
-
-
-    +351 937 541 620." Go [here](https://www.jrsportugal.pt/informacao-para-ucranianos/?fbclid=IwAR2B-socZfWb62dr3UTIyy7yR3SaLwC9rHTotYNLrlEBOsQWTuxaJtzBFlE).
+Contacts:<br />
+[centro.atendimento@jrs.net](mailto:centro.atendimento@jrs.net)<br />
+[jrsportugal@jrs.net](mailto:jrsportugal@jrs.net)<br />
++351 217 552 790 (option 1)<br />
++351 937 541 620."<br />
+Go [here](https://www.jrsportugal.pt/informacao-para-ucranianos/?fbclid=IwAR2B-socZfWb62dr3UTIyy7yR3SaLwC9rHTotYNLrlEBOsQWTuxaJtzBFlE).<br />
 
 
 
-#### **🇷🇴 <span style="text-decoration:underline;">Romania</span>**
+#### 🇷🇴 Romania
 
-[National Council for Refugees](https://www.cnrr.ro/index.php/ro)
-
-Email: [office@cnrr.ro](mailto:office@cnrr.ro)
-
-Phone: (004) 0213126210
-
+[National Council for Refugees](https://www.cnrr.ro/index.php/ro)<br />
+Email: [office@cnrr.ro](mailto:office@cnrr.ro)<br />
+Phone: (004) 0213126210<br />
 Hotline: (004)0730073170
 
 [People Solidarity For Ukraine](https://refugees.ro)
 
-UNHCR, the UN Refugee Agency:
-
-
-    Office Phone: +40 21 201 7873 (Mon-Fri: 9:00-17:30)
-
-
-    Hotline: +40 723 653 651 (available 24/7)
-
-Email: [rombu@unhcr.org](mailto:rombu@unhcr.org)
-
+UNHCR, the UN Refugee Agency:<br />
+Office Phone: +40 21 201 7873 (Mon-Fri: 9:00-17:30)<br />
+ Hotline: +40 723 653 651 (available 24/7)<br />
+Email: [rombu@unhcr.org](mailto:rombu@unhcr.org)<br />
 [UNHCR | Romania Help Page](http://t.co/H11VisLGFM)
 
 [Oameni De Bine | Alege inițiativa](https://oamenidebine.ro)
-
 [pentru Ucraina!](https://oamenidebine.ro)
 
 
-    ️Additional info - Through Chernivtsi: Suceava Border Customs Office: +40 230 529 595; [Map](http://t.co/4jGfB3zcBa)
+Additional info - Through Chernivtsi: Suceava Border Customs Office: +40 230 529 595; [Map](http://t.co/4jGfB3zcBa)
 
-
-    Contacts when you arrive at the border: 
-
-Mr Okafor: +40747568035,
-
+Contacts when you arrive at the border: <br />
+Mr Okafor: +40747568035,<br />
 Dr Okonkwo: +40757696087
 
 
-    Facebook Group:  \
-[Uniți Pentru Ucraina (UNIȚI PENTRU UCRAINA - Об'εднанi за Украiну - United for Ukraine)](https://www.facebook.com/groups/unitipentruucraina)
+Facebook Group:<br />
+[Uniți Pentru Ucraina (UNIȚI PENTRU UCRAINA - Об'εднанi за Украiну - United for Ukraine)](https://www.facebook.com/groups/unitipentruucraina)<br />
+(Group has more than 225,000 members, including donors, volunteers, tutors, and Ukrainians seeking help as they escape the violence. It's a project organized by European Parliament member Vlad Gheorghe, along with other Romanians eager to unite local individuals, NGOs, and businesses willing to help." [Source](http://www.rferl.org/a/romania-ukraine-war-refugees/31730512.html))
 
+There is an extremely comprehensive & useful Twitter thread concerning Ukrainians fleeing to Romania, [here](https://twitter.com/andreea_mihaela/status/1497892369315811329?s=20&t=UDiofo5v9cj7yL8XQha_9w).
 
-    (Group has more than 225,000 members, including donors, volunteers, tutors, and Ukrainians seeking help as they escape the violence. It's a project organized by European Parliament member Vlad Gheorghe, along with other Romanians eager to unite local individuals, NGOs, and businesses willing to help." [Source](http://www.rferl.org/a/romania-ukraine-war-refugees/31730512.html))
+National Council for Refugees, for border issues: + 40 730 073 170
 
+Check the waiting time at [Border Crossings](https://www.politiadefrontiera.ro/ro/traficonline/).
 
-    There is an extremely comprehensive & useful Twitter thread concerning Ukrainians fleeing to Romania, [here](https://twitter.com/andreea_mihaela/status/1497892369315811329?s=20&t=UDiofo5v9cj7yL8XQha_9w).
+<img src="assets/images/image12.jpg" width="50%" />
 
-
-    National Council for Refugees, for border issues: + 40 730 073 170
-
-
-    Check the waiting time at [Border Crossings](https://www.politiadefrontiera.ro/ro/traficonline/).
-
-
-
-<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image22.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image22.jpg "image_tooltip")
-
-
-
-#### **🇸🇰 <span style="text-decoration:underline;">Slovakia</span>**
+#### 🇸🇰 Slovakia
 
 Government [website](https://ua.gov.sk/en.html) for Ukrainians.
 
 UNHCR: [Slovakia Help Page](http://t.co/B08aWP7ILK)
 
+[Information for Ukrainians entering Slovak republic](https://ua.gov.sk/sk.html?csrt=2726931430198670460)
 
-    [Information for Ukrainians entering Slovak republic](https://ua.gov.sk/sk.html?csrt=2726931430198670460)
-
-
-    [Pomoc pre Ukrajinu](https://pomocpreukrajinu.sk) (Допомога Україні)
+[Pomoc pre Ukrajinu](https://pomocpreukrajinu.sk) (Допомога Україні)
 
 
-#### **🇸🇪 <span style="text-decoration:underline;">Sweden</span>**
+#### 🇸🇪 Sweden
+
+[Infor­ma­tion for persons arriving to Sweden from Ukraine](https://www.migrationsverket.se/English/About-the-Migration-Agency/The-situation-in-Ukraine.html)
+
+[Video](https://youtu.be/wA-iQoU1zBc) from the [Swedish Migration Services](https://www.government.se/government-agencies/the-swedish-migration-agency/) on what placement of refugees looks like.
+
+[Transport Från Ukraina 🇺🇦 till Sverige och hjälp för flyktningar](https://www.facebook.com/groups/703206627465375) (Facebook Group)
 
 
-    [Infor­ma­tion for persons arriving to Sweden from Ukraine](https://www.migrationsverket.se/English/About-the-Migration-Agency/The-situation-in-Ukraine.html)
+#### 🇨🇭 Switzerland
 
 
-    [Video](https://youtu.be/wA-iQoU1zBc) from the [Swedish Migration Services](https://www.government.se/government-agencies/the-swedish-migration-agency/) on what placement of refugees looks like.
+#### 🇹🇷 Turkey
 
+[Turkey: rules for refugees from Ukraine](https://visitukraine.today/blog/197/turkey-rules-for-refugees-from-ukraine)
 
-    [Transport Från Ukraina 🇺🇦 till Sverige och hjälp för flyktningar](https://www.facebook.com/groups/703206627465375) (Facebook Group)
+[Turkey visa for Ukrainian citizens - Turkey Immigration](https://www.turkeyimmigration.org/check-requirements/ukraine)
 
-
-#### **🇨🇭 
-
-<p id="gdcalert25" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Switzerland"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert26">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-[Switzerland](#heading=h.yz7xbtd5rohx)<span style="text-decoration:underline;"> </span>**
-
-
-#### **🇹🇷 <span style="text-decoration:underline;">Turkey</span>**
-
-
-    [Turkey: rules for refugees from Ukraine](https://visitukraine.today/blog/197/turkey-rules-for-refugees-from-ukraine)
-
-
-    [Turkey visa for Ukrainian citizens - Turkey Immigration](https://www.turkeyimmigration.org/check-requirements/ukraine)
-
-
-    [UNHCR | Help for refugees and asylum-seekers in Turkey](https://help.unhcr.org/turkey/#_ga=2.6290357.721434156.1647648538-1458154826.1646456093&_gac=1.259124856.1646989152.CjwKCAiAg6yRBhBNEiwAeVyL0JYI1gtATqf_fkAOGmRsfLKkVXkAdPjHEeUIIsIkYhe_yiNJHAZ1yRoCIpQQAvD_BwE)
-
-
+[UNHCR | Help for refugees and asylum-seekers in Turkey](https://help.unhcr.org/turkey/#_ga=2.6290357.721434156.1647648538-1458154826.1646456093&_gac=1.259124856.1646989152.CjwKCAiAg6yRBhBNEiwAeVyL0JYI1gtATqf_fkAOGmRsfLKkVXkAdPjHEeUIIsIkYhe_yiNJHAZ1yRoCIpQQAvD_BwE)
 
 * "The UNHCR Counselling Line can be reached on 4444868 . It is available from 9.00 to 17.00 on Mondays to Thursdays, and from 9.00 to 16.00 on Fridays."
 * [Services Advisor Interactive Map](https://turkey.servicesadvisor.org/en): Find medical and social services help. 
 
 
-#### **🇬🇧 <span style="text-decoration:underline;">United Kingdom</span>**
+#### 🇬🇧 United Kingdom
 
 
-    Apply for a Ukraine Family Scheme visa:
+Apply for a Ukraine Family Scheme visa:
 
 
-    Guidance for family members of British nationals, UK settled persons and certain others to come to or stay in the UK under the Ukraine Family Scheme, go [here](https://www.gov.uk/guidance/apply-for-a-ukraine-family-scheme-visa). 
+Guidance for family members of British nationals, UK settled persons and certain others to come to or stay in the UK under the Ukraine Family Scheme, go [here](https://www.gov.uk/guidance/apply-for-a-ukraine-family-scheme-visa). 
 
 
-    [Legal and practical guide for people leaving Ukraine to the UK](https://www.taylorwessing.com/en/insights-and-events/insights/2022/03/legal-and-practical-guide-for-people-leaving-ukraine-to-the-uk)
+[Legal and practical guide for people leaving Ukraine to the UK](https://www.taylorwessing.com/en/insights-and-events/insights/2022/03/legal-and-practical-guide-for-people-leaving-ukraine-to-the-uk)
 
 
-    [Citizens Advice | Bringing family members from Ukraine to the UK](https://www.citizensadvice.org.uk/immigration/bringing-family-members-from-ukraine-to-the-uk/)
+[Citizens Advice | Bringing family members from Ukraine to the UK](https://www.citizensadvice.org.uk/immigration/bringing-family-members-from-ukraine-to-the-uk/)
 
 
-    [Ukraine Zone | Guidance on support available to Ukrainian nationals and their family members](https://ukrainezone.org/)
+[Ukraine Zone | Guidance on support available to Ukrainian nationals and their family members](https://ukrainezone.org/)
 
 
-    **3/17 **Companion Animals Update: "Refugees and animals can arrive at the border and the UK Government will assist with simplified paperwork and cover the costs of vaccination and quarantine."
+**17-Mar** Companion Animals Update: "Refugees and animals can arrive at the border and the UK Government will assist with simplified paperwork and cover the costs of vaccination and quarantine."
 
 
-    [Source](https://t.co/cB0fvyOp2C)
+[Source](https://t.co/cB0fvyOp2C)
 
 
-    [How to take in a Ukrainian refugee: Who can sponsor refugees under UK scheme and how to be a host](https://inews.co.uk/news/ukrainian-refugee-how-take-in-sponsor-refugees-uk-scheme-host-explained-1511763?ico=in-line_link): "Brits will be able to nominate a named Ukrainian individual or family to stay with them in their home, or offer a separate property for them to use rent-free.
+[How to take in a Ukrainian refugee: Who can sponsor refugees under UK scheme and how to be a host](https://inews.co.uk/news/ukrainian-refugee-how-take-in-sponsor-refugees-uk-scheme-host-explained-1511763?ico=in-line_link): "Brits will be able to nominate a named Ukrainian individual or family to stay with them in their home, or offer a separate property for them to use rent-free.
 
 
-    People sponsoring refugees will be required to commit to the scheme for a min of six months, but are encouraged to keep up the offer for as long as they can." A £350/month payment if being offered.
+People sponsoring refugees will be required to commit to the scheme for a min of six months, but are encouraged to keep up the offer for as long as they can." A £350/month payment if being offered.
 
 
-    The [Homes for Ukraine](https://homesforukraine.campaign.gov.uk/) website went live on Monday, March 14th. The new scheme will allow people to offer accommodation for fleeing Ukrainian refugees for up to a year.
+The [Homes for Ukraine](https://homesforukraine.campaign.gov.uk/) website went live on Monday, March 14th. The new scheme will allow people to offer accommodation for fleeing Ukrainian refugees for up to a year.
 
 
-    _Ukrainian refugees who are part of the scheme can stay for three years in the UK. During this time they are entitled to work and can access public services_." [Source](https://www.goodto.com/family/family-news/house-a-ukrainian-refugee-uk-655551)
+_Ukrainian refugees who are part of the scheme can stay for three years in the UK. During this time they are entitled to work and can access public services_." [Source](https://www.goodto.com/family/family-news/house-a-ukrainian-refugee-uk-655551)
 
 
-    "[Opora.uk](https://www.opora.uk/?fbclid=IwAR1-fBV3TYVsz2PrWFW0IapMfyib41ARNKxGvElcVFkycLQ2oAtUR8bM1gU) aims to provide both emergency and long-term support to Ukrainians and their families who are looking to rebuild their lives in safety, having fled the war. As well as funding accommodation, travel and helping refugees navigate the immigration system through our online support channels, we are also focussed on identifying structural ways to create self-sustainable employment and self-employment opportunities for Ukrainian families to rebuild their livelihoods."
+"[Opora.uk](https://www.opora.uk/?fbclid=IwAR1-fBV3TYVsz2PrWFW0IapMfyib41ARNKxGvElcVFkycLQ2oAtUR8bM1gU) aims to provide both emergency and long-term support to Ukrainians and their families who are looking to rebuild their lives in safety, having fled the war. As well as funding accommodation, travel and helping refugees navigate the immigration system through our online support channels, we are also focussed on identifying structural ways to create self-sustainable employment and self-employment opportunities for Ukrainian families to rebuild their livelihoods."
 
 
-#### **🇺🇸 <span style="text-decoration:underline;">United States</span>**
+#### 🇺🇸 United States
 
+"Ukrainian nonimmigrant visa applicants may apply anywhere they are physically located & can schedule an appointment. Follow instructions on the respective embassy website to apply. Find a list of embassy websites [here](https://www.usembassy.gov).
 
-    "Ukrainian nonimmigrant visa applicants may apply anywhere they are physically located & can schedule an appointment. Follow instructions on the respective embassy website to apply. Find a list of embassy websites [here](https://www.usembassy.gov).
+Most Ukrainian immigrant visas, other than adoption cases, will be processed by U.S. Consulate General Frankfurt. U.S. Embassy Warsaw will process Ukrainian adoption cases, diplomatic & official visas. More information [here](https://travel.state.gov/content/travel/en/News/visas-news/announcement-of-processing-posts-for-visa-applicants-from-Ukraine.html)." [Source](https://www.facebook.com/photo.php?fbid=328915809271476&set=a.227341039428954&type=3)
 
-
-    Most Ukrainian immigrant visas, other than adoption cases, will be processed by U.S. Consulate General Frankfurt. U.S. Embassy Warsaw will process Ukrainian adoption cases, diplomatic & official visas. More information [here](https://travel.state.gov/content/travel/en/News/visas-news/announcement-of-processing-posts-for-visa-applicants-from-Ukraine.html)." [Source](https://www.facebook.com/photo.php?fbid=328915809271476&set=a.227341039428954&type=3)
-
-
-    "The**_ _**[US Dept of State](https://corporateimmigrationpartners.com/us-department-of-state-releases-guidance-for-ukrainian-applicants/) has issued further details for Ukrainian applicants affected by the ongoing crisis in Ukraine:
-
-
-
+"The [US Dept of State](https://corporateimmigrationpartners.com/us-department-of-state-releases-guidance-for-ukrainian-applicants/) has issued further details for Ukrainian applicants affected by the ongoing crisis in Ukraine:
 * The guidance applies to immigrant and nonimmigrant visas
 * Applicants must prove intent to leave the US, when it is safe, to receive a nonimmigrant visa
 * Individuals who have filed a Form I-130 petition with USCIS can request expedited processing
@@ -1525,29 +1377,21 @@ UNHCR: [Slovakia Help Page](http://t.co/B08aWP7ILK)
 
 [US Embassy | Visas](https://ua.usembassy.gov/visas/)
 
+If you are seeking information about immediate humanitarian assistance in Poland (also see: [here](https://www.facebook.com/100002762915374/posts/4365127950255926/)): [US Embassy | Humanitarian Assistance & Visa Information For Ukrainians ](https://pl.usembassy.gov/visas/humanitarian-assistance-and-visa-information-for-ukrainians/)
 
-    If you are seeking information about immediate humanitarian assistance in Poland (also see: [here](https://www.facebook.com/100002762915374/posts/4365127950255926/)): [US Embassy | Humanitarian Assistance & Visa Information For Ukrainians ](https://pl.usembassy.gov/visas/humanitarian-assistance-and-visa-information-for-ukrainians/)
+In Ukrainian: [Посольство США | Гуманітарна допомога та візова інформація для українців](https://pl.usembassy.gov/visas/humanitarian_assistance_visas_ukr/)
 
+[Immigration Help Available to Those Affected by Special Situations, Including the Invasion of Ukraine](https://www.uscis.gov/newsroom/alerts/immigration-help-available-to-those-affected-by-special-situations-including-the-invasion-of-ukraine)
 
-    In Ukrainian: [Посольство США | Гуманітарна допомога та візова інформація для українців](https://pl.usembassy.gov/visas/humanitarian_assistance_visas_ukr/)
+"[This document](https://novaukraine.org/faq-en/) has information regarding what kind of help is available for those who are in the USA or need to get to the USA." (FAQ by [Nova Ukraine](https://novaukraine.org/))
 
+[Nova Ukraine | Request Help for Ukrainian Refugee in the US](https://docs.google.com/forms/d/e/1FAIpQLSd9aai0ZBcf25C8aEAIFvOuN6XcGVBAsGcwYB0vuSCYa6518Q/viewform) 
 
-    [Immigration Help Available to Those Affected by Special Situations, Including the Invasion of Ukraine](https://www.uscis.gov/newsroom/alerts/immigration-help-available-to-those-affected-by-special-situations-including-the-invasion-of-ukraine)
+They are collecting available resources and will connect you with people willing to help.
 
+[Welcome.US | Ukraine Hub](https://t.co/gwSHUOHyWF): learn how citizens can help Ukrainian families newly arriving to the US. 
 
-    "[This document](https://novaukraine.org/faq-en/) has information regarding what kind of help is available for those who are in the USA or need to get to the USA." (FAQ by [Nova Ukraine](https://novaukraine.org/))
-
-
-    [Nova Ukraine | Request Help for Ukrainian Refugee in the US](https://docs.google.com/forms/d/e/1FAIpQLSd9aai0ZBcf25C8aEAIFvOuN6XcGVBAsGcwYB0vuSCYa6518Q/viewform) 
-
-
-    They are collecting available resources and will connect you with people willing to help.
-
-
-    [Welcome.US | Ukraine Hub](https://t.co/gwSHUOHyWF): learn how citizens can help Ukrainian families newly arriving to the US. 
-
-
-    Humanitarian Casework Assistance from [CA Senator Padilla's Office](https://www.padilla.senate.gov/assistance-for-ukraine/): "If you or your immediate family have been affected by Russia’s invasion of Ukraine and need humanitarian assistance, complete [this form](https://www.padilla.senate.gov/services/agency-assistance/agency-assistance-form/)." (See above link for instructions.) Questions: [casework_padilla@padilla.senate.gov](mailto:casework_padilla@padilla.senate.gov)
+Humanitarian Casework Assistance from [CA Senator Padilla's Office](https://www.padilla.senate.gov/assistance-for-ukraine/): "If you or your immediate family have been affected by Russia’s invasion of Ukraine and need humanitarian assistance, complete [this form](https://www.padilla.senate.gov/services/agency-assistance/agency-assistance-form/)." (See above link for instructions.) Questions: [casework_padilla@padilla.senate.gov](mailto:casework_padilla@padilla.senate.gov)
 
 
 ---
