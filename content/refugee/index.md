@@ -316,78 +316,35 @@ The ICRC & UNHCR Advise:
     * [Irish Rail](https://www.irishrail.ie/) is helping refugees fleeing the crisis with their rail travel upon arrival into Ireland, for transfer from arrival point to relatives, host families or other facilities within the country.
     * [Stena Line](https://www.stenaline.co.uk/) has been providing free travel to Ukrainians across all routes since the beginning of the conflict. They now get free meals onboard too." [Source](https://www.irishtimes.com/news/ireland/irish-news/some-public-transport-services-available-for-free-for-ukrainian-refugees-1.4825440)
 
+## Medical/Health
 
----
-
-
-# **5. Medical/Health**
-
-
-
-* [COVID-19 Vaccinations](https://kyivcity.gov.ua/news/u_stolitsi_pratsyuyut_73_punkti_vaktsinatsi_vid_COVID-19_adresi_telefoni/) are available at 73 locations in Kyiv. You can find 
-
-    addresses & telephone numbers at the above link.
-
-
-<table>
-  <tr>
-   <td>
-<ul>
-
-<li><a href="https://en.moz.gov.ua/">MoH of Ukraine</a>: list of pharmacies where diabetics can get insulin - continually updated. Call the pharmacy and check the availability of medications before going.
-    Reminder: In a state of war, patients can receive "Affordable Medicines" both electronically and on paper. 
-<ul>
- 
-<li>How to get a consultation from a family doctor or a prescription for insulin: <a href="https://tsn.ua/zdorovya/korysni-statti/vazhlivi-zmini-u-medicini-pid-chas-viyni-yak-otrimati-konsultaciyu-simeynogo-likarya-chi-recept-na-insulin-2020681.html">Go here</a>.
- 
-<li><a href="http://t.me/mozofficial/2247">List of pharmacies</a>.
- 
-<li><a href="http://bit.ly/apteky_insul">Where to find insulin</a>.
- 
-<li>You can contact the MoH hotline at: 0800 60 20 19. The operator will submit your application for processing and insulin will be found either in a pharmacy or delivered by volunteers.
- 
-<li>Ukraine Pharmacy Locator <a href="https://www.google.com/maps/d/embed?mid=11ftUM5axVYLzh23VvRRUNBcDZ4stmh1l&ehbc=2E312F&ll=50.54066462166791%2C30.515160743160727&z=6&fbclid=IwAR3AYuntsTaQ9VATEjfpNxlxW5bfWWimu4jLevXwCdpf08uKK6SyiqHu6eg">Map</a>.
- 
-<li>Kyiv Pharmacy Locator <a href="https://www.google.com/maps/d/viewer?mid=1dDKrnjMJs3vcFfoE77CVYV-X2tF9jzeZ&ll=50.22666457982802%2C28.946304030713467&z=9">Map</a>.
-<ul>
-
-<li>The Ministry of Health published recommendations on home care during martial law. Go <a href="https://moz.gov.ua/article/news/pidgotovlenij-%e2%80%93-znachit-zahischenij">here</a>.
-<ul>
-
-<li>Brigham and Women's Hospital made videos showing Ukrainians how to recognize and react to life-threatening bleeding. <a href="https://m.youtube.com/watch?v=epCU2EiDXsc&feature=youtu.be">Stop The Bleed</a> is in Ukrainian. 
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-   </td>
-   <td>
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image11.jpg" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-  </tr>
-</table>
-
-
-
-
-* This is an excellent resource to use in case of emergency, when medical personnel are unavailable or cannot immediately respond: [Ukraine Humanitarian Aid: Medical Quick Guide](https://docs.google.com/document/d/1-li6T8KwFSB3zSEG_hP4ffa5yR1zS15t7MwJmYPKSPs/edit?usp=drivesdk). 
-* While it is not meant to take the place
-
-    of medical care, it offers clear guidance for quick actions to take in response to injury or illness. It provides information and care guidance for the following: 
-
-    * [Gunshot Wounds](https://docs.google.com/document/d/1w59p4ar7wwrZCV8c9PeUIJPGFA53jUcFaJhJCCM5Fik/edit#heading=h.6o2cl91qqf59): Arterial
-
-[TOC]
-
-
+* [COVID-19 Vaccinations](https://kyivcity.gov.ua/news/u_stolitsi_pratsyuyut_73_punkti_vaktsinatsi_vid_COVID-19_adresi_telefoni/) are available at 73 locations in Kyiv. You can find addresses & telephone numbers at the above link.
+* [MoH of Ukraine](https://en.moz.gov.ua/): list of pharmacies where diabetics can get insulin - continually updated. Call the pharmacy and check the availability of medications before going.
+  * Reminder: In a state of war, patients can receive "Affordable Medicines" both electronically and on paper. 
+  * How to get a consultation from a family doctor or a prescription for insulin: [Go here](https://tsn.ua/zdorovya/korysni-statti/vazhlivi-zmini-u-medicini-pid-chas-viyni-yak-otrimati-konsultaciyu-simeynogo-likarya-chi-recept-na-insulin-2020681.html).
+  * [List of pharmacies](http://t.me/mozofficial/2247)
+  * [Where to find insulin](http://bit.ly/apteky_insul)
+  * You can contact the MoH hotline at: 0800 60 20 19. The operator will submit your application for processing and insulin will be found either in a pharmacy or delivered by volunteers.
+  * Ukraine Pharmacy Locator [Map](https://www.google.com/maps/d/embed?mid=11ftUM5axVYLzh23VvRRUNBcDZ4stmh1l&ehbc=2E312F&ll=50.54066462166791%2C30.515160743160727&z=6&fbclid=IwAR3AYuntsTaQ9VATEjfpNxlxW5bfWWimu4jLevXwCdpf08uKK6SyiqHu6eg)
+  * Kyiv Pharmacy Locator [Map](https://www.google.com/maps/d/viewer?mid=1dDKrnjMJs3vcFfoE77CVYV-X2tF9jzeZ&ll=50.22666457982802%2C28.946304030713467&z=9)
+* The Ministry of Health published recommendations on home care during martial law. Go [here](https://moz.gov.ua/article/news/pidgotovlenij-%e2%80%93-znachit-zahischenij)
+* Brigham and Women's Hospital made videos showing Ukrainians how to recognize and react to life-threatening bleeding. [Stop The Bleed](https://m.youtube.com/watch?v=epCU2EiDXsc&feature=youtu.be) is in Ukrainian. 
+* <img src="assets/images/image17.jpg" width="50%" />
+* This is an excellent resource to use in case of emergency, when medical personnel are unavailable or cannot immediately respond: [Ukraine Humanitarian Aid: Medical Quick Guide](https://docs.google.com/document/d/1-li6T8KwFSB3zSEG_hP4ffa5yR1zS15t7MwJmYPKSPs/edit?usp=drivesdk). (🇺🇦 - [Guide in Ukranian](https://docs-google-com.translate.goog/document/d/1-li6T8KwFSB3zSEG_hP4ffa5yR1zS15t7MwJmYPKSPs/mobilebasic?_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=en), 🇷🇺 - [Guide in Russian](https://docs-google-com.translate.goog/document/d/1-li6T8KwFSB3zSEG_hP4ffa5yR1zS15t7MwJmYPKSPs/mobilebasic?_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=en))
+* While it is not meant to take the place of medical care, it offers clear guidance for quick actions to take in response to injury or illness. It provides information and care guidance for the following: 
+    *  Gunshot Wounds, Arterial Bleeding, Entrance and Exit Wounds & Tourniquet Application
+    *  Explosion and Burn Wounds, Wounds caused by Explosions & Recognizing and Treating different degree burns
+    *  Major cuts and wounds
+    *  Airway & Respiration
+    *  Spinal & Neck injury
+    *  How to recognize shock & How to treat shock
+    *  Treating hypothermia
+    *  Dehydration // Recognizing dehydration
+    *  Eye injury
+    *  Fractures
+    *  Minor cuts and wounds; How to avoid wound infection & How to treat wound infection
+    *  Taking vitals & documenting
+    *  Improvised Devices
 * The doctors of the DSNS advise how to perform first aid in [this video](https://fb.watch/bTzooJ-EHl/).
 * Information from the [Ukrainian Red Cross](https://redcross.org.ua/en/): First Aid for [hypothermia & frostbite](https://www.facebook.com/101653595808533/posts/110675678239658/) and for [stroke](https://www.facebook.com/101653595808533/posts/111863054787587/).
 * [Tactical Combat Casualty Care](https://www.gsmsg.org/ukrainiantccc), which the American military uses, translated into Ukrainian.
@@ -397,10 +354,7 @@ The ICRC & UNHCR Advise:
     * During martial law, doctors will meet/receive patients without a referral.
     * [Video](https://fb.watch/bSsfvWI8X1/) with more information. 
 
-
-## **~Doctors, Midwives & Clinics **
-
-
+### Doctors, Midwives & Clinics
 
 * [Samaritan's Purse](https://www.samaritanspurse.org/our-ministry/ukraine-response/) medical clinic is open at the train station in _Lviv_ to help Ukrainians in need of care.
 * _Ukraine_: The [Helsi Medical System](https://www.facebook.com/helsi.me/posts/505955581197132) team has updated the system of online consultations with doctors and made them free for all Ukrainians." [Source ](https://visitukraine.today/blog/213/where-to-get-a-doctors-consultation-for-free-during-the-war)
@@ -413,103 +367,38 @@ The ICRC & UNHCR Advise:
 * Free medical consultations from [Dobrobut doctors](https://www.dobrobut.com/med/c-bezoplatni-konsultacii-likariv-dobrobut-telefonom-ta-onlajn?fbclid=IwAR1EkAknIOtRlpQs4FHrnQFE-mCz1BRa5zZjXpnIIFzIDRiNr7L_eCfCdUw) by phone and online.
 
 
-## **~Medical Help Bots **
-
-
+### Medical Help Bots
 
 * You can use [MedhelpUkrainebot](https://t.me/MedhelpUkrainebot) if you are in need of medical attention.
 * The [MedHelp_UA_bot](https://lp.chatforma.com/landing/2394) is a chatbot for Telegram or Viber, created by doctors and pharmacists, in order to provide medical care and help finding medication or transportation for medical care.
 * The [Doc2rbot](https://t.me/Doc2rbot) helps you locate a doctor.
 
-
----
-
-
-# **6. Emergency Hotlines_ _**
-
-
+## Emergency Hotlines
 
 * [List of Emergency Telephone Numbers](https://en.wikipedia.org/wiki/List_of_emergency_telephone_numbers) — Emergency services contact numbers, by country.
+    * [International Organization For Migration](https://www.iom.int/) (IOM) has set up information and support hotlines for persons fleeing Ukraine in different countries." Contact: +41 22 717 9111<br />
+    🇺🇦 Ukraine: 527 (free from mobile phones), 0800505501 (free from landline phones).<br />
+    🇵🇱 Poland: +48 22 490 20 44<br />
+    🇹🇩 Romania: the online support platform <a href="https://dopomoha.ro/">dopomoha.ro</a> (developed by <a href="https://code4.ro/">Code4Romania</a> with support from IOM Romania) is now live <a href="http://romania.iom.int/news/online-platform-dopomoharo-developed-code4romania-support-iom-romania-now-live">here</a>.<br />
+    🇱🇹 Lithuania: +370 525 14352 is run by IOM's Migration Information Centre, also available through live chat <a href="http://www.renkuosilietuva.lt/ru">here</a>.<br />
+    🇸🇰 Slovakia: from abroad 00421 5263 0023, locally 0850 211 478, Telegram/Signal: 00421 908 767 853 (voice only), go <a href="http://www.mic.iom.sk/en">here</a>. <a href="https://www.iom.int/iom-hotlines-persons-affected-crisis-ukraine">Source</a> (<a href="https://m.facebook.com/IOM">Facebook</a>)(<a href="https://twitter.com/UNmigration?t=u-ZYxJDhorAUGhoX-iSClg&s=09">Twitter</a>)<br />
 
-<table>
-  <tr>
-   <td>
-<ul>
+<img src="assets/images/image13.jpg" width="50%" />
 
-<li>"<a href="https://www.iom.int/">International Organization For Migration </a>(IOM) has set up information and support hotlines for persons fleeing Ukraine in different countries." Contact: +41 22 717 9111
-    🇺🇦 Ukraine: 527 (free from mobile phones), 0800505501 (free from landline phones).
-<p>
-
-     
-<p>
-
-    🇵🇱 Poland: +48 22 490 20 44
-<p>
-
-     
-<p>
-
-    🇹🇩 Romania: the online support platform <a href="https://dopomoha.ro/">dopomoha.ro</a> (developed by <a href="https://code4.ro/">Code4Romania</a> with support from IOM Romania) is now live <a href="http://romania.iom.int/news/online-platform-dopomoharo-developed-code4romania-support-iom-romania-now-live">here</a>.
-<p>
-
-    🇱🇹 Lithuania: +370 525 14352 is run by IOM's Migration Information Centre, also available through live chat <a href="http://www.renkuosilietuva.lt/ru">here</a>.
-<p>
-
-    🇸🇰 Slovakia: from abroad 00421 5263 0023, locally 0850 211 478, Telegram/Signal: 00421 908 767 853 (voice only), go <a href="http://www.mic.iom.sk/en">here</a>. <a href="https://www.iom.int/iom-hotlines-persons-affected-crisis-ukraine">Source</a> (<a href="https://m.facebook.com/IOM">Facebook</a>)(<a href="https://twitter.com/UNmigration?t=u-ZYxJDhorAUGhoX-iSClg&s=09">Twitter</a>)
-
-<p>
-
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image12.jpg" width="" alt="alt_text" title="image_tooltip">
-
-<ul>
-
-<li>"<a href="https://www.jdcentwine.org/">JDC Entwine</a> has set up emergency hotlines for anyone who needs assistance. The hotlines are being staffed from 8:00 to 20:00 (in the local time zones) daily. We continue to work in Ukraine to ensure all have access to their basic needs." (<a href="https://www.facebook.com/jdcentwine/">Facebook</a>)(<a href="https://twitter.com/jdcentwine">Twitter</a>) Emergency Hotline Numbers: 
-<ul>
- 
-<li>Ukraine — +38 094 711 11 04
- 
-<li>Estonia — +372 56 998 880
- 
-<li>Hungary — +36 30 541 8771
- 
-<li>Latvia — +371 22 535 225
- 
-<li>Poland — +48 509 135 836
- 
-<li>Romania — +40 735 33 7777
- 
-<li>Slovakia — +421 917 711 896 (<a href="mailto:help@uzzno.sk">help@uzzno.sk</a>)
-</li> 
-</ul>
-</li> 
-</ul>
-</li> 
-</ul>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
-
-
-
+* [JDC Entwine](https://www.jdcentwine.org/) has set up emergency hotlines for anyone who needs assistance. The hotlines are being staffed from 8:00 to 20:00 (in the local time zones) daily. We continue to work in Ukraine to ensure all have access to their basic needs." ([Facebook](https://www.facebook.com/jdcentwine/))([Twitter](https://twitter.com/jdcentwine)) Emergency Hotline Numbers: 
+   * Ukraine — +38 094 711 11 04
+   * Estonia — +372 56 998 880
+   * Hungary — +36 30 541 8771
+   * Latvia — +371 22 535 225
+   * Poland — +48 509 135 836
+   * Romania — +40 735 33 7777
+   * Slovakia — +421 917 711 896 (<a href="mailto:help@uzzno.sk">help@uzzno.sk</a>)
 * [Chabad of Moldova](https://kishinev.org/help-chabad-of-moldova-welcomes-jewish-refugees-from-ukraine/): Hotline number for Russian, English and Hebrew is: +373 22 541023. (They help Jewish Ukranians by helping to secure transport and providing shelter/ warm meals.)
 * [International Suicide Hotlines](https://www.opencounseling.com/suicide-hotlines)
-
-    "If you or someone you know if suicidal, call one of the numbers below. If someone is in IMMEDIATE danger, please call your local emergency number e.g. 911 in the US or 112 in the EU."
-
+    * "If you or someone you know if suicidal, call one of the numbers below. If someone is in IMMEDIATE danger, please call your local emergency number e.g. 911 in the US or 112 in the EU."
 * [International Directory | Find A Helpline](https://findahelpline.com/i/iasp): "Struggling? Get free, confidential support from a real human over phone, text or web chat — free emotional support, wherever you are."
 
-
----
-
-
-# **7. Searching For Missing Loved Ones**
+## Searching For Missing Loved Ones
 
 
 
