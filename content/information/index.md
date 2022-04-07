@@ -94,7 +94,7 @@ more than one.
    * [Telegram](https://telegram.me/bbcworldnews)
 * [Der Spiegel International ](https://www.spiegel.de/international/world/) (requires free registration)
     * [Facebook](https://www.facebook.com/spiegelinternational/)
-    * [Twitter](https://twitter.com/derspiege l)
+    * [Twitter](https://twitter.com/derspiegel)
     * [Telegram](https://www.spiegel.de/thema/telegram/)
 * [Atlantic Council | Ukraine Alert](https://www.atlanticcouncil.org/category/blogs/ukrainealert/#signup-ukrainealert)
     * [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.atlanticcouncil.org%2Fblogs%2Fukrainealert%2Frussian-energy-embargo-europe-must-stop-financing-putins-ukraine-war%2F#)
