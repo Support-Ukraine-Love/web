@@ -513,21 +513,18 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
 
     "Compassion fatigue is basically a draining of emotional energy for those of us who deal with others' pain," said Walter Roberts, an American Red Cross disaster relief mental health lead. “Typically it has a tendency to be progressive and sneak up on people and oftentimes we characterize this as burnout.” [Source](https://krcgtv.com/news/local/compassion-fatigue)
 
-* [MindfulNext | On compassion fatigue, vicarious trauma & burnout](http://www.mindfulnext.org/on-compassion-fatigue-vicarious-trauma-burnout/):
-
-    "What are some signs/symptoms of compassion fatigue?
-
-* Increased isolation from others
-* Apathy, sadness, no longer finding activities pleasurable
-* Feels that colleagues and friends simply don’t understand
-* Can’t recover quickly after association with a traumatic event
-* Affected deeply by stress of clients
-* Lost sense of hopefulness and optimism; cynicism and pessimism
-* Difficulty concentrating on anything
-* Mentally and physically tired
-* Nightmares or flashbacks of traumatic event
-* Substance abuse used to mask feelings
-* Compulsive behaviors such as overspending, overeating, gambling, addictions." 
+* [MindfulNext | On compassion fatigue, vicarious trauma & burnout](http://www.mindfulnext.org/on-compassion-fatigue-vicarious-trauma-burnout/): <br />"What are some signs/symptoms of compassion fatigue?
+   * Increased isolation from others
+   * Apathy, sadness, no longer finding activities pleasurable
+   * Feels that colleagues and friends simply don’t understand
+   * Can’t recover quickly after association with a traumatic event
+   * Affected deeply by stress of clients
+   * Lost sense of hopefulness and optimism; cynicism and pessimism
+   * Difficulty concentrating on anything
+   * Mentally and physically tired
+   * Nightmares or flashbacks of traumatic event
+   * Substance abuse used to mask feelings
+   * Compulsive behaviors such as overspending, overeating, gambling, addictions." 
 
 **_<u>Take care of yourselves, too!</u>_**
 
