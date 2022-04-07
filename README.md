@@ -139,5 +139,6 @@ contact at `3`, and the rest are all at `2`. This ensures that
 charities is always at the top, contact always at the bottom, and
 the rest are listed in alphabetical order.
 
+Inline comments are standard HTML comments.
 
 Favicons located in `static/`
