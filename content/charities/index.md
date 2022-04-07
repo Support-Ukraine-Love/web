@@ -314,7 +314,7 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
 
     Donate [here](https://novaukraine.org/donate/). ([Facebook](https://m.facebook.com/novaukraine.org))([Twitter](https://twitter.com/RealNovaUkraine?t=sizPsZ3M4WI2FNPkvmUFwg&s=09))
 
-* **🇺🇦 **[Come Back Alive - Save Lives In Ukraine](https://www.comebackalive.in.ua/): "Our organization does not use funds for purchasing arms. Our mission is limited to supplying technology, trainings, and accouterments to help save lives of Ukrainians and help our warriors defend Ukraine." 
+* 🇺🇦 [Come Back Alive - Save Lives In Ukraine](https://www.comebackalive.in.ua/): "Our organization does not use funds for purchasing arms. Our mission is limited to supplying technology, trainings, and accouterments to help save lives of Ukrainians and help our warriors defend Ukraine." 
 
     Donate [here](https://www.comebackalive.in.ua/donate). ([Facebook](https://www.facebook.com/backandalive/))([Twitter](https://twitter.com/BackAndAlive?t=eiQl98ujLmJRk_SazhLIRA&s=09))
 
@@ -384,7 +384,7 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
 
 ### Animal Organizations
 
-* **🇺🇸 **[Fleet of Angels](https://www.fleetofangels.org/) to provide funds for emergency transport and feed for the _horses_ still in Ukraine and aftercare for those who reach safe havens in NATO countries. 
+* 🇺🇸[Fleet of Angels](https://www.fleetofangels.org/) to provide funds for emergency transport and feed for the _horses_ still in Ukraine and aftercare for those who reach safe havens in NATO countries. 
 
     Donate [here](https://www.paypal.com/pools/c/8HQd9XrViB). ([Facebook](https://www.facebook.com/FleetOfAngelsNews/))
 
