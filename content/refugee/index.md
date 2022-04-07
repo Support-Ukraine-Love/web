@@ -14,6 +14,8 @@ Note: where relevant there are language indicators between English
 (abbrev: EN), Ukrainian (abbrev: 🇺🇦), and/or Russian (abbrev:
 🇷🇺).
 
+**Page last updated: 6 Apr 2022**
+
 ## Announcements / New
 
 **Sunday, 3 April -  Wednesday, 6 April:**
