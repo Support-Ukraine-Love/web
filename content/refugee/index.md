@@ -14,18 +14,26 @@ Note: where relevant there are language indicators between English
 (abbrev: EN), Ukrainian (abbrev: 🇺🇦), and/or Russian (abbrev:
 🇷🇺).
 
+**Page last updated: 6 Apr 2022**
+
 ## Announcements / New
 
-**Friday, 1 April -  Monday, 4 April:**
+**Sunday, 3 April -  Wednesday, 6 April:**
 
+* [State Ecological Inspectorate of Ukraine](https://www.zoda.gov.ua/news/60381/operativniy-shtab-ta-derzhavna-ekologichna-inspektsiya-ukrajini-prodovzhujut-formuljuvati-perelik-porushen-u-sferi-ohoroni-navkolishnogo-seredovisha.html): "A special [website](https://shtab.gov.ua) was created, through which citizens have the opportunity to report environmental damage. The purpose is to form a list of all violations in the field of environmental protection (explosions/bombardments of oil storage facilities, destruction of dams, etc — they have a list on the site) to bring the aggressor to justice."
+    * Hotline: +380 (96) 756-83-66 (Telegram, WhatsApp, Viber)
+    * Telegram [Chatbox](http://t.me/ecoshkodabot)
+    * Email: [eco@shtab.gov.ua](mailto:eco@shtab.gov.ua)
+* "[Zaporizhia Regional Military Administration](https://www.zoda.gov.ua/news/59659): the Center for Reception of Displaced Persons is open at: Zaporizhia, vul. Record, 41 (premises of the State Enterprise "Zaporizhzhya State Circus"). You need to register here. The Center will also be able to feed, heat & coordinate further actions.
+    * Zaporozhye region — hotline for people moving from the combat zone: +38 066 926 50 97; +38 068 297 01 18; +38 061 787 94 75
+    * Ukrainians can get information on where to apply for temporary accommodation in Zaporizhia."
+* _In the US_: "If news of a crisis in another country has you feeling overwhelmed, anxious or upset, you're not alone: the national [@Distressline](https://twitter.com/distressline?lang=en) offers 24/7 support. Call or text 1-800-985-5990 and #TalkWithUs." [Source](https://t.co/6ijd8HX0m7)
+* [Ukraine Refugees in the US: How Mental Health Professionals Can Prepare](https://pro.psycom.net/special_reports/trauma-survivors-ptsd-treatment-approaches/ukraine-refugees-in-the-us-how-mental-health-professionals-can-prepare) — "It is likely that refugees will have had experienced direct exposure to warfare, loss or separation from family, life-threatening journeys to safety, guilt about those left behind, food and shelter scarcity for prolonged periods, and complexities with acculturation by the time they reach our offices."
+* US: [Lawyers for Good Government](https://www.lawyersforgoodgovernment.org/client-waitlist-form-english) – "We will be providing free legal assistance to Ukrainian Nationals seeking Temporary Protected Status (TPS). Please fill out this form to join our list of people to be notified when Ukrainians are allowed to prepare and submit TPS applications."
+* [Vets for Ukrainian Pets](https://lnkd.in/gN-_rRee): "Humane Society International together with FVE - Federation of Veterinarians of Europe and FECAVA is rolling out a program to provide _free veterinary care for pets and horses_ of Ukrainian refugees across 38 European countries." 
 * [European Commission Telegram channel](https://t.me/europeancommission/52): "The EU has launched a dedicated language service for questions related to EU solidarity with Ukraine.
     * Citizens within the EU or abroad can use the helpline to receive written replies in Ukr & Rus. (+24 other languages)
     * The EU says it will reply in 3 working days (or longer, for more complex questions)." [Source](https://euneighbourseast.eu/news-and-stories/latest-news/ask-the-eu-a-question-in-ukrainian-or-russian-new-service-launched/)
-* "The [Thomson Foundation](https://www.thomsonfoundation.org/) has created a course on reacting to a chemical weapons attack that is delivered via a Telegram bot, with the help of chemical and biological weapons expert Hamish de Bretton-Gordon." [Source](https://twitter.com/NovelSci/status/1509687859388715022?t=9uA1zaWFRgkdd0OMhV_1Yw&s=19)
-    * English: [t.co/9pjRO7oBK8](https://t.co/9pjRO7oBK8)
-    * Ukrainian: [t.co/RxMyjGEb7b](https://t.co/RxMyjGEb7b)
-* [AE member organisations supporting autistic people in Ukraine](https://www.autismeurope.org/ae-member-organisations-supporting-autistic-people-in-ukraine/): "On this page you will find the actions and support that AE member organisations are providing to autistic refugees from Ukraine."
-* [Information for Ukrainians arriving in the European Union](https://www.edf-feph.org/information-for-ukrainians-arriving-in-the-european-union/): This provides valuable information for those arriving in/choosing to stay in any of the EU countries. There are also links to each country's website for Ukrainian residents.
 
 **[Danger Zones](https://www.google.com/maps/d/u/0/viewer?ll=50.37243250000009%2C30.460808699999994&mid=14PnyHN3WPgBZgpJ3q0BOMswKge1hv1au&shorturl=1&z=11): Interactive, live update map of target areas, by [Liveuamap](https://liveuamap.com/).**
 
@@ -69,6 +77,8 @@ Note: where relevant there are language indicators between English
 
 * [Facebook](https://www.facebook.com/modofukraine)
 * [Twitter](https://twitter.com/DefenceU?t=7MxacXM6G67MDeF9FcSNzQ&s=09)
+* [Telegram](https://t.co/vXHinHjRIj%E2%80%A6)
+* [Instagram](https://t.co/jLQVwTKWwy)
 
 [Defence Intelligence of Ukraine ](https://gur.gov.ua/en.html)
 
@@ -213,6 +223,10 @@ The ICRC & UNHCR Advise:
     * 0684147963 - for those who need asylum, housing, or humanitarian assistance;
     * 0971821860 - for those who need asylum, housing, or humanitarian assistance;
     * 0636633371 - to address transport issues."
+* 🇺🇦 "[Zaporizhia Regional Military Administration](https://www.zoda.gov.ua/news/59659): the Center for Reception of Displaced Persons is open at: Zaporizhia, vul. Record, 41 (premises of the State Enterprise "Zaporizhzhya State Circus"). You need to register here. The Center will also be able to feed, heat & coordinate further actions.
+    * Zaporozhye region — hotline for people moving from the combat zone: +38 066 926 50 97; +38 068 297 01 18; +38 061 787 94 75
+    * Ukrainians can get information on where to apply for temporary accommodation in Zaporizhia."
+    * [Shelter points](https://www.zoda.gov.ua/article/2603) in Zaporizhia Region. 
 * 🇺🇦 [How to get help and a temporary home in Ukraine: instructions from "Action"](https://www.unian.ua/society/yak-otrimati-dopomogu-ta-timchasoviy-dim-v-ukrajini-instrukciya-vid-diji-novini-ukrajini-11742667.html?utm_source=twitter&utm_medium=twitter&utm_campaign=twitter_site): "Currently, [CNAPs](https://koda.gov.ua/en/interactive-map-of-cnaps/) operate as Care Centers in 120 settlements of Ukraine.
     * Internally displaced persons can receive assistance and temporary shelter at administrative service centers (ADCs) in 14 oblasts of Ukraine.
     * CNAPs operate as Care Centers where you can get basic necessities and temporary shelter. You can find out exactly [where the Care Center works with a chatbot](https://www.unian.ua/techno/communications/mincifri-zapustilo-chatbot-dlya-dopomogi-pereselencyam-11721988.html) on Telegram [@turbotnyk_bot](https://t.me/turbotnyk_bot)." (For [Viber](https://tinyurl.com/turbotnyk))
@@ -409,15 +423,26 @@ The ICRC & UNHCR Advise:
    * 🇹🇩 Romania — +40 735 33 7777
    * 🇸🇰 Slovakia — +421 917 711 896 (<a href="mailto:help@uzzno.sk">help@uzzno.sk</a>)
 
+* 🇺🇦 [Zaporizhia Regional Contact Center](https://www.zoda.gov.ua/news/59987/) — a humanitarian hotline is set up: "Information on illegal detention of Ukrainian citizens, foreign citizens & persons in temporarily uncontrolled territories, Ukrainian authorities, or missing civilians may be reported to the below telephone numbers.
+
+    At the local level, representatives of religious, charitable & public orgs, and volunteers will be involved to help citizens who are in the respective territories.
+
+    * Call the hotline at: 0800-503-508
+    * You may also call: 067-220-41-12; 095-220-41-11."
+
 * 🇲🇩 [Chabad of Moldova](https://kishinev.org/help-chabad-of-moldova-welcomes-jewish-refugees-from-ukraine/): Hotline number for Russian, English and Hebrew is: +373 22 541023. (They help Jewish Ukranians by helping to secure transport and providing shelter/ warm meals.)
 * [International Suicide Hotlines](https://www.opencounseling.com/suicide-hotlines)
     * "If you or someone you know if suicidal, call one of the numbers below. If someone is in IMMEDIATE danger, please call your local emergency number e.g. 911 in the US or 112 in the EU."
-* [European Commission Telegram channel](https://t.me/europeancommission/52): "The EU has launched a dedicated language service for questions related to EU solidarity with Ukraine.
-    * Citizens within the EU or abroad can use the helpline to _receive written replies in Ukr & Rus_. (+24 other languages)
-    * The EU says it will reply in 3 working days (or longer, for more complex questions)." [Source](https://euneighbourseast.eu/news-and-stories/latest-news/ask-the-eu-a-question-in-ukrainian-or-russian-new-service-launched/)
 * [International Directory | Find A Helpline](https://findahelpline.com/i/iasp): "Struggling? Get free, confidential support from a real human over phone, text or web chat — free emotional support, wherever you are."
 * [Refugees | Help Chats in Europe](https://www.facebook.com/groups/ukraineresourcesinformationandrelief/permalink/338951231536313/):
     * Telegram chats, facebook groups & government sites for: Austria, Belgium, Brazil, Czech Republic, Cypres, Denmark, France, Germany, Hungary, Italy, Latvia, Moldova, Paris, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland and Ukraine. (4/3 They will keep adding to this list.)
+* [European Commission Telegram channel](https://t.me/europeancommission/52): "The EU has launched a dedicated language service for questions related to EU solidarity with Ukraine.
+    * Citizens within the EU or abroad can use the helpline to _receive written replies in Ukr & Rus_. (+24 other languages)
+    * The EU says it will reply in 3 working days (or longer, for more complex questions)." [Source](https://euneighbourseast.eu/news-and-stories/latest-news/ask-the-eu-a-question-in-ukrainian-or-russian-new-service-launched/)
+* [State Ecological Inspectorate of Ukraine](https://www.zoda.gov.ua/news/60381/operativniy-shtab-ta-derzhavna-ekologichna-inspektsiya-ukrajini-prodovzhujut-formuljuvati-perelik-porushen-u-sferi-ohoroni-navkolishnogo-seredovisha.html): "A special [website](https://shtab.gov.ua) was created, through which citizens have the opportunity to report environmental damage. The purpose is to form a list of all violations in the field of environmental protection (explosions/bombardments of oil storage facilities, destruction of dams, etc — they have a list on the site) to bring the aggressor to justice."
+    * Hotline: +380 (96) 756-83-66 (Telegram, WhatsApp, Viber)
+    * Telegram [Chatbox](http://t.me/ecoshkodabot)
+    * Email: [eco@shtab.gov.ua](mailto:eco@shtab.gov.ua)
 
 ---
 
@@ -429,6 +454,10 @@ The ICRC & UNHCR Advise:
     * Kharkiv – 099 206 5493
     * Dnipro – 095 250 1181
     * Kramatorsk – 095 250 1229
+    * Please go to their [Facebook Page](https://www.facebook.com/RedCrossUkraine/), [Telegram Channel](https://t.me/UkrainianRedCross) or [Instagram Account](https://instagram.com/redcrossukraine) for updates, as their website is still down. (1 Apr 2022)
+
+* [ICRC | Restoring Family Links](https://t.co/G2BszmA062) can assist in reconnecting families. This service is free & confidential.
+* [International Commission on Missing Persons](https://oic.icmp.int/index.php?w=general_inquiries&l=en) — "If you want to report a missing person, please [click here](https://oic.icmp.int/index.php?w=mp_reg&l=en). You will be asked to provide basic information about the missing person, the circumstance of disappearance, and whether you agree to share this information with other relevant international and national agencies." ([Twitter](https://twitter.com/theicmp?lang=en))
 * A [chatbot](https://t.co/BisaO8i8Cs) has been launched in the _Kyiv region_ to search for missing people.
 
 <img src="assets/images/image16.jpg" width="50%" />
@@ -443,6 +472,9 @@ The ICRC & UNHCR Advise:
     * Contact number: +380 44 392 7600
     * Email: [kyi_kyiv@icrc.org](mailto:kyi_kyiv@icrc.org)
 * [Nadiia_Kharkiv_bot](https://t.me/Nadiia_Kharkiv_bot): You can use this bot to request help in _Kharkiv_, if you're looking for a loved one.
+* [Ukraine Ministry of Internal Affairs | Find Your Own/Ishchi Svoikh](https://200rf.com/) Site: "If your [_Russian_] relatives or friends are in Ukraine and participate in the war against our people - here you can get information about their fate." (Russia has blocked the website; please use the Telegram channel.)
+    * [Telegram channel](https://t.me/rf200_nooow)
+    * [Form to Submit For Search](https://docs.google.com/forms/d/e/1FAIpQLSfNcHV6cob4f8QHc90QnpAihMsioOOroSQWNAVHCmwDelHL8w/viewform)
 * Search for missing persons:** "**This [form](https://docs.google.com/forms/d/e/1FAIpQLSc1npbE_UAgOJnIpxq9ZbK1bbBMpJOGjOgS0QAYRBKJ10CKRw/viewform) is for collecting data about people with whom you have no [contact]. The information will be available to law enforcement agencies, volunteers and the Donetsk Regional Military Administration."
 * "[Ukraine Zone](https://ukrainezone.org/) is a British team looking to reunite displaced Ukrainians back with loved ones during the present conflict with Russia. 
     * This service is free and available on smartphones or any browser, should local services be unreliable, screened or politically restricted."
@@ -559,6 +591,7 @@ The ICRC & UNHCR Advise:
 
 ## Artists, Writers, Scientists, Scholars & Students
 
+* "[UChicago](https://www.uchicago.edu/) will provide full-tuition undergraduate scholarships and other resources to students and scholars affected by the invasion. Click [here](https://t.co/ZqvtK6KT3Z) for details." [Source](https://t.co/M7K2nSgE7l)
 * Displaced students can study online at other universities. 
 
     The National Agency for Quality Assurance in Higher Education: [this list](https://t.co/DcT4A5NUkH) is not exhaustive and will be updated on the official [Facebook page](https://m.facebook.com/nazyavo).
@@ -579,6 +612,8 @@ The ICRC & UNHCR Advise:
     We also welcome offers to host these scholars in temporary positions at higher education institutions in Europe, North America, and globally."
 
     * [IIE-SRF Website](https://mailchi.mp/iie/call-for-applications-threatened-scholars-march-2022?e=%5bUNIQID%5d) (to host)
+    * _Artists_ directly impacted can apply for assistance: [IIE’s Artist Protection Fund](https://www.iie.org/Programs/Artist-Protection-Fund/Eligibility-and-Application/APF-Application)
+    * [IIE’s Emergency Student Fund](https://www.iie.org/Programs/Emergency-Student-Fund) will rush aid to Ukrainian _students_ in need who are studying at US colleges & universities.
 * "Resources for Helping Displaced Scholars from Ukraine: [ASEEES](https://www.aseees.org/) is working with the newly created [International Task Force for Displaced Scholars (ITFDS)](https://www.aseees.org/resources/help-displaced-scholars-ukraine) established by a group of scholars and graduate students. For more information, email [displaced.scholars@gmail.com](mailto:displaced.scholars@gmail.com)." See [here](http://www.aseees.org/resources/help-displaced-scholars-ukraine).
     * [ASEEES | Resources to Help Displaced Scholars From Ukraine](https://www.aseees.org/resources/help-displaced-scholars-ukraine)
     * [International Task Force for Displaced Scholars (ITFDS) | Detailed Guide](https://docs.google.com/document/d/1S0qKI9NoIMKVSoJ17R-_d4vkcolvCK4Is1dgGkFjgto/edit?usp=drivesdk) for bringing displaced students and scholars to your institutions amid the invasion of Ukraine.
@@ -586,6 +621,9 @@ The ICRC & UNHCR Advise:
 * [Ukraine Archives Rescue Team](https://www.ualberta.ca/kule-folklore-centre/news/2022/march/u-art.html?fbclid=IwAR04qE5H_3joMcL77TpzVPCUuE9FJdqb-Stqv2cSNDfKKaexXfIDldXm-o0)
 
     "The Canadian Institute of Ukrainian Studies recently helped launch an initiative offering free, secure cloud storage to archivists, librarians, scientists and other institutions in Ukraine." "The digital storage is available to scholars and institutions of all disciplines." [Source](https://www.cbc.ca/news/canada/edmonton/university-of-alberta-initiative-aims-to-protect-ukrainian-archives-research-1.6384871)
+* "[ERA4Ukraine](https://euraxess.ec.europa.eu/ukraine) is a one-stop-shop for information and support services to _Ukraine-based researchers and researchers fleeing Ukraine_. The portal brings together initiatives at the EU level, per country and from non-governmental groups as well.
+
+    Through this portal, affected researchers can find housing and job opportunities, facilitate the recognition of their diplomas and receive other supporting services." [Source](https://marie-sklodowska-curie-actions.ec.europa.eu/news/eu-stands-with-ukrainian-researchers)
 
 * From [House of Europe](https://houseofeurope.org.ua/en): "European institutions and programs offer a number of [opportunities to support](https://www.facebook.com/108793443805527/posts/708651113819754/) Ukrainian students and educators."
 * Another great list from 'House of Europe' detailing [opportunities in the culture and creative industries sector](https://www.facebook.com/108793443805527/posts/707885870562945/).
@@ -596,6 +634,8 @@ The ICRC & UNHCR Advise:
 
 * Tips for [evacuating with animals](https://www.facebook.com/917592118296008/posts/4755422114512970/).
 * Take a picture of you _with_ your pets - take pictures of any unique identifying marks/bodily features they may have, as well (one of my cats has one tan toe on each front paw, for example ~ Jenn). Email your photos to yourself, in case your phone is lost.
+* [#VetsforUkrainianPets](https://lnkd.in/gN-_rRee): "Humane Society International together with FVE - Federation of Veterinarians of Europe and FECAVA is rolling out a program to provide _free veterinary care for pets and horses_ of Ukrainian refugees across 38 European countries." 
+    * "Every registered practicing veterinarian in Europe can apply to become part of the programme and can make up to five claims for refunding the cost of treatment for pet animals of Ukrainian refugees by using the website [Vets For Ukraine](http://apply.vetsforukraine.com).
 * The [European Association of Zoos and Aquaria](https://www.eaza.net/) has set up a donation system that will send funds to the [Nikolaev Zoo](http://zoo.nikolaev.ua/en) and the zoos in [Kharkiv](https://zoo.kharkov.ua/) and [Kyiv](https://zoo.kiev.ua/en/homepage/). You can find donation information **[here](https://www.eaza.net/emergency-appeal-for-ukrainian-zoos/)**. 🦒
 
 ### Companion Animals
@@ -695,10 +735,11 @@ The ICRC & UNHCR Advise:
 * The [Masha Efrosinina Foundation](https://www.instagram.com/p/CZch4TFrLYY/) provides psychological assistance to children. You can request assistance [here](https://docs.google.com/forms/d/e/1FAIpQLScAhuuZhLEK1S1SQW9t4HlldngRE32BeK0bBkn1_buG_WIcEw/viewform). (Ukrainian)
 * "[Psychological support of Ukrainians during the war](https://t.me/PsihologDopomogaWarInUa2022) from psychotherapists-practitioners." [Source](https://euneighbourseast.eu/uk/news-and-stories/latest-news/pidtrymka-zhinok-i-divchat-shho-postrazhdaly-vid-vijny-yaka-dopomoga-dostupna-v-ukrayini/)
 * "The online platform ["Tell Me"](https://tellme.com.ua/) is providing free psychological assistance to Ukrainians around the clock. If you feel anxious, have panic attacks, are close to depression or even on the verge - leave a request and wait. The specialist will contact you as soon as possible."
+* Journalists:  "Here's a [list of resources](https://docs.google.com/document/d/14qxHZOCSrnQQ2OEbx7wpydyKVxRSIt4PgvgsTKvB3Vg/mobilebasic) and contacts for trauma relief & support. Created and updated by [Dart Centre Europe](https://dartcenter.org/), @selbstlaut_k and @nrecherche."  [Source](https://t.co/gRmIj5Ehza)
 
 ### Hotlines & Support Groups
 
-* [Lifeline Ukraine National Line on Suicide Prevention and Mental Health Prevention](https://lifelineukraine.com/en) - 7333.
+* [Lifeline Ukraine National Line on Suicide Prevention and Mental Health Prevention](https://lifelineukraine.com/en) - Call 7333 for support.
 * The [Ukrainian Red Cross](https://redcross.org.ua/en/) are doing their best to provide psychosocial support. Their hotline is 0 800 331 800.
 * <img src="assets/images/image21.jpg" width="50%" />
 * "Intervention Phone Offering Psychological Support: +48 669 981 038
@@ -747,6 +788,10 @@ The ICRC & UNHCR Advise:
 
 
     To get a consultation, you only need to [download the application](https://ekimo.page.link/6yEU): IOS or Android; or call the hotline at +380443440512. The chosen doctor will contact the patient at the appointed time."
+
+<img src="assets/images/image30.jpg" width="50%" />
+
+* "[IOMU kraine](https://iom.org.ua/) set up a psychological support hotline with 30+ psychologists, counselors & psychiatrists ready to provide free support to people affected who are in Ukraine. Call 0 800 211 444." [Source](https://t.co/IWDfFnXWPt)
 
 ### Field Guides/Information/Apps
 
@@ -916,6 +961,11 @@ The ICRC & UNHCR Advise:
 * 🇪🇺 [Information on free travel options offered by European transport companies](https://ec.europa.eu/info/strategy/priorities-2019-2024/stronger-europe-world/eu-solidarity-ukraine/eu-assistance-ukraine/information-people-fleeing-war-ukraine_en#information-on-free-travel-options-offered-by-european-transport-companies): Information for the following countries: Austria, Belgium, Bulgaria, Czechia, Denmark, Finland, France, Germany, Hungary, Italy, Latvia, Lithuania, Luxembourg, Netherlands, Poland, Romania, Slovakia, Slovenia, Spain & Sweden.
     * [Additional information from national authority](https://ec.europa.eu/info/strategy/priorities-2019-2024/stronger-europe-world/eu-solidarity-ukraine/eu-assistance-ukraine/information-people-fleeing-war-ukraine_en#onward-travel-in-the-eu)
 * [Asylum Access Org | Ukraine Emergency: Resources for Refugees](https://asylumaccess.org/ukraine/) — Provides information about safety for refugees and organizations offering assistance in neighboring countries.
+* [UNICEF Europe C. Asia](https://twitter.com/UNICEF_ECA/status/1509520100419936268?t=B1Qwz0SzRXMLnB2ydeuhHQ&s=19): "If you or someone you know has fled Ukraine and is taking refuge in the _Czech Republic, Hungary, Moldova, Poland, Romania or Slovakia_, [here's how to access essential services](https://t.co/8traaj8pp2), including:
+    * Shelter 
+    * Food
+    * Protection
+    * Other forms of support." 
 * **Protecting yourself:**
     * Try to find information in advance about where migrants can get help and support in the destination country. If possible, contact government or non-governmental organizations.
     * Take photos of all your important documents and send them to your email - so you will almost always have access to them.
@@ -1105,6 +1155,7 @@ You can reach the crisis hotline of the [German Federal Foreign Office](https://
 
 [#Unterkunft Ukraine](https://unterkunft-ukraine.de) (A platform for finding or offering accommodation.)
 
+[MitOst | Mental Health Resources in Germany](https://www.mitost.org/ukraine/mental-support/): "...counselling by licensed therapists, psychologists, and volunteers in various countries."
 
 Munich: [Münchner Freiwillige ](https://www.muenchner-freiwillige.de/)(Non-profit)
 
@@ -1261,7 +1312,21 @@ Hotline for assistance 080001527. (From Ukraine +37322820007)
 
 "People who speak Ukrainian or English can contact the Red Cross on 06-48158053 using WhatsApp. The Dutch-language line is available from 9 a.m. to 9 p.m., Monday through Friday. That number is 070-4455888."
 
+[Aid for Ukraine Animals](https://www.hulpvoordierenuitoekraine.nl/en/): "The hotline "Help to animals from Ukraine" can be contacted to save animals that have escaped from the war. For assistance, call 088-811 3333 or email [info@hulpvoordierenuitoekraine.nl](mailto:info@hulpvoordierenuitoekraine.nl).
+
+Dierenbescherming and NFDO coordinate rescue and asylum opportunities in the Netherlands, and collaborate with other animal-assisted organisations, including DierenLot, Stichting Bevordering Huisdierenwelzijn, Mendoo, BVDD and KNMvD."
+
+"On [refugeehelp.nl](https://www.refugeehelp.nl/) we collect all information for refugee Ukrainians who are in the Netherlands or who are planning to come here. The information is available in Dutch, English, Ukrainian and Russian." [Source](https://www.vluchtelingenwerk.nl/nl/steun-oekraiense-vluchtelingen)
+
 [Oekraïne Vluchtelingen NL](https://www.facebook.com/groups/683253849468899) (Facebook Group)
+
+[Initiatives from all over the country](https://www.vluchtelingenwerk.nl/nl/steun-oekraiense-vluchtelingen/overzicht-van-initiatieven-voor-vluchtelingen-uit-oekraine): housing, donations, welcome centers, support for the deaf… etc.
+
+[VluchtelingenWerk Netherlands ](https://www.vluchtelingenwerk.nl/nl/steun-oekraiense-vluchtelingen)
+
+Refugee support - "Find out what you can do, which organization you can contact and what the current situation is."
+
+[The Royal Dutch Society for Veterinary Medicine](https://www.knmvd.nl/?fbclid=IwAR3R6Ditx2CRpybjsGaVtssPpeaJbEoH7-C4RZqb-rRy-dW_6FcuyKi8TAc)
 
 #### 🇳🇿 New Zealand
 
@@ -1398,6 +1463,10 @@ Apply for a Ukraine Family Scheme visa:
 Guidance for family members of British nationals, UK settled persons and certain others to come to or stay in the UK under the Ukraine Family Scheme, go [here](https://www.gov.uk/guidance/apply-for-a-ukraine-family-scheme-visa). 
 
 
+Guidance from UK Gov: [Move to the UK if you’re from Ukraine](https://www.gov.uk/guidance/move-to-the-uk-if-youre-from-ukraine)
+
+* Also see: [Ukraine and the UK](https://www.gov.uk/world/ukraine/news)
+
 [Legal and practical guide for people leaving Ukraine to the UK](https://www.taylorwessing.com/en/insights-and-events/insights/2022/03/legal-and-practical-guide-for-people-leaving-ukraine-to-the-uk)
 
 
@@ -1407,7 +1476,7 @@ Guidance for family members of British nationals, UK settled persons and certain
 [Ukraine Zone | Guidance on support available to Ukrainian nationals and their family members](https://ukrainezone.org/)
 
 
-**17-Mar** Companion Animals Update: "Refugees and animals can arrive at the border and the UK Government will assist with simplified paperwork and cover the costs of vaccination and quarantine."
+Companion Animals Update: "Refugees and animals can arrive at the border and the UK Government will assist with simplified paperwork and cover the costs of vaccination and quarantine."
 
 
 [Source](https://t.co/cB0fvyOp2C)
@@ -1427,6 +1496,10 @@ _Ukrainian refugees who are part of the scheme can stay for three years in the U
 
 "[Opora.uk](https://www.opora.uk/?fbclid=IwAR1-fBV3TYVsz2PrWFW0IapMfyib41ARNKxGvElcVFkycLQ2oAtUR8bM1gU) aims to provide both emergency and long-term support to Ukrainians and their families who are looking to rebuild their lives in safety, having fled the war. As well as funding accommodation, travel and helping refugees navigate the immigration system through our online support channels, we are also focussed on identifying structural ways to create self-sustainable employment and self-employment opportunities for Ukrainian families to rebuild their livelihoods."
 
+[Ukrainian Refugee Support](https://refugee-support.ukrainianinstitute.org.uk/): "This page includes useful links, information and guidance for UK hosts looking to support Ukrainians and for Ukrainians arriving in the UK. This page is managed by the [Ukrainian Institute London](https://ukrainianinstitute.org.uk/russias-war-against-ukraine-what-can-you-do-to-support-ukraine-ukrainians/)."
+
+
+[Ukrainian Institute London | Ukrainian Refugee Support](https://refugee-support.ukrainianinstitute.org.uk/): "This page includes useful links, information and guidance for UK hosts looking to support Ukrainians and for Ukrainians arriving in the UK."
 
 #### 🇺🇸 United States
 
@@ -1455,6 +1528,10 @@ In Ukrainian: [Посольство США | Гуманітарна допомо
 They are collecting available resources and will connect you with people willing to help.
 
 [Welcome.US | Ukraine Hub](https://t.co/gwSHUOHyWF): learn how citizens can help Ukrainian families newly arriving to the US. 
+
+[Lawyers for Good Government](https://www.lawyersforgoodgovernment.org/client-waitlist-form-english): "We will be providing free legal assistance to Ukrainian Nationals seeking Temporary Protected Status (TPS). Please fill out this form to join our list of people to be notified when Ukrainians are allowed to prepare and submit TPS applications."
+
+([Facebook](https://www.facebook.com/lawyersforgoodgovernment))([Twitter](https://twitter.com/lawyers4goodgov))
 
 Humanitarian Casework Assistance from [CA Senator Padilla's Office](https://www.padilla.senate.gov/assistance-for-ukraine/): "If you or your immediate family have been affected by Russia’s invasion of Ukraine and need humanitarian assistance, complete [this form](https://www.padilla.senate.gov/services/agency-assistance/agency-assistance-form/)." (See above link for instructions.) Questions: [casework_padilla@padilla.senate.gov](mailto:casework_padilla@padilla.senate.gov)
 
@@ -1512,6 +1589,7 @@ Humanitarian Casework Assistance from [CA Senator Padilla's Office](https://www.
 
 
 
+* Monitor the [UN/WHO Website](https://t.co/m6SuHPSlFx) to see who is currently active where and how you can get involved.
 * "There are a few things that _[would-be disaster volunteers should stop and consider](https://www.cidi.org/how-to-help/volunteering/)_ before getting on a plane." [USAID CIDI](https://www.cidi.org/)
 * "President Zelensky’s Office has launched a humanitarian aid website. The official website, [Humanitarian Aid Portal](https://help.gov.ua/en), helps to find out how to send and whom to address humanitarian aid. The portal also provides contacts of foreign and Ukrainian humanitarian hubs."
 * [BBC | Five tips on being a refugee host family](https://www.bbc.com/news/live/world-europe-60746557?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=6230c842ec502b53cd482495%26Five%20tips%20on%20being%20a%20refugee%20host%20family%262022-03-15T21%3A12%3A06.915Z&ns_fee=0&pinned_post_locator=urn:asset:e755a5fe-84f6-4809-84f8-cb5b19cd712e&pinned_post_asset_id=6230c842ec502b53cd482495&pinned_post_type=share): "If you're thinking about signing up, here are some tips from people across the UK who have hosted refugees or asylum seekers in their own homes in the past."
@@ -1612,6 +1690,10 @@ Humanitarian Casework Assistance from [CA Senator Padilla's Office](https://www.
 * 🇺🇸_ US | NYS_ has launched a [website](https://t.co/6mlG2lUSSn) of resources for Ukrainians and New Yorkers who want to help relief efforts.
 * 🇺🇸 _US | Sacramento Co, CA_: [Spring of Life Ukrainian Church](https://www.solsacramento.com/help-ukraine) in Orangevale is matching Ukrainian refugees with host families. See the link for how to participate. 
 * [Airbnb Refugee Housing](https://airbnb.org/help-ukraine): "Anyone with space available, from a private room to an entire home, can offer to temporarily house refugees through Airbnb.org. If you’re already a Host, you can opt into the program and make your listing available for free or at a discounted rate. If you’re new to Airbnb and want to host only for this cause, you can create a listing on [Airbnb.org](https://airbnb.org/) that will be free and available only to refugee guests."
+* "[Whistleblower Portal](https://t.co/kwIyVF8ZZ4) — Submit a whistleblower report on assets of persons related to the Russian aggression against Ukraine. 
+
+    "Everyone can submit information that will help in search, seizure, and confiscation of Russian assets." [Source](https://t.co/n0dtFBuAaY)
+
 
 
 ---
@@ -1627,7 +1709,6 @@ Humanitarian Casework Assistance from [CA Senator Padilla's Office](https://www.
     * to provide clothing, shoes, and medicine for them;
     * to buy staple goods for the population;
     * to pay out one-off financial aid and to meet other essential needs of the population."
-* Monitor the [UN/WHO Website](https://t.co/m6SuHPSlFx) to see who is currently active where and how you can get involved.
 * [CNBC | Here’s a list of the top-rated charities to help the Ukraine relief effort](https://www.cnbc.com/2022/03/09/heres-a-list-of-top-rated-charities-to-help-the-ukraine-relief-effort.html): "To make sure your money gets into the right hands, here is a list of highly rated nonprofits engaged in relief and recovery efforts in Ukraine and the surrounding areas."  This is an excellent list, organized by donation category/charity activity, that links directly to the Nonprofit Organization's 'Charity Navigator' profile - which shows you their rating. 
 
 
@@ -1675,6 +1756,10 @@ Donate [here](https://donate.iom.int/). ([Facebook](https://www.facebook.com/IOM
 
     (Ukrainian Red Cross: [Facebook/Ukr](https://www.facebook.com/RedCrossUkraine/)  [Facebook/Eng](https://www.facebook.com/pages/category/Non-Governmental-Organization--NGO-/Ukrainian-Red-Cross-Society-106065957610088/)  [Twitter](https://twitter.com/redcrossukraine?lang=en))
 
+* "[Save The Children](https://ukraine.savethechildren.net/) is providing children and families with immediate aid, such as food, water, hygiene kits, psychosocial support and cash assistance."
+
+    Donate [here](https://support.savethechildren.org/site/Donation2?df_id=5751&mfc_pref=T&5751.donation=form1). ([Facebook](https://m.facebook.com/savethechildren))([Twitter](https://twitter.com/SavetheChildren?t=MGGUz2tF67u9zxCFv6jMtg&s=09))
+
 * [Norwegian Refugee Council (NRC)](https://www.nrc.no/) is on the ground in Poland, Romania and Moldova. They provide information to those attempting to flee, via a hotline & email responses. They're now registering IDPs for cash dispersement - starting in the Ternopil region. They are establishing a supply chain from Poland and Romania to their emergency aid depots in western and central parts of Ukraine. They've been working in Ukraine, in the Donbas region since 2014 and have now switched over to emergency aid operations. 
 
     Donate [here](https://www.nrc.no/emergencies/ukraine-help-now/). ([Facebook](https://www.facebook.com/NRC/))([Twitter](https://twitter.com/nrc))
@@ -1700,6 +1785,13 @@ Donate [here](https://www.samaritanspurse.org/article/pray-for-the-crisis-in-ukr
 
     Donate [here](https://act.hias.org/page/6048/donate/1?ea.tracking.id=Ukraine_popup&utm_source=hias.org&utm_medium=website&utm_campaign=Ukraine&utm_content=urgent-block). ([Facebook](https://www.facebook.com/HIASrefugees/))([Twitter](https://twitter.com/hiasrefugees))
 
+* [The Salvation Army | Ukraine Appeal](https://www.salvationarmy.org.uk/ukraine-crisis-appeal)
+
+    "In Ukraine, the group is helping people with food, clothes, blankets, and emotional and spiritual support. They are currently intensifying their efforts in Lviv, and the border with Poland, providing refugees with sandwiches, hot meals, water, and other food and non-food items. The group is also working in Ukraine’s neighboring countries Romania, Moldova, Poland, and Slovakia helping arriving refugees." [Source](https://www.inquirer.com/philly-tips/ukraine-charities-donate.html)
+
+
+    Donate [here](https://give.sawso.org/give/393706/#!/donation/checkout?c_src=USNUkraineLandingPage&c_src2=hero). ([Facebook](https://www.facebook.com/SalvationArmyUSA))([Twitter](https://www.twitter.com/SalvationArmyUS))
+
 * "[OutRight Action International](https://outrightinternational.org/ukraine) is helping to support LGBTQ+ groups and organizations on the ground, setting up shelters and providing safety for citizens. All donations made to OutRight will go directly to the cause." [Source](https://www.globalcitizen.org/en/content/ways-to-help-ukraine-conflict/)
 
     Donate [here](https://outrightinternational.org/ukraine?form=Ukraine). ([Facebook](https://www.facebook.com/outrightintl))([Twitter](https://twitter.com/outrightintl?lang=en))
@@ -1720,7 +1812,7 @@ Donate [here](https://secure.projecthope.org/site/SPageNavigator/2022_02_Ukraine
     Donate [here](https://donate.wck.org/give/236738/#!/donation/checkout). ([Facebook](https://www.facebook.com/WorldCentralKitchen/))([Twitter](https://twitter.com/wckitchen))
 
 
-    3/9 Update: "We are now delivering meals to 50 locations in Lviv alone…2 warehouses up and running. Trucks filled with food headed to Odessa…Kharkiv… more. As [@natemook](https://wck.org/team) says, hoping things become more peaceful, but we [@WCKitchen](https://www.instagram.com/wckitchen/?hl=en) are ready…" [Source](https://twitter.com/chefjoseandres/status/1501340168564973569?t=YN1GfochMiiInLPhL1VjBA&s=19)
+    9 Mar Update: "We are now delivering meals to 50 locations in Lviv alone…2 warehouses up and running. Trucks filled with food headed to Odessa…Kharkiv… more. As [@natemook](https://wck.org/team) says, hoping things become more peaceful, but we [@WCKitchen](https://www.instagram.com/wckitchen/?hl=en) are ready…" [Source](https://twitter.com/chefjoseandres/status/1501340168564973569?t=YN1GfochMiiInLPhL1VjBA&s=19)
 
 
     [Chef José Andrés Facebook](https://www.facebook.com/chefjoseandres)
@@ -1731,6 +1823,10 @@ Donate [here](https://secure.projecthope.org/site/SPageNavigator/2022_02_Ukraine
 * [Convoy of Hope](https://convoyofhope.org/response-updates/convoy-reaching-out-to-help-in-ukrainian-crisis/) is on the ground in Poland, where they've acquired a warehouse for a full-scale response. They are feeding, sheltering, and providing for the people directly affected by the war. [Source](https://fb.watch/bKwwHFKS1m/)
 
     Donate [here](https://convoyofhope.org/donate/disaster-services/ukraine/). ([Facebook](https://www.facebook.com/convoyofhope/))([Twitter](https://twitter.com/convoyofhope))
+
+* "[World Vision](https://www.worldvision.org/disaster-relief-news-stories/ukraine-crisis-facts-faqs-and-how-to-help) staff are supporting refugees in Romania with essential aid, including emergency food assistance packages and educational and psychological support [and hygiene kits as well as two child play areas and heaters for mother-and- child rest stations]. We’re also working with partners to support refugees in Moldova and displaced families in Ukraine, and through our staff in Georgia, where thousands of visiting Ukrainians were stranded when the conflict began."
+
+    Donate [here](https://donate.worldvision.org/give/ukraine-crisis-fund). ([Facebook](https://www.worldvision.org/#facebook))([Twitter](https://www.worldvision.org/#twitter))
 
 * "[CrowdSource Rescue](https://www.crowdsourcerescue.org/ukraine) launched a search-and-rescue mission to Ukraine, to help aid in evacuations, medical care, and relief distribution during the Russian invasion."
 
@@ -1796,11 +1892,30 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
 
     To donate supplies, please contact: [Intern@cowf.org](mailto:Intern@cowf.org). ([Facebook](https://m.facebook.com/childrenofwarfoundation/))([Twitter](https://twitter.com/childrenofwar?lang=en))
 
+* [Revived Soldiers Ukraine](https://www.rsukraine.org/) "We are now working around the clock to deliver medical equipment & supplies, arrange humanitarian aid, and provide medical treatment to injured Ukrainians."
+
+    Donate [here](https://www.rsukraine.org/ways-to-help). ([Facebook](https://m.facebook.com/RevivedSoldiersUkraine/))
+
+* [Hospitallers.life](https://www.hospitallers.life/) defines their objectives as:
+    * "Helping the wounded on the battlefield
+    * Assistance in the rehabilitation of the wounded
+    * Evacuation of the wounded to hospitals
+    * Delivery of the dead in the country to the place of burial
+
+    Members of the organization are volunteers who, at the risk of themselves, provide first aid on the contact line."
+
+
+    Donate [here](https://www.hospitallers.life/needs-hospitallers). ([Facebook](https://www.facebook.com/hospitallers))
+
+* "[Plan International](https://plan-international.org/emergencies/ukraine-appeal/)’s response to the crisis in Ukraine is focused on refugee children and their families in Poland, Moldova and Romania, includes work in the areas of protection, psychosocial support, emergency education and meeting basic needs for _children and families_ that fled their homes with little more than the clothes on their backs." (This org's focus is helping _girls_, specifically.)
+
+    Donate [here](https://www.planusa.org/humanitarian-response-ukraine-plan-usa/?gclid=CjwKCAjw9LSSBhBsEiwAKtf0n5-1y3WUQdlPss0lryStBTY8UxXWu-jCnL_Q8ye8EUc_yoDLX_MxlhoCM4sQAvD_BwE&gclsrc=aw.ds). ([Facebook](https://www.facebook.com/planinternational/))([Twitter](https://twitter.com/planglobal))
+
 
 
 ### **
 
-<p id="gdcalert29" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "—Animal Organizations"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert30">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert30" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "—Animal Organizations"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert31">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 [—Animal Organizations](#heading=h.rkgni6nh9ehq)**
 
@@ -1829,6 +1944,10 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
 
     Donate [here](https://secure.ifaw.org/united-states/ukraine-emergency-grant?ms=UONDF220320033&cid=7013k000001a9Y3&cid=7013k000001C33Z&gclid=CjwKCAjwi6WSBhA-EiwA6Niok1aA3zVKiD1vr8sZeCMMrLQQq8o6ax_y5tQp3Y0Jc2XH0Xw81Z0DYBoC7JoQAvD_BwE&ms=UONDF220001100&utm_campaign=CV_DM_AdWords.Donor+Intent+Keyword.Brand&utm_medium=cpc&utm_source=google&_ga=2.88587739.1916903818.1649014160-1197994427.1649014160&_gac=1.257648377.1649014160.CjwKCAjwi6WSBhA-EiwA6Niok1aA3zVKiD1vr8sZeCMMrLQQq8o6ax_y5tQp3Y0Jc2XH0Xw81Z0DYBoC7JoQAvD_BwE). ([Facebook](https://www.facebook.com/ifaw/))([Twitter](https://twitter.com/ifawglobal?lang=en))
 
+* [Four Paws](https://www.four-paws.org.uk/about-us/faqs-collection/faq-ukraine) — "Our team in Sofia (Bulgaria), together with our partners Animal Society in Bucharest (Romania) and Doctor Vet in Chișinău (Moldova) offer immediate support for free. Vaccinations, microchipping, medical treatments, and food are the most important things that are being taken care of for the next few days and weeks to come."
+
+    Donate [here](https://action.four-paws.org.uk/page/100711/donate/1?utm_source=web&utm_campaign=ukraine&utm_medium=web&_ga=2.164599039.1990098002.1649153109-165288159.1649153109). ([Facebook](https://www.facebook.com/fourpaws.org/))([Twitter](https://twitter.com/fourpawsint?lang=en))
+
 
 
 ## **~Vetted Organizations To Donate To**
@@ -1856,10 +1975,6 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
 
     Donate [here](https://www.comebackalive.in.ua/donate). ([Facebook](https://www.facebook.com/backandalive/))([Twitter](https://twitter.com/BackAndAlive?t=eiQl98ujLmJRk_SazhLIRA&s=09))
 
-* **🇺🇸 **[Fleet of Angels](https://www.fleetofangels.org/) to provide funds for emergency transport and feed for the _horses_ still in Ukraine and aftercare for those who reach safe havens in NATO countries. 
-
-    Donate [here](https://www.paypal.com/pools/c/8HQd9XrViB). ([Facebook](https://www.facebook.com/FleetOfAngelsNews/))
-
 * 🇺🇦 [Fight for Right](https://ffr.org.ua/) is supporting people with _disabilities_ and assisting in evacuations from Ukraine. You can support them via their [Go Fund Me](https://gofundme.com/f/help-disabled-ukrainians). ([Facebook](https://www.facebook.com/wefightforrights/))([Twitter](https://twitter.com/fightforright)) (🇺🇸 [The Partnership for Inclusive Disaster Strategies](https://disasterstrategies.org/) endorses and is in full support of this organization's humanitarian efforts.)
 * 🇺🇸 "[Matthew 25 Ministries](https://m25m.org/) is shipping relief supplies to Ukraine for distribution to people affected by the invasion. We are working with partners to provide items such as personal care supplies, paper products & clothing." [Source](https://t.co/ZjgycZyrq6)
 
@@ -1884,10 +1999,6 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
 
     Donate [here](https://razomforukraine.org/donate/). ([Facebook](https://m.facebook.com/RazomForUkraine))([Twitter](https://twitter.com/razomforukraine?t=lfPhm26F8A-l6kfoYLuyQg&s=09))
 
-* 🇨🇦 [Animal Food Bank](https://animalfoodbank.org/supporting-ukraine/) set up a separate bank account for holding, and disbursing funds to orgs helping _pets_ in & around Ukraine. 
-
-    Donate [here](https://t.co/cjV4zyCEeU) — Please note “Ukraine” in the comments of your donation. ([Facebook](https://www.facebook.com/animalfoodbankcanada/))
-
 * 🇺🇸 [United Help Ukraine](https://unitedhelpukraine.org/) is based in the DC area and has a warehouse in Delaware. They are sending medical supplies and personal protective gear to Ukraine. To date, they've shipped 33 tons of humanitarian aid. They also maintain support of wounded veterans in Ukraine.
 
     Donate [here](https://unitedhelpukraine.org/donate). ([Facebook](https://www.facebook.com/UnitedHelpUkraine.org/))[(Twitter)](https://mobile.twitter.com/UnitedHelpUA)
@@ -1909,10 +2020,6 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
 
     Donate [here](https://cafdonate.cafonline.org/19892#!/DonationDetails). ([Facebook](https://www.facebook.com/BearrTrust/))([Twitter](https://twitter.com/bearrtweets))
 
-* 🇨🇦 "[Veterinarians Without Borders](https://www.vetswithoutborders.ca/index.php?option=com_civicrm&task=civicrm/contribute/transact&reset=1&id=214) is urgently raising funds to support shelter friends in Ukraine, including bordering countries where the need is great, as people flee with their animals. Monitoring the situation, and planning for any subsequent interventions where we can stage further assistance." Partners on the ground are delivering pet food and medications to shelters. [Source](https://www.facebook.com/138139866215606/posts/5461832533846286/)
-
-    Donate [here](https://tinyurl.com/39s52c72). ([Faceboook](https://www.facebook.com/VetswithoutBorders/)) ([Twitter](https://twitter.com/vwb_vsf?lang=en))
-
 * 🇺🇸 "[Direct Help for Ukraine](https://www.directhelpforukraine.info/) is run by American volunteers who hail from former Soviet republics." 
 
     "We have direct connections with Ukrainian authorities, and get real-time updates on the supplies that are most needed on-the-ground. We continually monitor and update our [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/2FWSLNH0C93UU?ref_=wl_share) to reflect these needs. When you purchase an item, it’s delivered to our team of volunteers who immediately sort, organize, and package it for delivery to Ukraine. Within days, your donation arrives in Poland via our freight partner, Nova Poshta Global, and is trucked into hotspots in Ukraine for immediate distribution." To donate, click on the link to their Amazon Wishlist, above. (*This group has been heavily vetted, as they are new.) 
@@ -1927,6 +2034,28 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
     * Relocation Support, Humanitarian Aid and Anti-Human Trafficking Awareness. 
 
     Donate [here](https://helpushelp.charity/donate). ([Facebook](https://m.facebook.com/helpushelp.charity))
+
+
+
+### **
+
+<p id="gdcalert31" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "—Animal-Related Organizations"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert32">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+[—Animal-Related Organizations](#heading=h.n3zfpq7y1ar)**
+
+
+
+* **🇺🇸 **[Fleet of Angels](https://www.fleetofangels.org/) to provide funds for emergency transport and feed for the _horses_ still in Ukraine and aftercare for those who reach safe havens in NATO countries. 
+
+    Donate [here](https://www.paypal.com/pools/c/8HQd9XrViB). ([Facebook](https://www.facebook.com/FleetOfAngelsNews/))
+
+* 🇨🇦 [Animal Food Bank](https://animalfoodbank.org/supporting-ukraine/) set up a separate bank account for holding, and disbursing funds to orgs helping _pets_ in & around Ukraine. 
+
+    Donate [here](https://t.co/cjV4zyCEeU) — Please note “Ukraine” in the comments of your donation. ([Facebook](https://www.facebook.com/animalfoodbankcanada/))
+
+* 🇨🇦 "[Veterinarians Without Borders](https://www.vetswithoutborders.ca/index.php?option=com_civicrm&task=civicrm/contribute/transact&reset=1&id=214) is urgently raising funds to support shelter friends in Ukraine, including bordering countries where the need is great, as people flee with their animals. Monitoring the situation, and planning for any subsequent interventions where we can stage further assistance." Partners on the ground are delivering pet food and medications to shelters. [Source](https://www.facebook.com/138139866215606/posts/5461832533846286/)
+
+    Donate [here](https://tinyurl.com/39s52c72). ([Faceboook](https://www.facebook.com/VetswithoutBorders/)) ([Twitter](https://twitter.com/vwb_vsf?lang=en))
 
 
 
@@ -1949,13 +2078,11 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
 * Monitor the [UN/WHO Website](https://t.co/m6SuHPSlFx) to see who is currently active where and how you can get involved.
 * [US Department of State | Latest Ukraine Updates](https://www.state.gov/latest-ukraine-updates/)
     * [United with Ukraine](https://www.state.gov/united-with-ukraine/)
-* [Bellingcat | Russia-Ukraine Monitor Map](http://www.bellingcat.com/news/2022/02/27/follow-the-russia-ukraine-monitor-map) (Situational Awareness) ([Website](https://www.bellingcat.com/))([Facebook](https://www.facebook.com/bellingcat/)) ([Twitter](https://twitter.com/bellingcat))
-* [Bellingcat | Interactive TimeMap | Incidents of Civilian Harm in Ukraine](https://t.co/GnFv90jnLD)
-    * "This map plots out and highlights incidents that have resulted in potential civilian impact or harm since Russia began its invasion of Ukraine." (On February 24, 2022)
-    * This map is not yet supported on mobile devices. (3/19)
-* [Liveuamap](https://liveuamap.com/) (Situational Awareness) ([Facebook](https://www.facebook.com/liveuamap/))([Twitter](https://twitter.com/liveuamap))([Telegram](https://t.me/s/liveuamap)) ([Instagram](https://www.instagram.com/liveuamap/?hl=en))
-* [Institute for the Study of War](https://www.understandingwar.org/) (They release an update with a map, at least once daily, entitled: 'Assessed Control of Terrain in Ukraine and Main Russian Maneuver Axes.' You'll also find other detailed information on their website.) ([Facebook](https://www.facebook.com/InstitutefortheStudyofWar/)) ([Twitter](https://twitter.com/thestudyofwar?lang=en))
 * [Kyiv Independent](https://kyivindependent.com/) ([Facebook](https://www.facebook.com/kyivindependent/))([Twitter](https://twitter.com/kyivindependent?lang=en))([Telegram](https://t.me/KyivIndependent_official))
+* [The New Voice of Ukraine](https://english.nv.ua/)
+
+    ([Facebook](https://www.facebook.com/TheNewVoiceUkraine/))([Twitter](https://mobile.twitter.com/newvoiceukraine/with_replies))
+
 * [The Guardian | Russian Ukraine War – Live Feed](https://www.theguardian.com/world/live/2022/mar/20/russian-ukraine-war-latest-thousands-of-mariupol-residents-being-deported-to-remote-parts-of-russia-live)
 
     ([Facebook](https://www.facebook.com/theguardian/))([Twitter](https://twitter.com/guardian))
@@ -1970,13 +2097,50 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
 
     ([Facebook](https://www.facebook.com/UNIAN.ua/))([Twitter](https://twitter.com/unian_en?lang=en) - Eng) ([Telegram](https://t.me/uniannet))
 
-* [SPRAVDI](https://spravdi.gov.ua/en/) 
+* [SPRAVDI](https://spravdi.gov.ua/en/) (Ukr)
 
     ([Facebook](https://spravdi.gov.ua/facebook-vydalyv-akaunty-yaki-poshyryuvaly-fejky-pro-vakczyny/feed/))([Telegram](https://t.me/spravdi))
 
 * [Ukrayinska Pravda](https://www.pravda.com.ua/eng/) ([Facebook](https://www.facebook.com/ukrpravda/))([Twitter](https://mobile.twitter.com/ukrpravda_news/with_replies))([Telegram](https://t.me/ukr_pravda))
 * [Meduza](https://meduza.io/en) ([Facebook](https://www.facebook.com/themeduza/))([Twitter](https://twitter.com/meduzaproject))([Telegram](https://t.me/meduzalive))
 * [BBC World | War in Ukraine](https://www.bbc.com/news/world) ([Facebook](https://www.facebook.com/bbcworldservice/))([Twitter](https://twitter.com/bbcworld)) ([Telegram](https://telegram.me/bbcworldnews))
+* [Aljazeera | The Ukraine War](https://www.aljazeera.com/tag/ukraine-russia-crisis/)
+
+    ([Facebook](https://www.facebook.com/aljazeera))([Twitter](https://twitter.com/AJEnglish/status/1509797149306933261))([Telegram](https://t.me/aljazeera_world))
+
+* [Der Spiegel International ](https://www.spiegel.de/international/world/) 
+
+    (requires free registration)
+
+
+    ([Facebook](https://www.facebook.com/spiegelinternational/))([Twitter](https://twitter.com/derspiegel))([Telegram](https://www.spiegel.de/thema/telegram/))
+
+* [Atlantic Council | Ukraine Alert](https://www.atlanticcouncil.org/category/blogs/ukrainealert/#signup-ukrainealert)
+
+    ([Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.atlanticcouncil.org%2Fblogs%2Fukrainealert%2Frussian-energy-embargo-europe-must-stop-financing-putins-ukraine-war%2F#))([Twitter](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.atlanticcouncil.org%2Fblogs%2Fukrainealert%2Frussian-energy-embargo-europe-must-stop-financing-putins-ukraine-war%2F&text=Russian%20energy%20embargo:%20Europe%20must%20stop%20financing%20Putin%E2%80%99s%20Ukraine%20war%C2%A0))
+
+* [NPR | State of Ukraine](https://www.npr.org/podcasts/510366/state-of-ukraine) — Podcast "With reporters on the ground, conversations with politicians and officials, and breakdowns of what's going on, we'll bring you everything you need to know about the Russian invasion of Ukraine, multiple times a day. We'll discuss the conflict's past, its possible futures, and what each new development means for the rest of the world."
+    * [Russia-Ukraine war recap: What happened today](https://www.npr.org/series/1084620843/russia-ukraine-recap) — Daily recap of key events. 
+
+
+### **
+
+<p id="gdcalert32" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "~Maps & Situational Awareness"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert33">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+[~Maps & Situational Awareness](#heading=h.z8fs29a2f0r2)**
+
+
+
+* [British Defense Intelligence | Ukraine](https://twitter.com/DefenceHQ?t=PXFHsS93BKEKP8oayuGxTw&s=09)
+    * They release daily situational awareness maps & intelligence updates.
+* "[The Russia-Ukraine Monitor Map](https://maphub.net/Cen4infoRes/russian-ukraine-monitor) is a crowdsourced effort by the [Centre for Information Resilience (CIR)](https://www.info-res.org/), [Bellingcat](https://www.bellingcat.com/), [Mnemonic](https://www.mnemonic.no/) and the [Conflict Intelligence Team](https://citeam.org/about-our-team/?lang=en), and the wider open source community to map, document and verify significant incidents during the conflict in Ukraine." (Situational Awareness) [Source](https://www.disinfo.eu/ukraine-hub/)
+    * Related: A collaborative map to compile [verified videos](https://observers.france24.com/en/tv-shows/the-observers/20220309-ukraine-russia-osint-amateur-images-map-geolocation) of the war.
+* [Bellingcat | Interactive TimeMap | Incidents of Civilian Harm in Ukraine](https://t.co/GnFv90jnLD)
+    * "This map plots out and highlights incidents that have resulted in potential civilian impact or harm since Russia began its invasion of Ukraine." (On February 24, 2022)
+    * This map is not yet supported on mobile devices. (3/19)
+    * Bellingcat: ([Facebook](https://www.facebook.com/bellingcat/)) ([Twitter](https://twitter.com/bellingcat))([Discord Chat](https://t.co/5nCqhxTB5F))
+* [Liveuamap](https://liveuamap.com/) (Situational Awareness) ([Facebook](https://www.facebook.com/liveuamap/))([Twitter](https://twitter.com/liveuamap))([Telegram](https://t.me/s/liveuamap)) ([Instagram](https://www.instagram.com/liveuamap/?hl=en))
+* [Institute for the Study of War](https://www.understandingwar.org/) (They release an update with a map, at least once daily, entitled: 'Assessed Control of Terrain in Ukraine and Main Russian Maneuver Axes.' You'll also find other detailed information on their website.) ([Facebook](https://www.facebook.com/InstitutefortheStudyofWar/)) ([Twitter](https://twitter.com/thestudyofwar?lang=en))
 
 
 ---
@@ -1988,13 +2152,8 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
 
 * "[UkraineFacts.Org](https://ukrainefacts.org/), [is] a public website updated by journalists from 74 news organisations in 70 countries, representing professional fact-checking initiatives, where readers can find any claims that have already been debunked."
     * [Verified signatories of the IFCN code of principles](https://www.ifcncodeofprinciples.poynter.org/signatories): credible fact-checking organizations from around the world. (*IFCN: International Fact-checking Network)
-* "[The Russia-Ukraine Monitor Map](https://maphub.net/Cen4infoRes/russian-ukraine-monitor) is a crowdsourced effort by the [Centre for Information Resilience (CIR)](https://www.info-res.org/), [Bellingcat](https://www.bellingcat.com/), [Mnemonic](https://www.mnemonic.no/) and the [Conflict Intelligence Team](https://citeam.org/about-our-team/?lang=en), and the wider open source community to map, document and verify significant incidents during the conflict in Ukraine." [Source](https://www.disinfo.eu/ukraine-hub/)
-    * Related: A collaborative map to compile [verified videos](https://observers.france24.com/en/tv-shows/the-observers/20220309-ukraine-russia-osint-amateur-images-map-geolocation) of the war.
-    * Bellingcat's [Discord Chat](https://t.co/5nCqhxTB5F).
-* [EU Disinfo Lab](https://www.disinfo.eu/ukraine-hub/): Ukraine Conflict Resource Hub
 * [AFP Fact Check | Europe](https://factcheck.afp.com/list/all/all/all/38562/17)
     * If you'd like to learn more,  they offer a free, 10-part [video training series](https://www.facebook.com/watch/1396364020508066/901730560402111).
-* [Newsguard | Russia-Ukraine Disinformation Tracking Center](https://www.newsguardtech.com/special-reports/russian-disinformation-tracking-center/)
 * [GIJN | Four Quick Ways to Verify Images on a Smartphone](https://gijn.org/2021/08/24/four-quick-ways-to-verify-images-on-a-smartphone/)
 * Video verification tools/sites:
     * [TinEye](https://tineye.com/)
@@ -2018,7 +2177,20 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
 
 ### **
 
-<p id="gdcalert30" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "~Avoiding Scams"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert31">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert33" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "~Mis & Dis Information"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert34">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+[~Mis & Dis Information](#heading=h.oxzynqz13cmz)<span style="text-decoration:underline;"> </span>**
+
+
+
+* [EU Disinfo Lab](https://www.disinfo.eu/ukraine-hub/): Ukraine Conflict Resource Hub
+* [Newsguard | Russia-Ukraine Disinformation Tracking Center](https://www.newsguardtech.com/special-reports/russian-disinformation-tracking-center/)
+* [Fight Russian Disinformation](https://demcast.com/disinfo/) — You can get involved! "This project will spread the truth and fight Putin’s active measures on social media."
+
+
+### **
+
+<p id="gdcalert34" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "~Avoiding Scams"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert35">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 [~Avoiding Scams](#heading=h.1xve908zmzrc)**
 
@@ -2078,6 +2250,7 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
 
 
 * [JobAid Ukraine](https://www.jobaidukraine.com/): If you have left, or are planning to leave Ukraine and need help finding a job, you can view listings on their job board. (*The jobs are only available for people fleeing the war.)
+* "[UA Talents](https://www.uatalents.com/) is an employment platform for Ukrainians who have been forced to leave their homes and move to other cities in Ukraine or abroad."
 * "The European Commission has launched a Ukrainian version of the [EU Skills Profile Tool for Third Country Nationals](https://ec.europa.eu/migrantskills/). The tool will make it easier for people fleeing Russia’s invasion of Ukraine to map their skills and find jobs and other opportunities. It will also make it easier for Ukrainians to access information on where to get support for recognition or restoration of diplomas." [Source](https://euneighbourseast.eu/news-and-stories/latest-news/eu-skills-profile-tool-in-ukrainian-to-help-ukrainian-refugees-integrate-eu-labour-market/)
 * "PHPdevelopers fleeing Ukraine
 
@@ -2087,7 +2260,6 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
     [Source](https://t.co/wYAcAYsGMk) ([Facebook](https://www.facebook.com/decisioningit/))(DecisioningIT Founder, André-Martin Hobbs [Twitter](https://twitter.com/andremhobbs))
 
 * [European Research Council for Ukraine: jobs for researchers fleeing the war](https://euneighbourseast.eu/news-and-stories/latest-news/european-research-council-for-ukraine-jobs-for-researchers-fleeing-the-war/): "ERC has appealed to its grantees to provide temporary employment to refugee researchers and support staff, such as technicians and lab managers, from Ukraine." They are compiling a database with opportunities. 
-* "[UA Talents](https://www.uatalents.com/) is an employment platform for Ukrainians who have been forced to leave their homes and move to other cities in Ukraine or abroad."
 * Job opportunities are available for refugees in _Lublin, Poland_. Go [here](https://t.co/9VUPNv3Fqc).
 * "Refugees who are seeking a new future in _Canada_, and would like a career in the auto sector please reach out to [@APMACanada](https://twitter.com/apmacanada?lang=en) directly.
 
@@ -2107,6 +2279,10 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
 
 * [Cyber Police Ukraine](https://cyberpolice.gov.ua/)
     * [Cyber Police Ukraine | Telegram Bot](https://t.me/ukraine_avanger_bot): "The official chatbot of Ukraine to report hostile actions on the territory of our state."
+* [State Service for Special Communications & Information Protection of Ukraine](https://cip.gov.ua/ua)
+    * [Twitter](https://twitter.com/dsszzi?t=Ncb7nwecNdGDxwJ0acfgbw&s=09)
+* [US DHS | Cybersecurity & Infrastructure Security Agency (CISA) | Shields Up](https://www.cisa.gov/shields-up) "...many organizations find it challenging to identify resources for urgent security improvements, we’ve compiled free cybersecurity services and tools from government partners, and industry to assist."
+    * "Organizations should report anomalous cyber activity and/or cyber incidents 24/7 to [report@cisa.gov](mailto:report@cisa.gov) or (888) 282-0870."
 * "F-Secure FREEDOME VPN is now available for free in all of Ukraine. Protect your online privacy: [Freedom VPN](https://t.co/TekcNPxW9p)." [Source](https://t.co/XCZp6p5Cbn)
 * [EFF Org | If you are in Ukraine, here is what you need to know about Telegram](https://www.eff.org/deeplinks/2022/03/telegram-harm-reduction-users-russia-and-ukraine)
     * Also see: The [National Police of Ukraine (NPU)](https://nabu.gov.ua/en/tags/national-police) advise how to use Telegram safely and give [step-by-step instructions](https://t.me/UA_National_Police/2680) to set up account privacy.
@@ -2133,6 +2309,7 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
 
 
 
+* [Ukraine Refugees in the US: How Mental Health Professionals Can Prepare](https://pro.psycom.net/special_reports/trauma-survivors-ptsd-treatment-approaches/ukraine-refugees-in-the-us-how-mental-health-professionals-can-prepare) — "It is likely that refugees will have had experienced direct exposure to warfare, loss or separation from family, life-threatening journeys to safety, guilt about those left behind, food and shelter scarcity for prolonged periods, and complexities with acculturation by the time they reach our offices."
 * [CDC | Emergency Responders - Tips For Taking Care Of Yourself](https://emergency.cdc.gov/coping/responders.asp#:~:text=Coping%20techniques%20like%20taking%20breaks,help%20can%20address%20these%20needs.): "Coping techniques like taking breaks, eating healthy foods, exercising, and using the buddy system can help prevent and reduce burnout and _secondary traumatic stress_. Recognize the signs of both of these conditions in yourself and other responders to be sure those who need a break or need help can address these needs."
     * [Secondary traumatic stress](https://www.acf.hhs.gov/trauma-toolkit/secondary-traumatic-stress) – stress reactions and symptoms resulting from exposure to another individual’s traumatic experiences, rather than from exposure directly to a traumatic event."
 * [Huff Post | How To Ease Some Of The Vicarious Trauma You May Be Feeling Right Now](https://www.huffpost.com/entry/vicarious-trauma-tips_l_6217a88de4b03d0c80350fc1): "Thanks to social media, news reports & violent images that bombard us at all hours, we can experience what experts call _[vicarious trauma](https://www.counseling.org/docs/trauma-disaster/fact-sheet-9---vicarious-trauma.pdf)_ when a horrific event occurs ― like the Russian invasion of Ukraine."
@@ -2205,10 +2382,10 @@ _broken places. _
 
 
 
-<p id="gdcalert31" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image25.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert32">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert35" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image26.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert36">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image25.jpg "image_tooltip")
+![alt_text](images/image26.jpg "image_tooltip")
 
 
 **_[Anhelina, age 7, Khmelnytsky ](https://www.instagram.com/p/CbP6ZZsNcSO/?utm_source=ig_web_copy_link)<span style="text-decoration:underline;">Region</span>_**
@@ -2224,3 +2401,4 @@ Use is with attribution to the author and by written permission only. ⓒ2022
 [Jenn Ratcliff](https://twitter.com/jr3597) 502-509-1743
 
 Louisville, KY
+
