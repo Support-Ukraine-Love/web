@@ -7,6 +7,13 @@ theme = "compose"
 [params]
    contentDir = "content" # This needs to be set for Compose Theme, if using
 
+## Testing logo override
+#[logo]
+#  #lightMode = "images/compose.svg"
+#  #darkMode = "images/compose-light.svg"
+#  lightMode = "🌻💙💛🦊"
+#  darkMode = "🌻💙💛🏔"
+
 [languages]
   [languages.en]
     title = "🌻💙💛 Support Ukraine"
@@ -26,6 +33,7 @@ theme = "compose"
     path = "images/ukraine-flag-unsplash.png"
     alt = "Your example logo alt text"
 
+## This is for the menu at the top of the page
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "charities"
