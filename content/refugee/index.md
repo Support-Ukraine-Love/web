@@ -1697,7 +1697,7 @@ Humanitarian Casework Assistance from [CA Senator Padilla's Office](https://www.
 
 
 
-<!-- Sections 21 & 22 are on Charities page -->
+<!-- Sections 21 & 22 & 28 are on Charities page -->
 
 
 # **23. Staying Updated**
@@ -1938,40 +1938,6 @@ Humanitarian Casework Assistance from [CA Senator Padilla's Office](https://www.
     "QR code scams are essentially a new form of phishing attack, where scammers direct victims to a bogus website and ask for personal information."
 
 * [The New York Times | A Paranoid Person’s Guide to Preparing for Digital Danger](https://www.nytimes.com/2022/03/05/your-money/cybersecurity-tips.html) — Defending (and Duplicating) Your Data & Dealing With Disruption.
-
-
----
-
-
-# **28. Crisis Responders & Helpers**
-
-
-
-* [Ukraine Refugees in the US: How Mental Health Professionals Can Prepare](https://pro.psycom.net/special_reports/trauma-survivors-ptsd-treatment-approaches/ukraine-refugees-in-the-us-how-mental-health-professionals-can-prepare) — "It is likely that refugees will have had experienced direct exposure to warfare, loss or separation from family, life-threatening journeys to safety, guilt about those left behind, food and shelter scarcity for prolonged periods, and complexities with acculturation by the time they reach our offices."
-* [CDC | Emergency Responders - Tips For Taking Care Of Yourself](https://emergency.cdc.gov/coping/responders.asp#:~:text=Coping%20techniques%20like%20taking%20breaks,help%20can%20address%20these%20needs.): "Coping techniques like taking breaks, eating healthy foods, exercising, and using the buddy system can help prevent and reduce burnout and _secondary traumatic stress_. Recognize the signs of both of these conditions in yourself and other responders to be sure those who need a break or need help can address these needs."
-    * [Secondary traumatic stress](https://www.acf.hhs.gov/trauma-toolkit/secondary-traumatic-stress) – stress reactions and symptoms resulting from exposure to another individual’s traumatic experiences, rather than from exposure directly to a traumatic event."
-* [Huff Post | How To Ease Some Of The Vicarious Trauma You May Be Feeling Right Now](https://www.huffpost.com/entry/vicarious-trauma-tips_l_6217a88de4b03d0c80350fc1): "Thanks to social media, news reports & violent images that bombard us at all hours, we can experience what experts call _[vicarious trauma](https://www.counseling.org/docs/trauma-disaster/fact-sheet-9---vicarious-trauma.pdf)_ when a horrific event occurs ― like the Russian invasion of Ukraine."
-* "_Compassion fatigue_, also known as second-hand shock and secondary stress reaction, describes a type of stress that results from helping or wanting to help those who are traumatized or under significant emotional duress." [Source](https://www.goodtherapy.org/blog/psychpedia/compassion-fatigue)
-
-    "Compassion fatigue is basically a draining of emotional energy for those of us who deal with others' pain," said Walter Roberts, an American Red Cross disaster relief mental health lead. “Typically it has a tendency to be progressive and sneak up on people and oftentimes we characterize this as burnout.” [Source](https://krcgtv.com/news/local/compassion-fatigue)
-
-* [MindfulNext | On compassion fatigue, vicarious trauma & burnout](http://www.mindfulnext.org/on-compassion-fatigue-vicarious-trauma-burnout/):
-
-    "What are some signs/symptoms of compassion fatigue?
-
-* Increased isolation from others
-* Apathy, sadness, no longer finding activities pleasurable
-* Feels that colleagues and friends simply don’t understand
-* Can’t recover quickly after association with a traumatic event
-* Affected deeply by stress of clients
-* Lost sense of hopefulness and optimism; cynicism and pessimism
-* Difficulty concentrating on anything
-* Mentally and physically tired
-* Nightmares or flashbacks of traumatic event
-* Substance abuse used to mask feelings
-* Compulsive behaviors such as overspending, overeating, gambling, addictions." 
-
-**_<span style="text-decoration:underline;">Take care of yourselves, too!</span>_**
 
 
 ---
