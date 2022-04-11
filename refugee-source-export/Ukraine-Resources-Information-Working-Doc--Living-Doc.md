@@ -1,29 +1,23 @@
 # **1. Announcements / New**
 
-**Sunday, 3 April -  Wednesday, 6 April:**
+**Thursday, 7 April -  Sunday, 10 April:**
 
 
 
-* [State Ecological Inspectorate of Ukraine](https://www.zoda.gov.ua/news/60381/operativniy-shtab-ta-derzhavna-ekologichna-inspektsiya-ukrajini-prodovzhujut-formuljuvati-perelik-porushen-u-sferi-ohoroni-navkolishnogo-seredovisha.html): "A special [website](https://shtab.gov.ua) was created, through which citizens have the opportunity to report environmental damage. The purpose is to form a list of all violations in the field of environmental protection (explosions/bombardments of oil storage facilities, destruction of dams, etc — they have a list on the site) to bring the aggressor to justice."
-    * Hotline: +380 (96) 756-83-66 (Telegram, WhatsApp, Viber)
-    * Telegram [Chatbox](http://t.me/ecoshkodabot)
-    * Email: [eco@shtab.gov.ua](mailto:eco@shtab.gov.ua)
-* "[Zaporizhia Regional Military Administration](https://www.zoda.gov.ua/news/59659): the Center for Reception of Displaced Persons is open at: Zaporizhia, vul. Record, 41 (premises of the State Enterprise "Zaporizhzhya State Circus"). You need to register here. The Center will also be able to feed, heat & coordinate further actions.
-    * Zaporozhye region — hotline for people moving from the combat zone: +38 066 926 50 97; +38 068 297 01 18; +38 061 787 94 75
-    * Ukrainians can get information on where to apply for temporary accommodation in Zaporizhia."
-* _In the US_: "If news of a crisis in another country has you feeling overwhelmed, anxious or upset, you're not alone: the national [@Distressline](https://twitter.com/distressline?lang=en) offers 24/7 support. Call or text 1-800-985-5990 and #TalkWithUs." [Source](https://t.co/6ijd8HX0m7)
-* [Ukraine Refugees in the US: How Mental Health Professionals Can Prepare](https://pro.psycom.net/special_reports/trauma-survivors-ptsd-treatment-approaches/ukraine-refugees-in-the-us-how-mental-health-professionals-can-prepare) — "It is likely that refugees will have had experienced direct exposure to warfare, loss or separation from family, life-threatening journeys to safety, guilt about those left behind, food and shelter scarcity for prolonged periods, and complexities with acculturation by the time they reach our offices."
-* US: [Lawyers for Good Government](https://www.lawyersforgoodgovernment.org/client-waitlist-form-english) – "We will be providing free legal assistance to Ukrainian Nationals seeking Temporary Protected Status (TPS). Please fill out this form to join our list of people to be notified when Ukrainians are allowed to prepare and submit TPS applications."
-* [Vets for Ukrainian Pets](https://lnkd.in/gN-_rRee): "Humane Society International together with FVE - Federation of Veterinarians of Europe and FECAVA is rolling out a program to provide _free veterinary care for pets and horses_ of Ukrainian refugees across 38 European countries." 
-* [European Commission Telegram channel](https://t.me/europeancommission/52): "The EU has launched a dedicated language service for questions related to EU solidarity with Ukraine.
-    * Citizens within the EU or abroad can use the helpline to receive written replies in Ukr & Rus. (+24 other languages)
-    * The EU says it will reply in 3 working days (or longer, for more complex questions)." [Source](https://euneighbourseast.eu/news-and-stories/latest-news/ask-the-eu-a-question-in-ukrainian-or-russian-new-service-launched/)
+* "The movie ["Fairytale"](https://t.co/oDuiok8utT) about the WAR has appeared online. The film tells about the first weeks of the full-scale Russian invasion of Ukraine. It contains a huge amount of facts and evidence of Russian Aggression in Ukraine." [Source](https://twitter.com/armyinformcomua/status/1513102375233462279?t=6m-pQlhFVMXdMufddHg2Sw&s=19)
+* [Survivor's guilt syndrome: what to do if you are ashamed to be safe](https://tsn.ua/ukrayina/yak-otrimati-pensiyu-ta-groshovi-viplati-v-ukrposhti-yakscho-vi-evakuyuvalisya-1998718.html) — this is a _very_ common feeling experienced by Survivors. This article has some really good information & advice on dealing with those feelings. In Ukr.
+* "The government has extended the period for [receiving assistance](https://t.co/cGXUfHESZu) to IDPs. The application deadline for assistance to IDPs has been extended to April 30."
+    * "Adults are able to receive UAH 2,000 and UAH 3,000 per child.
+    * Now it is possible to obtain immigrant status after employment." [Source](https://twitter.com/Now_in_Ukraine/status/1513086527009611776?t=j4FB-um5yqMKq8pp-tYl7Q&s=19)
+* [Self-blame | Rape Crisis](https://rapecrisis.org.uk/get-help/tools-for-victims-and-survivors/self-blame-and-guilt/) — "Many victims and survivors feel like they _blame themselves for what happened_, _feel guilty, or feel ashamed_.
 
-**[Danger Zones](https://www.google.com/maps/d/u/0/viewer?ll=50.37243250000009%2C30.460808699999994&mid=14PnyHN3WPgBZgpJ3q0BOMswKge1hv1au&shorturl=1&z=11): Interactive, live update map of target areas, by [Liveuamap](https://liveuamap.com/).**
+    These feelings of shame, guilt and self-blame can be very hard to deal with. But, if you are feeling like this, you are not alone - it's a really common response."
 
-**[Ministry of Justice of Ukraine | Report a War Crime](https://humanrights.gov.ua/): "If you have witnessed or been a victim of [human rights violations](https://www.un.org/en/genocideprevention/war-crimes.shtml), record and send evidence."**
-
-*UK: Anyone with information can also report war crime evidence to [Scotland Yard](https://www.met.police.uk/advice/advice-and-information/war-crimes/af/report-a-war-crime). 
+    * You can chat with a rape crisis counselor if you'd like to — services are _anonymous_ and text-based. Go here: [Live Chat Helpline](https://rapecrisis.org.uk/get-help/live-chat-helpline/).
+    * Go at your own pace — when _you_ are ready to reach out. There is no timeline & no rules for sharing your story. Support will be there, when _you_ are ready.
+* [Ukrposhta](https://www.ukrposhta.ua/en) Free Delivery Information: "14 postal operators have announced that they are ready to send parcels to Ukraine free of charge. This information [was reported](https://www.ukrposhta.ua/ua/news/57615-ukrposhta-spilno-z-partnerami-proponu-bezkoshtovnu-dostavku-dodomu) in the press service of Ukrposhta."
+* "[Women’s Information Consultative Center (WICC)](https://civilmplus.org/en/actors/women-s-information-and-consultative-centre/) is supporting women and women with children who find themselves in a difficult or hopeless situation. In addition, they constantly publish current, useful information on their [website](http://wicc.net.ua/en/category/viyna), such as: daily schedules of evacuation trains; instructions on how to act in a crisis situation (explosion, occupation, mental health, and much more); lists of official information channels and other useful information during the war." [Source](https://wave-network.org/42-days-of-war/) ([Facebook](https://www.facebook.com/WICC.NET.UA/))
+* ["Europe without Barriers"](https://english.europewb.org.ua/) provides information concerning documentation, fleeing with children, and legal routes/choices you have for remaining in the EU legally: ['The way home: how to return to Ukraine for those who fled the war'](https://www.eurointegration.com.ua/articles/2022/04/7/7137414/)
 
 
 ---
@@ -65,6 +59,7 @@
     * [Twitter](https://twitter.com/DefenceU?t=7MxacXM6G67MDeF9FcSNzQ&s=09)
     * [Telegram](https://t.co/vXHinHjRIj%E2%80%A6)
     * [Instagram](https://t.co/jLQVwTKWwy)
+    * [ArmyInform | Twitter](https://twitter.com/armyinformcomua?t=KFlo5IqlaaI4tBpHcS-maA&s=09)
 
     [Defence Intelligence of Ukraine ](https://gur.gov.ua/en.html)
 
@@ -89,11 +84,47 @@
     [Ukraine Embassies & Consulates](https://www.embassy-worldwide.com/country/ukraine/) (Search tool)
 
 
+    1545 — [Government hotline](https://www.kmu.gov.ua/en/uryadova-garyacha-liniya-1545) (Access to medical support, humanitarian aid, care for individuals with disabilities, access to charities, care for children & parenting support, eldercare and financial & legal aid.)
+
+    * For Ukraine’s citizens abroad: +38 044 284 19 15
+
+
+# **
+
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "~War Crimes — Reporting, Documentation & Archives"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+[~War Crimes — Reporting, Documentation & Archives](#heading=h.n5xmg67yz5yq)**
+
+The Office of the Prosecutor General,
+
+together with Ukrainian & international partners, created **[this resource](https://warcrimes.gov.ua/)** where you can report war crimes & crimes against humanity committed by the Russian army.
+
+~ OR ~
+
+[Ministry of Justice of Ukraine](https://humanrights.gov.ua/) —
+
+**[Report a War Crime](https://humanrights.gov.ua/report)**: "If you have witnessed or been a victim of [human rights violations](https://www.un.org/en/genocideprevention/war-crimes.shtml), record and send evidence."
+
+
+
+* _UK_: Anyone with information can report war crime evidence to [Scotland Yard](https://www.met.police.uk/advice/advice-and-information/war-crimes/af/report-a-war-crime).
+* _US_: Refugees & asylum seekers with knowledge of human rights violations committed abroad, may submit [a tip](http://tips.fbi.gov/) to the FBI; or contact your [local or international](https://www.fbi.gov/contact-us) FBI Office.
+* As per [Dmytro Kulebra](https://twitter.com/dmytrokuleba): "We have created an [online archive](https://t.co/jTqLXYGO5U) to document Russia’s war crimes. The evidence gathered of atrocities committed will ensure that these war criminals cannot escape justice." [Source](https://t.co/76e6TEssK5)
+* [State Ecological Inspectorate of Ukraine](https://www.zoda.gov.ua/news/60381/operativniy-shtab-ta-derzhavna-ekologichna-inspektsiya-ukrajini-prodovzhujut-formuljuvati-perelik-porushen-u-sferi-ohoroni-navkolishnogo-seredovisha.html): "A special [website](https://shtab.gov.ua) was created, through which citizens have the opportunity to report environmental damage. The purpose is to form a list of all violations in the field of environmental protection (explosions/bombardments of oil storage facilities, destruction of dams, etc — they have a list on the site) to bring the aggressor to justice."
+    * Hotline: +380 (96) 756-83-66 (Telegram, WhatsApp, Viber)
+    * Telegram [Chatbox](http://t.me/ecoshkodabot)
+    * Email: [eco@shtab.gov.ua](mailto:eco@shtab.gov.ua)
+* "The [MIA](https://mvs.gov.ua/en/) of Ukraine, together with Google, have launched a [project](https://t.co/AvkbS1BdkZ) to digitize the consequences of the Russian invasion. It should help the state to track losses, reconstruction services to plan their work, and citizens [to] know the situation with property." [Source](https://twitter.com/EuromaidanPress/status/1512284851738664962?t=xG_f5blXO8SUFVNgPsX5UA&s=19)
+    * Read more [here](https://bit.ly/3LEGXXk).
+    * Watch the video [here](https://youtu.be/Kt8rBE85oZY).
+
 
 ---
 
 
 # **3. Safety & Security**
+
+**[Danger Zones](https://www.google.com/maps/d/u/0/viewer?ll=50.37243250000009%2C30.460808699999994&mid=14PnyHN3WPgBZgpJ3q0BOMswKge1hv1au&shorturl=1&z=11): Interactive, live update map of target areas, by [Liveuamap](https://liveuamap.com/).**
 
 
 
@@ -104,6 +135,7 @@
     * 103 – Ambulance
     * 104 – Emergency Services: Gas Network
     * 0 800 501 482 – Security Service of Ukraine Hotline
+    * 1545 — [Government hotline](https://www.kmu.gov.ua/en/uryadova-garyacha-liniya-1545)
 * [Ukraine Ministry of Digital Transformation](https://www.kmu.gov.ua/en/yevropejska-integraciya/coordination/cifrova-transformaciya) has launched an 
 
     _air raid alert_ [notification](https://t.co/D3ykpynCe1) app.
@@ -114,11 +146,12 @@
 
     In this handbook, you will find practical advice on preparing for an emergency and how to act in such a case." _(*This guide is really well done!)_
 
+    * In [Ukrainian](https://livewell.optum.com/pdfs/df57eb6c25018a77.pdf)
 * "**What can I do if there is fighting?**
 
     (*This advice is in regard to shelling/ missile strikes, etc. There is separate advice in relation to chemical & nuclear weapons attacks. See the 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "'Useful Information'"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "'Useful Information'"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 ['Useful Information'](#heading=h.2p41bkh8yp5t) section. )
 
@@ -135,26 +168,10 @@
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image1.jpg "image_tooltip")
-
-
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.jpg "image_tooltip")
-
-
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.jpg "image_tooltip")
 
 
 **~Persons Inside Ukraine**
@@ -198,15 +215,18 @@ The ICRC & UNHCR Advise:
 
 
 * [Telegram | Chat bot: “Ready For Everything”](https://t.me/Hotovyi_do_vsioho_bot): Information on what to do in an emergency.
-* Be careful of [mines](https://www.facebook.com/100505105900087/posts/121511370466127/) — warn children that they may appear colorful and look like toys!
+* Be careful of [mines](https://www.facebook.com/100505105900087/posts/121511370466127/) — warn children that they may look like colorful toys!
+
+    Remember: "If _you_ didn't drop it; _don't_ pick it up!"
+
 * What to do in the case of an [ammonia leak](https://twitter.com/ukrpravda_news/status/1505735077371777028?t=GTyB95jStlHxH0UFdtF-zA&s=19). Follow all directions for evacuation from officials. (In Ukr)
 * [CDC | Radiation Emergencies](https://www.cdc.gov/nceh/radiation/emergencies/index.htm)
     * [Questions About Radiation (FAQ)](https://www.cdc.gov/nceh/radiation/emergencies/emergencyfaq.htm)
     * [Preventing and Treating Radiation Injuries and Illness](https://www.cdc.gov/nceh/radiation/emergencies/symptoms.htm)
     * [Radiation | Food & Water Safety](https://www.cdc.gov/nceh/radiation/emergencies/food_water_safety.html)
 * "The [Thomson Foundation](https://www.thomsonfoundation.org/) has created a course on reacting to a _chemical weapons attack_ that is delivered via a Telegram bot, with the help of chemical and biological weapons expert Hamish de Bretton-Gordon." [Source](https://twitter.com/NovelSci/status/1509687859388715022?t=9uA1zaWFRgkdd0OMhV_1Yw&s=19)
-    * English: [t.co/9pjRO7oBK8](https://t.co/9pjRO7oBK8)
-    * Ukrainian: [t.co/RxMyjGEb7b](https://t.co/RxMyjGEb7b)
+    * [English](http://t.co/9pjRO7oBK8)
+    * [Ukrainian](http://t.co/RxMyjGEb7b)
 * [Chemical Attack Safety Information](https://www.dhs.gov/xlibrary/assets/prep_chemical_fact_sheet.pdf): "If they are near an outdoor chemical release, people should:
 1. Avoid any obvious plume or vapor cloud.
 2. Walk away from the site and into a building in order to shelter-in-place.
@@ -227,21 +247,25 @@ The ICRC & UNHCR Advise:
 5. do not touch any objects on the street." [Source](https://www.pravda.com.ua/news/2022/03/24/7334047/)
 * "How to [recognize a saboteur](https://www.facebook.com/100505105900087/posts/120518213898776/): an explanation from the [Center for Popular Resistance](https://sprotyv.mod.gov.ua/)." (In Ukr) 
     * Their [Facebook](https://www.facebook.com/sprotyv.official/) page has valuable safety & awareness information.
-* [How to make water drinkable](https://www.fema.gov/press-release/20210318/fact-sheet-how-make-your-water-safe-drink). 
+* [How to make water drinkable](https://www.fema.gov/press-release/20210318/fact-sheet-how-make-your-water-safe-drink).
 
 
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image4.jpg "image_tooltip")
+![alt_text](images/image2.jpg "image_tooltip")
 
+
+
+
+* [Five Ways To Purify Water Without A Filter](https://www.primalsurvivor.net/ways-to-purify-water-survival/) — [Source](https://twitter.com/StephenKolanko1/status/1501771824128008193?t=epxspR8ec09ELBHfmy3J_A&s=19)
 
 
 ---
 
 
-# **4. Housing & Transportation._  _**
+# **4. Housing & Transportation**
 
 
 
@@ -284,10 +308,10 @@ The ICRC & UNHCR Advise:
 
 
 
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image5.jpg "image_tooltip")
+![alt_text](images/image3.jpg "image_tooltip")
 
 
 
@@ -335,10 +359,10 @@ The ICRC & UNHCR Advise:
 
     .
 
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image6.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/image4.jpg" width="" alt="alt_text" title="image_tooltip">
 
 </li>
 </ul>
@@ -379,10 +403,10 @@ The ICRC & UNHCR Advise:
    </td>
    <td>
 
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image7.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/image5.jpg" width="" alt="alt_text" title="image_tooltip">
 
    </td>
   </tr>
@@ -396,10 +420,10 @@ The ICRC & UNHCR Advise:
    </td>
    <td>
 
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image8.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/image6.jpg" width="" alt="alt_text" title="image_tooltip">
 
    </td>
   </tr>
@@ -413,10 +437,10 @@ The ICRC & UNHCR Advise:
    </td>
    <td>
 
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image9.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/image7.jpg" width="" alt="alt_text" title="image_tooltip">
 
    </td>
   </tr>
@@ -430,15 +454,19 @@ The ICRC & UNHCR Advise:
 
 * **🇺🇦 **[Ukrainian Railways](https://www.uz.gov.ua/en/): You can find updated maps and press release updates on the status functionality of railway stations and rail transport in Ukraine on this site. (*The site is currently only accessible in the EU.)
     * Their [Telegram channel](http://t.me/UkrzalInfo/1332) shows updated schedules & maps daily (see their pinned post for more information). Schedules are posted at approximately 21:00 daily.
+    * [Ukrzaliznytsia](https://uz-vezemo.com) is the web portal created to inform passengers during the war. You can plan your trip and buy a ticket via a form on the site.
+        * On the portal you just need to select the station of departure, arrival and date. Then, with tips, you can easily buy a ticket.
+        * You can find the current list of long-distance trains, directions of commuter trains, international routes, a map of operating stations, and current rules of transportation.
+        * Contact Center: 0 800 503 111, 044 465 33 44
     * At the volunteer camps in _Zakarpattia_ _and Lviv regions_ volunteer centers, it is possible to receive medical care and food - including vegetarian meals.
-    * The below map was posted as an example on 3/31/22.
+    * The below map was posted as an example on 5 April.
 
 
 
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image10.jpg "image_tooltip")
+![alt_text](images/image8.jpg "image_tooltip")
 
 
 
@@ -512,10 +540,10 @@ The ICRC & UNHCR Advise:
    </td>
    <td>
 
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image11.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/image9.jpg" width="" alt="alt_text" title="image_tooltip">
 
    </td>
   </tr>
@@ -575,6 +603,8 @@ The ICRC & UNHCR Advise:
 
 
 
+* 1545 — [Government hotline](https://www.kmu.gov.ua/en/uryadova-garyacha-liniya-1545): Access to medical support, humanitarian aid, care for individuals with disabilities, access to charities, care for children & parenting support, eldercare and financial & legal aid.
+    * Ukraine’s citizens abroad: +38 044 284 19 15
 * [List of Emergency Telephone Numbers](https://en.wikipedia.org/wiki/List_of_emergency_telephone_numbers) — Emergency services contact numbers, by country.
 
 <table>
@@ -606,10 +636,10 @@ The ICRC & UNHCR Advise:
 <p>
 
 
-<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image12.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/image10.jpg" width="" alt="alt_text" title="image_tooltip">
 
 <ul>
 
@@ -701,10 +731,10 @@ The ICRC & UNHCR Advise:
 
 
 
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert13" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert14">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image13.jpg "image_tooltip")
+![alt_text](images/image11.jpg "image_tooltip")
 
 
 
@@ -743,8 +773,11 @@ The ICRC & UNHCR Advise:
     * Reimbursement of about UAH 450/month for each person housed by Ukrainians who sheltered IDPs free of charge, to reimburse utility;
     * Local governments will create a register of available housing for accommodation. Owners of places that can receive displaced persons should apply to local authorities;
     * A social package to support internally displaced persons has been developed. [VIDEO](https://youtu.be/QIbpFF0c5GI).  [Source](https://www.ukrinform.ua/rubric-society/3435179-vlasnikam-zitla-aki-bezoplatno-prihistili-pereselenciv-kompensuut-komunalni-vitrati.html)
+* "The government has extended the period for [receiving assistance](https://t.co/cGXUfHESZu) to IDPs. The application deadline for assistance to IDPs has been extended to April 30."
+    * "Adults are able to receive UAH 2,000 and UAH 3,000 per child.
+    * Now it is possible to obtain immigrant status after employment." [Source](https://twitter.com/Now_in_Ukraine/status/1513086527009611776?t=j4FB-um5yqMKq8pp-tYl7Q&s=19)
 * [Yourz Space Bistro](https://www.facebook.com/pages/category/Restaurant/Yourz-Space-Bistro-108637750490595/) in Odessa, is working with [World Central Kitchen](https://wck.org/relief/activation-chefs-for-ukraine) (WCK) to cook thousands of plates of food daily for anyone in need. Location: Preobrazhens'ka St, 45, Odessa, Odessa Oblast, Ukraine, 65000
-* "["Girls"](https://www.facebook.com/lectures4girls/), provides support to families from Irpen, Bucha, Vorzel, Gostomel and Kotsyubynsky - areas that have suffered greatly from the Russian invasion. Families with children can receive financial support - UAH 1,000 for food, medicine and hygiene products." Submit this [form](https://docs.google.com/forms/d/e/1FAIpQLSeIfVkO7b5WaYMeXmvVQlyjxk2c3dvzSr8BjfkeMSO2F6gWsQ/viewform)." [Source](https://euneighbourseast.eu/uk/news-and-stories/latest-news/pidtrymka-zhinok-i-divchat-shho-postrazhdaly-vid-vijny-yaka-dopomoga-dostupna-v-ukrayini/)
+* "["Girls"](https://www.facebook.com/lectures4girls/), provides support to families from_ Irpen, Bucha, Vorzel, Gostomel and Kotsyubynsky_ - areas that have suffered greatly from the Russian invasion. Families with children can receive financial support - UAH 1,000 for food, medicine and hygiene products." Submit this [form](https://docs.google.com/forms/d/e/1FAIpQLSeIfVkO7b5WaYMeXmvVQlyjxk2c3dvzSr8BjfkeMSO2F6gWsQ/viewform)." [Source](https://euneighbourseast.eu/uk/news-and-stories/latest-news/pidtrymka-zhinok-i-divchat-shho-postrazhdaly-vid-vijny-yaka-dopomoga-dostupna-v-ukrayini/)
 * [UKR_RAZOM_bot](https://t.me/UKR_RAZOM_bot) "This chatbot was created for the prompt response of volunteers to the needs of those who found themselves in a hopeless situation during the war in Ukraine." You can request food/supplies, evacuation/transport assistance or emergency medical care.
     * In Ukrainian
     * Available 24/7
@@ -761,7 +794,7 @@ The ICRC & UNHCR Advise:
 ---
 
 
-# **_9. Disabilities & Vulnerable Persons (Pensioners)_**
+# **9. Disabilities & Vulnerable Persons (Pensioners)**
 
 
 <table>
@@ -776,10 +809,10 @@ The ICRC & UNHCR Advise:
    </td>
    <td>
 
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image14.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/image12.jpg" width="" alt="alt_text" title="image_tooltip">
 
    </td>
   </tr>
@@ -791,8 +824,11 @@ The ICRC & UNHCR Advise:
 * In Ukraine and NEED HELP? [SafeBow](https://safebow.org/) works directly with families and individuals to evacuate from Ukraine, prioritizing at-risk populations, including children, LGBT, BiPOC, elderly, and disabled individuals. Reach out [here](https://docs.google.com/forms/d/e/1FAIpQLSdxx_OJEDpbms9XKcnjyT4f_PmDd4_VMQXxbLSpJQCe5hsBeA/viewform?fbzx=4602178245592464764).
 * The Ukrainian Government has [simplified border crossings](https://t.co/vLztsgMRC0) for certain categories of people with disabilities and accompanying persons.
 * [NoWar.help | Support for Sick, Disabled and Deaf People](https://www.nowar.help/en/disability): Information about organizations offering help in Ukraine, Germany and Slovakia. Many of those listed support deaf individuals.
-* [Fight for Right](https://ffr.org.ua/) is supporting people with disabilities to evacuate from Ukraine. You can call their emergency hotline if you're needing immediate assistance: +380978831508; [office.ffr@org.ua](mailto:office.ffr@org.ua) / You can find more information here: [The Partnership For Inclusive Disaster Strategies](https://disasterstrategies.org/ukraine-crisis/) or here: [CrowdSource Rescue](https://twitter.com/cs_rescue/status/1507599855635640323?t=NjOY_CK1aLWzfe_kiYfUOQ&s=19).
-* [Off-The-Grid Missions](https://www.offthegridmissions.org/ukraine/): "We are coordinating with our network of NGOs to provide access to important information for deaf people in need in Ukraine." They have a lot of great information on their site. Kyiv map of [shelter locations](https://www.google.com/maps/d/u/0/viewer?ll=50.37243250000009%2C30.460808699999994&mid=14PnyHN3WPgBZgpJ3q0BOMswKge1hv1au&shorturl=1&z=11).
+* [Fight for Right](https://ffr.org.ua/) is supporting people with disabilities to evacuate from Ukraine. You can call their emergency hotline if you're needing immediate assistance: +380978831508; [office.ffr@org.ua](mailto:office.ffr@org.ua). You can find more information here: [The Partnership For Inclusive Disaster Strategies](https://disasterstrategies.org/ukraine-crisis/) or here: [CrowdSource Rescue](https://twitter.com/cs_rescue/status/1507599855635640323?t=NjOY_CK1aLWzfe_kiYfUOQ&s=19).
+    * [Practical information for people with disabilities who wish to evacuate from Ukraine](https://disasterstrategies.org/%d1%96%d0%bd%d1%84%d0%be%d1%80%d0%bc%d0%b0%d1%86%d1%96%d1%8f-%d0%b4%d0%bb%d1%8f-%d0%bb%d1%8e%d0%b4%d0%b5%d0%b9-%d0%b7-%d1%96%d0%bd%d0%b2%d0%b0%d0%bb%d1%96%d0%b4%d0%bd%d1%96%d1%81%d1%82%d1%8e/)
+* [Off-The-Grid Missions](https://www.offthegridmissions.org/ukraine/): "We are coordinating with our network of NGOs to provide access to important information for deaf people in need in Ukraine." They have a lot of great information on their site!
+    * Kyiv map of [shelter locations](https://www.google.com/maps/d/u/0/viewer?ll=50.37243250000009%2C30.460808699999994&mid=14PnyHN3WPgBZgpJ3q0BOMswKge1hv1au&shorturl=1&z=11).
+    * The site includes contact information for organizations working to welcome Deaf refugees from Ukraine & help chat links for Hungary, Poland, Moldova, Romania and Slovakia.
 * [Migrant Offshore Aid Station (MOAS)](https://www.moas.eu/)
 
     Contact: [info@moas.eu](mailto:info@moas.eu): Avery, helping coordinate evacuations for people with disabilities. WhatsApp contact: +1 (951) 751-3978
@@ -810,6 +846,25 @@ The ICRC & UNHCR Advise:
 
 
 
+* [Women Against Violence Europe](https://wave-network.org/) — table of [women’s helplines](https://wave-network.org/wp-content/uploads/WAVE-list-of-heplines.pdf) available in the 46 European Countries.
+    * To contact WAVE directly, call: +43 1 5482720
+* [Rape Crisis Network Europe](https://www.rcne.com/) — database of rape crisis centres across Europe. Unfortunately, there is no listing for Ukraine. Please contact: [La Strada-Ukraine](https://www.lastradainternational.org/la-strada-ukraine/). 
+    * "If you have experienced sexual violence or are supporting someone else who has been violated, you can contact a rape crisis centre for help &  information.
+    * _It does not matter whether the sexual violence happened recently or a long time ago."_
+* "[Women’s Information Consultative Center (WICC)](https://civilmplus.org/en/actors/women-s-information-and-consultative-centre/) is supporting women and women with children who find themselves in a difficult or hopeless situation. In addition, they constantly publish current, useful information on their [website](http://wicc.net.ua/en/category/viyna), such as: daily schedules of evacuation trains; instructions on how to act in a crisis situation (explosion, occupation, mental health, and much more); lists of official information channels and other useful information during the war." [Source](https://wave-network.org/42-days-of-war/) ([Facebook](https://www.facebook.com/WICC.NET.UA/))
+* "[United Nations Population Fund (UNFPA) in Ukraine](https://ukraine.unfpa.org/en) provides free psychological support to Ukrainian women. The National Hotline for the Prevention of Domestic Violence, Trafficking in Human Beings and Gender Discrimination (includes sexual assault & rape) is _available online._ You can get psychological support 24/7 on these pages:
+    * [Facebook](https://www.facebook.com/lastradaukraine)
+    * [Telegram](https://t.me/NHL116123)
+    * Email: [hotline@la-strada.org.ua](mailto:hotline@la-strada.org.ua)
+    * Skype: lastrada-ukraine." [Source](https://euneighbourseast.eu/uk/news-and-stories/latest-news/pidtrymka-zhinok-i-divchat-shho-postrazhdaly-vid-vijny-yaka-dopomoga-dostupna-v-ukrayini/)
+* The [Masha Efrosinina Foundation](https://instagram.com/mashaefrosinina?utm_medium=copy_link) provides psychological assistance to children. You can request assistance [here](https://docs.google.com/forms/d/e/1FAIpQLScAhuuZhLEK1S1SQW9t4HlldngRE32BeK0bBkn1_buG_WIcEw/viewform). (Ukrainian)
+* [La Strada-Ukraine | Child Hotline](https://www.lastradainternational.org/la-strada-ukraine/) offers free counseling for parents who need support. You can connect via:
+    * [Facebook](https://www.facebook.com/childhotline.ukraine/)
+    * [Telegram](https://t.me/CHL116111)
+    * [Instagram](https://www.instagram.com/childhotline_ua)
+* [The Child Mind Institute | Helping Children Cope With Traumatic Events](https://childmind.org/resources/helping-children-cope-with-traumatic-events/): "Free, multilingual resources to help parents, educators and communities support children during and after potentially traumatic events." 
+* [MilitaryChild.org | Support and Resources for Ukrainian Military Families](https://www.militarychild.org/resourcesukrainianfamilies)
+* "Svitlana Roiz and the [Ministry of Education and Science](https://mon.gov.ua/eng) have launched a video project ["Psychological Care"](https://www.youtube.com/playlist?app=desktop&list=PLFVSJgZgf7h8rXg9TTyevxZkdfxAQXodS&fbclid=IwAR0qUXzXfGQbi3yYTI8D3pt1D_GxBc20O5sN7-f3C9K7N_nBpo) for children. Experts talk about how to take care of a child in a bomb shelter, how to talk during an evacuation, how to pick up words if one of the parents went to war." [Source](https://euneighbourseast.eu/uk/news-and-stories/latest-news/pidtrymka-zhinok-i-divchat-shho-postrazhdaly-vid-vijny-yaka-dopomoga-dostupna-v-ukrayini/)
 * "What should parents expect from their children while in the shelter? How should they support them?
 
     There should be books, games and computers there for children to use. But in a state of hyper-alertness, a lot of children find it difficult to concentrate or do anything apart from cry. If this happens, hold and comfort the child. Don’t tell them to stop being afraid. This isn’t helpful — it dismisses what they are feeling. Rather, acknowledge that it is a scary situation and reassure them that you are with them and things will be okay.
@@ -830,20 +885,35 @@ The ICRC & UNHCR Advise:
     * Kyivstar: +380675679845
     * Lifecell: +380636614252; +380633994592
     * Vodafone: +380953271521
-* The [Masha Efrosinina Foundation](https://instagram.com/mashaefrosinina?utm_medium=copy_link) provides psychological assistance to children. You can request assistance [here](https://docs.google.com/forms/d/e/1FAIpQLScAhuuZhLEK1S1SQW9t4HlldngRE32BeK0bBkn1_buG_WIcEw/viewform). (Ukrainian)
-* [La Strada-Ukraine | Child Hotline](https://www.lastradainternational.org/la-strada-ukraine/) offers free counseling for parents who need support. You can connect via:
-    * [Facebook](https://www.facebook.com/childhotline.ukraine/)
-    * [Telegram](https://t.me/CHL116111)
-    * [Instagram](https://www.instagram.com/childhotline_ua)
-* [The Child Mind Institute | Helping Children Cope With Traumatic Events](https://childmind.org/resources/helping-children-cope-with-traumatic-events/): "Free, multilingual resources to help parents, educators and communities support children during and after potentially traumatic events." 
-* [MilitaryChild.org | Support and Resources for Ukrainian Military Families](https://www.militarychild.org/resourcesukrainianfamilies)
-* "Svitlana Roiz and the [Ministry of Education and Science](https://mon.gov.ua/eng) have launched a video project ["Psychological Care "](https://www.youtube.com/playlist?app=desktop&list=PLFVSJgZgf7h8rXg9TTyevxZkdfxAQXodS&fbclid=IwAR0qUXzXfGQbi3yYTI8D3pt1D_GxBc20O5sN7-f3C9K7N_nBpo) for children. Experts talk about how to take care of a child in a bomb shelter, how to talk during an evacuation, how to pick up words if one of the parents went to war." [Source ](https://euneighbourseast.eu/uk/news-and-stories/latest-news/pidtrymka-zhinok-i-divchat-shho-postrazhdaly-vid-vijny-yaka-dopomoga-dostupna-v-ukrayini/)
-* "The [Ministry of Education and Science](https://mon.gov.ua/eng) has created an [online schedule](https://t.co/Qvw5F2yy7g) for students during the war." 
+* Free children's [audiobooks](https://abuk.com.ua/catalog/compilation/29?fbclid=IwAR1lzWu3ezPkvP5p4uMuwst-TA0XBe6TSgu0H0NEnEW9zJ6ys3CrCBIk4Uo).
+
+
+## **
+
+<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "~Educational Resources"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+[~Educational Resources](#heading=h.8cw9xqz0gqn0)**
+
+
+
+* [How to register a child in a new school and get a document on education in wartime](https://tsn.ua/ukrayina/yak-oforomiti-ditinu-v-novu-shkolu-ta-otrimati-dokument-pro-osvitu-v-umovah-viyni-2030983.html) — guidance from the Ministry of Education & Science.
+* [MES | Ukrainian Online Academy for Displaced Students](https://mon.gov.ua/ua/news/zapusheno-stvorennya-ukrayinskoyi-onlajn-akademiyi-dlya-peremishenih-shkolyariv) has been launched for temporarily displaced students, which will allow them to continue their education free of charge."
+    * provides continuing education for students who are temporarily relocated to regions of Ukraine or abroad;
+    * for students who do not have the opportunity to continue studies in a foreign language;
+    * courses with Ukrainian translation;
+    * for students in grades 9-11;
+    * students will be able to transition back to studies in Ukraine sooner, after victory;
+    * registration [link](https://citizenshighschool.com/academies/ukrainian-online-academy/).
+* "Currently, there are 36 schools in Ukraine that issue Ukrainian-style certificates. A list of them can be found on [the website](https://uis.org.ua/edu-course/advanced-english-ii/) of the  International Ukrainian School. The International Ukrainian School is authorized by the Ministry of Education of Ukraine to evaluate children in the territory where they are. If desired, children can be registered directly with this school, which operates exclusively in the external form of education, organizing an individual curriculum for each student." [Source](https://tsn.ua/ukrayina/yak-oforomiti-ditinu-v-novu-shkolu-ta-otrimati-dokument-pro-osvitu-v-umovah-viyni-2030983.html)
+* "The [Ministry of Education and Science](https://mon.gov.ua/eng) has created an [online schedule](https://t.co/Qvw5F2yy7g) for students during the war."
+* Ukraine MES offers [a list of mobile applications](https://mon.gov.ua/ua/news/mobilni-zastosunki-dlya-vivchennya-inozemnih-mov) for learning foreign languages, which are free for Ukrainians impacted by the war.
+* [Lets Learn without Borders](https://uied.org.ua/en/lets-learn-without-borders/) — "This resource provides students, teachers and parents free access to learning resources and resources aimed at psychological support."
+    * [Learning resources](https://uied.org.ua/en/lets-learn-without-borders/learning-resources/)
+    * [Resources for psychological support](https://uied.org.ua/en/lets-learn-without-borders/psychological-support/)
 * "The Volunteer Initiative for the Protection of Children of Ukraine launched an _online platform with free lessons for children and psychological help_. Children from all over Ukraine who have access to the Internet can learn with teachers in real time. Volunteers from abroad [have] joined the platform. 
 
-    For descriptions of trainings, schedule of classes and the registration form, go [here](https://dostupnaosvita.com.ua/news/naukovij-licej-churyumova-spilno-z-volonterami-zapustili-platformu-z-bezkoshtovnimi-onlajn-urokami-v?fbclid=IwAR04q7oJ2jbNjEhFpJXNId0xciJ4vcWU0FWi7g-HQyncnjhe1JZypeTea9k)." [Source ](https://euneighbourseast.eu/uk/news-and-stories/latest-news/pidtrymka-zhinok-i-divchat-shho-postrazhdaly-vid-vijny-yaka-dopomoga-dostupna-v-ukrayini/)
+    For descriptions of trainings, schedule of classes and the registration form, go [here](https://dostupnaosvita.com.ua/news/naukovij-licej-churyumova-spilno-z-volonterami-zapustili-platformu-z-bezkoshtovnimi-onlajn-urokami-v?fbclid=IwAR04q7oJ2jbNjEhFpJXNId0xciJ4vcWU0FWi7g-HQyncnjhe1JZypeTea9k)." [Source](https://euneighbourseast.eu/uk/news-and-stories/latest-news/pidtrymka-zhinok-i-divchat-shho-postrazhdaly-vid-vijny-yaka-dopomoga-dostupna-v-ukrayini/)
 
-* Free children's [audiobooks](https://abuk.com.ua/catalog/compilation/29?fbclid=IwAR1lzWu3ezPkvP5p4uMuwst-TA0XBe6TSgu0H0NEnEW9zJ6ys3CrCBIk4Uo).
 
 
 ---
@@ -859,6 +929,7 @@ The ICRC & UNHCR Advise:
     * ([Facebook](https://www.facebook.com/insight.ngo/))([Twitter](https://mobile.twitter.com/insightua)) 
 * Immigration: [Support for BIPOC & LGBTQ+ Communities](https://www.nowar.help/en/bipoc) from NoWar.help.
 * In Ukraine and NEED HELP? [SafeBow](https://safebow.org/) works directly with families and individuals to evacuate from Ukraine, prioritizing at risk populations, including children, LGBT, BiPOC, elderly, and disabled individuals. Reach out [here](https://docs.google.com/forms/d/e/1FAIpQLSdxx_OJEDpbms9XKcnjyT4f_PmDd4_VMQXxbLSpJQCe5hsBeA/viewform?fbzx=4602178245592464764).
+* [VAWnet.org  | Transgender Sexual Violence Survivors: A Self Help Guide to Healing and Understanding](https://vawnet.org/material/transgender-sexual-violence-survivors-self-help-guide-healing-and-understanding) — "This guide is written for trans survivors of sexual violence. Sections include: trauma and its aftermaths, transgender survivors of sexual assault, options for healing, and self-help techniques."
 
 
 ---
@@ -890,17 +961,19 @@ The ICRC & UNHCR Advise:
 ---
 
 
-# **13. Artists, Writers, Scientists, Scholars & Students**
+# **13. Students & Professionals: Artists, Writers, Scientists, Scholars & Filmmakers**
 
 
 
 * "[UChicago](https://www.uchicago.edu/) will provide full-tuition undergraduate scholarships and other resources to students and scholars affected by the invasion. Click [here](https://t.co/ZqvtK6KT3Z) for details." [Source](https://t.co/M7K2nSgE7l)
+* "The team of [Docudays and Docudays UA](https://docudays.ua/2022/news/kino/docuhelp-raising-money-to-support-the-filmmaking-community-in-ukraine/) has initiated a support fund for Ukrainian cinematographers who are boldly and desperately documenting the events of the war in Ukraine right now: recording war crimes, creating materials for foreign media and future films that will later provide more insightful view of the situation in our country." [Request help](https://docs.google.com/forms/d/e/1FAIpQLSee1HblSIyaDIQ5Cypu7srm6Q60_yL_4SU6BNOJxqGXGYZuHg/viewform).
 * Displaced students can study online at other universities. 
 
     The National Agency for Quality Assurance in Higher Education: [this list](https://t.co/DcT4A5NUkH) is not exhaustive and will be updated on the official [Facebook page](https://m.facebook.com/nazyavo).
 
 * [FENS community support for Ukraine](https://www.fens.org/ukraine): "A list of resources shared by our community for Ukrainian scientists and students."
-* [Science For Ukraine](https://scienceforukraine.eu/table.html) has a database of current help offers, with many paid job listings, in the sciences. 
+* [Science For Ukraine](https://scienceforukraine.eu/table.html) has a database of current help offers, with many paid job listings, in the sciences.
+    * [Interactive Map](https://scienceforukraine.eu/) of Universities assisting Ukrainian refugees.
 * [ARTMargins Online | Resources for Artists and Scholars Forced to Flee Ukraine](https://artmargins.com/resources-for-ukrane/?fbclid=IwAR0aaCACIGsUVpYWKrvN9f1lFEs1mZWWasQ7n7w_QwjtRWa437No8Ouv9Fg): "...growing list of resources (primarily art- and research-related), including residencies, fellowships,  internships, and emergency funds." 
 
     You can submit resources you're aware of to them. They will continue to update. (Also includes: Cultural Heritage and Evacuation of Art resources.) (_This is a valuable site!_)
@@ -981,10 +1054,10 @@ The ICRC & UNHCR Advise:
 
 
 
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image13.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image15.jpg "image_tooltip")
+![alt_text](images/image13.jpg "image_tooltip")
 
 
 
@@ -1053,6 +1126,7 @@ The ICRC & UNHCR Advise:
 
     _"Remember that it is normal to feel anxiety, worry and fear at a time when there is fighting around you and the country is at war with the aggressor._ _This is an acceptable reaction of your psyche and body to the situation."_
 
+* "Svitlana Roiz and the [Ministry of Education and Science](https://mon.gov.ua/eng) have launched a video project ["Psychological Care"](https://www.youtube.com/playlist?app=desktop&list=PLFVSJgZgf7h8rXg9TTyevxZkdfxAQXodS&fbclid=IwAR0qUXzXfGQbi3yYTI8D3pt1D_GxBc20O5sN7-f3C9K7N_nBpo) for children. Experts talk about how to take care of a child in a bomb shelter, how to talk during an evacuation, how to pick up words if one of the parents went to war." [Source](https://euneighbourseast.eu/uk/news-and-stories/latest-news/pidtrymka-zhinok-i-divchat-shho-postrazhdaly-vid-vijny-yaka-dopomoga-dostupna-v-ukrayini/)
 
 
 ## **~Providers/Agencies  **
@@ -1074,7 +1148,6 @@ The ICRC & UNHCR Advise:
 * The [Masha Efrosinina Foundation](https://www.instagram.com/p/CZch4TFrLYY/) provides psychological assistance to children. You can request assistance [here](https://docs.google.com/forms/d/e/1FAIpQLScAhuuZhLEK1S1SQW9t4HlldngRE32BeK0bBkn1_buG_WIcEw/viewform). (Ukrainian)
 * "[Psychological support of Ukrainians during the war](https://t.me/PsihologDopomogaWarInUa2022) from psychotherapists-practitioners." [Source](https://euneighbourseast.eu/uk/news-and-stories/latest-news/pidtrymka-zhinok-i-divchat-shho-postrazhdaly-vid-vijny-yaka-dopomoga-dostupna-v-ukrayini/)
 * "The online platform ["Tell Me"](https://tellme.com.ua/) is providing free psychological assistance to Ukrainians around the clock. If you feel anxious, have panic attacks, are close to depression or even on the verge - leave a request and wait. The specialist will contact you as soon as possible."
-* Journalists:  "Here's a [list of resources](https://docs.google.com/document/d/14qxHZOCSrnQQ2OEbx7wpydyKVxRSIt4PgvgsTKvB3Vg/mobilebasic) and contacts for trauma relief & support. Created and updated by [Dart Centre Europe](https://dartcenter.org/), @selbstlaut_k and @nrecherche."  [Source](https://t.co/gRmIj5Ehza)
 
 
 ## **~Hotlines & Support Groups**
@@ -1086,10 +1159,10 @@ The ICRC & UNHCR Advise:
 
 
 
-<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image16.jpg "image_tooltip")
+![alt_text](images/image14.jpg "image_tooltip")
 
 
 
@@ -1145,59 +1218,71 @@ The ICRC & UNHCR Advise:
 
 
 
-<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image17.jpg "image_tooltip")
+![alt_text](images/image15.jpg "image_tooltip")
 
 
 
 
 * "[IOMU kraine](https://iom.org.ua/) set up a psychological support hotline with 30+ psychologists, counselors & psychiatrists ready to provide free support to people affected who are in Ukraine. Call 0 800 211 444." [Source](https://t.co/IWDfFnXWPt)
+* 🇺🇸 _US_: "If news of a crisis in another country has you feeling overwhelmed, anxious or upset, you're not alone: the national [@Distressline](https://twitter.com/distressline?lang=en) offers 24/7 support. Call or text 1-800-985-5990 and Talk With Us." [Source](https://t.co/6ijd8HX0m7)
 
 
-## **~Field Guides/Information/Apps**
+## **~Field Guides/Info/Apps & Bots**
 
 
 
+* [Survivor's guilt syndrome: what to do if you are ashamed to be safe](https://tsn.ua/ukrayina/yak-otrimati-pensiyu-ta-groshovi-viplati-v-ukrposhti-yakscho-vi-evakuyuvalisya-1998718.html) — this is a _very_ common feeling experienced by Survivors. This article has some really good information & advice on dealing with those feelings. In Ukr.
 * "Stress relief [in the bomb shelter](https://hey.mindist.io/meditation?meditationId=irdOPptMRuE4FvX3atFY) , 12 min audio — Gleb Khodorkovsky."
 * How to [deal with homesickness](https://t.co/Ie4Pccy3Wj): practical tips. 
 * [Psychological First Aid for Displaced Children and Families (NCTSN)](https://www.nctsn.org/resources/pfa-for-displaced-children-and-families).
-* [Traumatic Separation and Refugee and Immigrant Children](http://www.nctsn.org/resources/traumatic-separation-and-refugee-and-immigrant-children-tips-current-caregivers): Tips for parents and current caregivers. 
+* [Traumatic Separation and Refugee & Immigrant Children](http://www.nctsn.org/resources/traumatic-separation-and-refugee-and-immigrant-children-tips-current-caregivers): Tips for parents and current caregivers. 
     * [National Child Traumatic Stress Network](https://www.nctsn.org/)
     * [Facebook](https://www.facebook.com/NCTSN/)
     * [Twitter](https://mobile.twitter.com/nctsn/status/1498372603643375618)
 * Psychological first aid: Guide for field workers (Ukrainian). See [here](http://apps.who.int/iris/bitstream/handle/10665/44615/9786176150787-ukr.pdf?sequence=72).
-* Psychological first aid: facilitator’s manual for orienting field workers (Ukrainian). See [here](http://app.mhpss.net/?get=245/psychological-first-aid_facilitators-manual-for-orienting-field-workers_ukrainian_e-version.pdf).
+    * Psychological first aid: facilitator’s manual for orienting field workers (Ukrainian). See [here](http://app.mhpss.net/?get=245/psychological-first-aid_facilitators-manual-for-orienting-field-workers_ukrainian_e-version.pdf).
+* [Dr. V of DAT | Mental Health Tips & Info for Survivors of Disaster & War](https://t.co/qMvUaA4Tgt)
+
+    "Feeling sad, terrified, restless, uneasy, can't sleep, panicked, overwhelmed, can't stop news scrolling? Effective psychological techniques you can use to feel better, _now_." 
+
+    * Trauma, grief, loss, crisis, self-care and so much more are addressed in this helpful doc. 
+    * Dr. V has decades of experience and is a practicing psychotherapist in the US.
+* The Center for Strategic Communications & Information Security has created a new bot, ["Friend. First Aid"](https://t.me/friend_first_aid_bot?fbclid=IwAR3E7kjNACpNdjxnLKDxRNVgAralWKYW0BZKcj3GY9Jyfk_SUWcQCz8S_Q8) — which can provide psychological assistance in stressful situations, or immediately after a traumatic event, in the case that you cannot access a therapist. 
+    * "This bot was created on the basis of modern research, so it can really help you in the first hours after a traumatic event ," - says the agency. [Source](https://www.facebook.com/100068219718932/posts/303102991973689/)
 * "Exposure to war causes a wide range of harmful mental health effects. Those living in Ukraine, refugees who are displaced, family and friends of Ukrainian citizens and communities watching around the world may experience responses such as anger, fear, trouble with sleep, increased use of substances, and others." [CSTS Online | War in Ukraine Mental Health Resources](https://www.cstsonline.org/resources/resource-master-list/war-in-ukraine-mental-health-resources)
 * The Institute of Cognitive Modeling: ['It Seems To Me](https://itseems.com.ua/)' is an anonymous online diary. *Journaling can be an effective coping tool during times of stress & anxiety. 
+* [Telegram Channel | Psychological Support](https://t.me/psy_support)
+    * Offers tips & advice for psychological health, coping and living during the war.
 * 'Recommendations for dealing with people in crisis situations and following difficult life events'. (This is useful information for anyone in contact with Survivors of war.) Brochure [link](https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:a88e1735-230e-3d3f-8a84-7bcb1920b538). In [Ukrainian](https://rm.coe.int/for-helpers-ukr-print/1680a5c95a).
 
 
 
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image18.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image16.jpg "image_tooltip")
+
+
+<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+![alt_text](images/image17.jpg "image_tooltip")
+
+
+<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image18.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image18.jpg "image_tooltip")
-
-
-<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image19.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image19.jpg "image_tooltip")
-
-
-<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image20.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image20.jpg "image_tooltip")
 
 
 
 ---
 
 
-# **_16. Gender-Based Violence & Human Trafficking_**
+# **16. Gender-Based Violence/ Rape & Human Trafficking**
 
 
 
@@ -1207,9 +1292,21 @@ The ICRC & UNHCR Advise:
 * [UNICEF | Guidance for protecting displaced and refugee children in and outside of Ukraine](https://www.unicef.org/emergencies/guidance-protecting-displaced-children-ukraine?fbclid=IwAR1QE--onRxBsJHc9Z4QNW-ozs2ScT775lIPKPAYx33DgSSbX1UvqHvOs0U): "How authorities and aid workers can help keep children displaced by the war in Ukraine safe from trafficking and other forms of exploitation and abuse."
 * [Istanbul Convention](https://www.coe.int/en/web/istanbul-convention/text-of-the-convention): Action against violence, against women and domestic violence.
     * [Helplines in Europe](https://www.coe.int/en/web/istanbul-convention/help-lines)
+* [Women Against Violence Europe (WAVE)](https://wave-network.org/) — table of [women’s helplines](https://wave-network.org/wp-content/uploads/WAVE-list-of-heplines.pdf) available in the 46 European Countries.
+    * To contact WAVE directly, call: +43 1 5482720
+    * ([Twitter](https://twitter.com/WAVE_europe?t=voY2yheGwocaUi2MxTM5ug&s=09))
 * [National Fight Against Trafficking And Counseling For Migrants](http://ukraine.iom.int/en/migrant-protection-and-assistance) 
     * Hotline: From a landline: 0 800 505 501; from a mobile phone: 527
     * Operates from 8:00 to 20:00; and is free and anonymous.
+* [Women Against Violence Europe](https://wave-network.org/) — table of [women’s helplines](https://wave-network.org/wp-content/uploads/WAVE-list-of-heplines.pdf) available in the 46 European Countries.
+    * To contact WAVE directly, call: +43 1 5482720
+* [Rape Crisis Network Europe](https://www.rcne.com/) — database of rape crisis centres across Europe. Unfortunately, there is no listing for Ukraine. Please contact: [La Strada-Ukraine](https://www.lastradainternational.org/la-strada-ukraine/). 
+    * "If you have experienced sexual violence or are supporting someone else who has been violated, you can contact a rape crisis centre for help &  information.
+    * _It does not matter whether the sexual violence happened recently or a long time ago."_
+* [Lila.help](https://lila.help/): "On this website you will find trustworthy _gender-based violence helplines and NGOs_ for almost every country in the world. Every helpline or organization on this website is safe, will provide a listening ear, understands what victims need, is part of a broader crisis-help network, and can answer your questions or call for help."
+
+    "The [Global Network of Women’s Shelters (GNWS)](https://gnws.org/) strives to meet the needs of all survivors."
+
 * [NoMore Directory](https://nomoredirectory.org/ukraine/) - Sexual Assault & Domestic Violence Helplines:
     * [24/7 National Hotline](https://rozirvykolo.org/): + 0 800 500 335
     * [Hotline of National police of Ukraine](http://womenua.today/en/de-v-ukrayini-otrymaty-dopomogu-postrazhdalym-vid-domashnogo-nasylstva/): + 0 800 500 202.
@@ -1237,12 +1334,21 @@ The ICRC & UNHCR Advise:
     * [Instagram](https://www.instagram.com/childhotline_ua/)
     * [Facebook](https://www.facebook.com/childhotline.ukraine/)
 * [Support for women and girls affected by the war: what help is available in Ukraine?](https://euneighbourseast.eu/uk/news-and-stories/latest-news/pidtrymka-zhinok-i-divchat-shho-postrazhdaly-vid-vijny-yaka-dopomoga-dostupna-v-ukrayini/) This has a fantastic list of resources for women and children - impacted by the war, domestic violence, or in need of psychological care.
-* "[UNFPA in Ukraine](https://ukraine.unfpa.org/en) provides free psychological support to Ukrainian women. The National Hotline for the Prevention of Domestic Violence, Trafficking in Human Beings and Gender Discrimination is _available online._ You can get psychological support 24/7 on these pages:
+* "[United Nations Population Fund (UNFPA) in Ukraine](https://ukraine.unfpa.org/en) provides free psychological support to Ukrainian women. The National Hotline for the Prevention of Domestic Violence, Trafficking in Human Beings and Gender Discrimination is _available online._ You can get psychological support 24/7 on these pages:
     * [Facebook](https://www.facebook.com/lastradaukraine)
     * [Telegram](https://t.me/NHL116123)
     * Email: [hotline@la-strada.org.ua](mailto:hotline@la-strada.org.ua)
     * Skype: lastrada-ukraine." [Source](https://euneighbourseast.eu/uk/news-and-stories/latest-news/pidtrymka-zhinok-i-divchat-shho-postrazhdaly-vid-vijny-yaka-dopomoga-dostupna-v-ukrayini/)
-* [Affected first and worst’: Ukrainian women and girls at increased risk of sexual violence](https://www.brusselstimes.com/209977/affected-first-and-worst-ukrainian-women-and-girls-at-increased-risk-of-sexual-violence)
+* [Survivors Network](https://survivorsnetwork.org.uk/resource/survivors-self-help-guide/) — "[The Survivors Self Help Guide](https://survivorsnetwork.org.uk/wp-content/uploads/2019/02/SN-Self-Help-Guide.pdf) is for survivors of rape or sexual abuse who want to understand and process their own personal reactions to their experience. When you have suffered rape or sexual abuse it can affect how you think, how you feel, how you behave and how you see the world."
+    * Website in Ukrainian: [Посібник із самодопомоги для тих, хто вижив](https://survivorsnetwork-org-uk.translate.goog/resource/survivors-self-help-guide/?_x_tr_sl=auto&_x_tr_tl=uk&_x_tr_hl=en)
+    * Website in Russian: [Руководство по самопомощи для выживших](https://survivorsnetwork-org-uk.translate.goog/resource/survivors-self-help-guide/?_x_tr_sl=auto&_x_tr_tl=ru&_x_tr_hl=en)
+* [VAWnet.org  | Transgender Sexual Violence Survivors: A Self Help Guide to Healing and Understanding](https://vawnet.org/material/transgender-sexual-violence-survivors-self-help-guide-healing-and-understanding) — "This guide is written for trans survivors of sexual violence. Sections include: trauma and its aftermaths, transgender survivors of sexual assault, options for healing, and self-help techniques."
+* [Self-blame | Rape Crisis](https://rapecrisis.org.uk/get-help/tools-for-victims-and-survivors/self-blame-and-guilt/) — "Many victims and survivors feel like they _blame themselves for what happened_, _feel guilty, or feel ashamed_.
+
+    These feelings of shame, guilt and self-blame can be very hard to deal with. But, if you are feeling like this, you are not alone - it's a really common response."
+
+    * You can chat with a rape crisis counselor if you'd like to — services are _anonymous_ and text-based. Go here: [Live Chat Helpline](https://rapecrisis.org.uk/get-help/live-chat-helpline/).
+    * Go at your own pace — when _you_ are ready to reach out. There is no timeline & no rules for sharing your story. Support will be there, when _you_ are ready. Be gentle with yourself. 
 
 
 ---
@@ -1254,6 +1360,7 @@ The ICRC & UNHCR Advise:
 
 * [Ukrainian Legal Aid](https://ukrainelegalaid.org/#/): "This website is for Ukrainians who have fled as refugees to other countries seeking asylum and other legal assistance. We've collected a database of volunteer attorneys willing to help." (Site is in Ukr, Eng, Rus, Pol & Hun)
 * "Lawyers in the [Canadian Bar Association | CBA](https://www.cba.org/For-The-Public/Crisis-in-Ukraine) Immigration Law Section are spearheading an initiative to provide services, without charge, to individuals affected by the crisis in Ukraine. These services include legal consultations and advice for those seeking to take advantage of Immigration, Refugees and Citizenship Canada’s facilitative initiatives and programs to bring eligible Ukrainian nationals to _Canada_.
+* US: [Lawyers for Good Government](https://www.lawyersforgoodgovernment.org/client-waitlist-form-english) – "We will be providing free legal assistance to Ukrainian Nationals seeking Temporary Protected Status (TPS). Please fill out this form to join our list of people to be notified when Ukrainians are allowed to prepare and submit TPS applications."
 * [AILA](https://www.aila.org/) (American Immigration Legal Association) immigration lawyer search database. "AILA is the only legal association in the _United States_ for immigration attorneys." 
 * _Hungary_: "[The Hungarian Helsinki Committee](https://helsinki.hu/en/) will help people fleeing from Ukraine. Asylum seekers can count on us to provide them with professional and free legal assistance, from counselling to representation." ([Facebook](http://facebook.com/helsinkibizottsag))([Twitter](https://twitter.com/hhc_helsinki/status/1486608672788824066))
     * Contact us here: [ukrainecrisis@helsinki.hu](mailto:ukrainecrisis@helsinki.hu)
@@ -1346,13 +1453,15 @@ The ICRC & UNHCR Advise:
 * [LPHR Org | Information for the escape to Germany/Switzerland/ Poland](https://www.lphr.org/en/info-flucht/): Helpful links in German & Ukrainian.
 * The [International Refugee Assistance Project (IRAP)](https://support.iraplegalinfo.org/hc/en-us/articles/4629538686612) is an excellent page with legal/asylum, psychosocial & disability resource listings, humanitarian aid orgs & government sites/information for Ukrainian refugees. It has information for: _Moldova, Poland, Romania, Hungary & Slovakia_.
 * 🇪🇺 [Information for people fleeing the war in Ukraine](https://ec.europa.eu/info/strategy/priorities-2019-2024/stronger-europe-world/eu-solidarity-ukraine/eu-assistance-ukraine/information-people-fleeing-war-ukraine_en): "If you are fleeing the war in Ukraine and coming to the European Union, you will find key information about your rights with regard to crossing the border into an EU country, eligibility for temporary protection and applying for international protection, as well as the rights of travel inside the European Union." Information in Eng, Ukr & Rus. 
-* 🇪🇺 (19 Mar) Citizens of Ukraine can cross the borders of _Poland, Slovakia, Hungary, Romania, the Czech Republic and Moldova_ in their own cars without ["Green Card" policies](https://visitukraine.today/blog/201/do-ukrainian-drivers-need-a-green-card-when-entering-the-eu).
+* 🇪🇺 🚗 (19 Mar) Citizens of Ukraine can cross the borders of _Poland, Slovakia, Hungary, Romania, the Czech Republic and Moldova_ in their own cars without ["Green Card" policies](https://visitukraine.today/blog/201/do-ukrainian-drivers-need-a-green-card-when-entering-the-eu).
 
     "In case of traveling to other countries, [Green Card policies can now be issued by Ukrainian insurers](https://visitukraine.today/blog/201/do-ukrainian-drivers-need-a-green-card-when-entering-the-eu), including via the Internet, both for a short period (up to 60 days) with a 50% discount, and for any period."
 
+    * Ukrainian citizens can get vehicle insurance ("Green Card")  — needed to cross into many Schengen countries by car, at the [Oschad bank](https://www.oschadbank.ua/aktualnij-rezim-roboti-viddilen-ta-bankomativ).
 * 🇪🇺 [Information on free travel options offered by European transport companies](https://ec.europa.eu/info/strategy/priorities-2019-2024/stronger-europe-world/eu-solidarity-ukraine/eu-assistance-ukraine/information-people-fleeing-war-ukraine_en#information-on-free-travel-options-offered-by-european-transport-companies): Information for the following countries: Austria, Belgium, Bulgaria, Czechia, Denmark, Finland, France, Germany, Hungary, Italy, Latvia, Lithuania, Luxembourg, Netherlands, Poland, Romania, Slovakia, Slovenia, Spain & Sweden.
     * [Additional information from national authority](https://ec.europa.eu/info/strategy/priorities-2019-2024/stronger-europe-world/eu-solidarity-ukraine/eu-assistance-ukraine/information-people-fleeing-war-ukraine_en#onward-travel-in-the-eu)
 * [Asylum Access Org | Ukraine Emergency: Resources for Refugees](https://asylumaccess.org/ukraine/) — Provides information about safety for refugees and organizations offering assistance in neighboring countries.
+* 🇪🇺 ["Europe without Barriers"](https://english.europewb.org.ua/) provides information concerning documentation, fleeing with children, and legal routes/choices you have for remaining in the EU legally: [The way home: how to return to Ukraine for those who fled the war](https://www.eurointegration.com.ua/articles/2022/04/7/7137414/)
 * [UNICEF Europe C. Asia](https://twitter.com/UNICEF_ECA/status/1509520100419936268?t=B1Qwz0SzRXMLnB2ydeuhHQ&s=19): "If you or someone you know has fled Ukraine and is taking refuge in the _Czech Republic, Hungary, Moldova, Poland, Romania or Slovakia_, [here's how to access essential services](https://t.co/8traaj8pp2), including:
     * Shelter 
     * Food
@@ -1371,10 +1480,10 @@ The ICRC & UNHCR Advise:
 
 
 
-<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image21.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image19.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image21.jpg "image_tooltip")
+![alt_text](images/image19.jpg "image_tooltip")
 
 
 
@@ -1516,6 +1625,9 @@ Call: 1.855.936.1718
 
 
     "The [University of Alberta](https://www.cbc.ca/amp/1.6382745) is offering financial support to Ukrainian students who may be suffering financial hardship because of the Russian invasion."
+
+
+    [Montreal area Ukraine relief information/ Informations sur l'aide à l'Ukraine](https://www.facebook.com/groups/mtlukrainereliefaide)
 
 
 
@@ -1712,6 +1824,13 @@ UNHCR: [Hungary Refugee Help Page](http://t.co/W3VUqJEwTw)
     [Help, Accommodation & Shelter For Ukrainians In Italy ](https://www.facebook.com/groups/465946801653038/)(Facebook Group)
 
 
+#### **🇱🇻 
+
+<p id="gdcalert25" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Latvia"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert26">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+[Latvia](#heading=h.ek7uwb28fvc0)**
+
+
 #### **🇱🇹 <span style="text-decoration:underline;">Lithuania</span>**
 
 
@@ -1834,10 +1953,10 @@ UNHCR: [Hungary Refugee Help Page](http://t.co/W3VUqJEwTw)
 
 
 
-<p id="gdcalert25" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image22.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert26">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert26" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image20.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert27">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image22.jpg "image_tooltip")
+![alt_text](images/image20.jpg "image_tooltip")
 
 
 [Graphic Source](https://twitter.com/Jr3597/status/1504291258256211971?t=thNrS-JOq5HGa5UvI_fuAA&s=19)
@@ -1942,10 +2061,10 @@ Dr Okonkwo: +40757696087
 
 
 
-<p id="gdcalert26" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image23.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert27">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert27" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image21.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert28">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image23.jpg "image_tooltip")
+![alt_text](images/image21.jpg "image_tooltip")
 
 
 
@@ -1988,7 +2107,7 @@ UNHCR: [Slovakia Help Page](http://t.co/B08aWP7ILK)
 
 #### **🇨🇭 
 
-<p id="gdcalert27" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Switzerland"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert28">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert28" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Switzerland"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert29">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 [Switzerland](#heading=h.yz7xbtd5rohx)<span style="text-decoration:underline;"> </span>**
 
@@ -2061,6 +2180,12 @@ UNHCR: [Slovakia Help Page](http://t.co/B08aWP7ILK)
     [Ukrainian Institute London | Ukrainian Refugee Support](https://refugee-support.ukrainianinstitute.org.uk/): "This page includes useful links, information and guidance for UK hosts looking to support Ukrainians and for Ukrainians arriving in the UK."
 
 
+    "[Micro Rainbow](https://microrainbow.org/) can help connect UK sponsors with LGBTQI Ukrainian Nationals. After arrival in the UK, Micro Rainbow will provide LGBTQI Ukrainians with [employability support & social inclusion activities](https://t.co/cVRKfnOt8J)."
+
+
+    **Scotland: **[Ukrainian Resources for Schools and Families](https://scilt.org.uk/UkrainianResourcesforSchoolsandFamilies/tabid/8525/Default.aspx)
+
+
 
 #### **🇺🇸 <span style="text-decoration:underline;">United States</span>**
 
@@ -2120,6 +2245,7 @@ UNHCR: [Slovakia Help Page](http://t.co/B08aWP7ILK)
 
 
 
+* Ukraine MES offers [a list of mobile applications](https://mon.gov.ua/ua/news/mobilni-zastosunki-dlya-vivchennya-inozemnih-mov) for learning foreign languages, which are free for Ukrainians impacted by the war.
 * "Please reach out to [Respond Crisis Translation](https://respondcrisistranslation.org/) for translations. There is a large Russian & Ukrainian language team who will help." ([Facebook](https://www.facebook.com/about/crisisresponse/))([Twitter](https://twitter.com/respondcrisis))
 * [Translators Without Borders ](https://translatorswithoutborders.org/) 'Ukraine Conflict Appeal' button at the top of their home page: "Translators without Borders is a global community of over 80,000 members helping people get vital information and be heard, whatever language they speak." ([Facebook](https://www.facebook.com/translatorswithoutborders/)) ([Twitter](https://twitter.com/translatorswb?lang=en))
 * [Tarjimly](https://www.tarjim.ly/): "Tarjimly means “translate for me.” Our mission is to improve the lives of refugees and the efficiency of humanitarian services by eliminating language barriers." [Refugee Translation - Google App](https://play.google.com/store/apps/details?id=com.tarjimlymobile&hl=en_US&gl=US) &  [Refugee Translation App - Apple](https://apps.apple.com/us/app/tarjimly/id1438066201) ([Facebook](https://www.facebook.com/tarjimlyTranslate/))([Twitter](https://twitter.com/tarjimly?lang=en)) 
@@ -2131,18 +2257,18 @@ UNHCR: [Slovakia Help Page](http://t.co/B08aWP7ILK)
    <td>
 
 
-<p id="gdcalert28" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image24.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert29">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert29" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image22.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert30">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image24.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/image22.jpg" width="" alt="alt_text" title="image_tooltip">
 
    </td>
    <td>
 
-<p id="gdcalert29" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image25.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert30">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert30" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image23.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert31">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-<img src="images/image25.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="images/image23.jpg" width="" alt="alt_text" title="image_tooltip">
 
    </td>
   </tr>
@@ -2205,8 +2331,12 @@ UNHCR: [Slovakia Help Page](http://t.co/B08aWP7ILK)
     * Don't feel bad about saying no.
 * [Monito](https://www.monito.com/send-money/united-states/ukraine/usd/uah) is a comparison search engine that shows the best ways to send money to Ukraine from the USA. The site only recommends regulated & secure companies. You can choose transfers to a bank, cash pickup or to a card. 
 
-    Additionally, many US financial institutions are waiving or refunding wire fees for money sent to Ukraine. Inquire at your bank. 
+    Additionally, many US financial institutions are waiving or refunding wire fees for money sent to Ukraine. Inquire at your bank.
 
+* "Take political action to condemn the ongoing Russian war of annihilation in Ukraine. Call on your political representative in your own home districts and states to put an end to the war as soon as possible to prevent further destruction of Ukrainian infrastructure and the violent injury of soldiers and civilians.
+    * In the US: [Support Ukraine: Write to your Reps in Congress](https://docs.google.com/document/d/1s2RFC2nHgTGbI5-Aq8mhesEi__h3xsMWpyeSwXjbJVU/edit)
+    *  In UK, France, Spain, Italy: [Template letter to MPs](https://docs.google.com/document/d/10TbVCVm5eWghVRWnDKJzBCXdNovePPXk8p8B6I4B2Dc/edit?fbclid=IwAR3lUR0b6nZP9ptrLLDCVq4HrA5U9fmSnDePR3PVKyMsIM7E8ZOcqRUdyn8)
+    * In Canada: ​​[Write to your MP! Ukraine needs Canada’s help NOW!](https://www.ucc.ca/2022/02/25/write-to-your-mp-ukraine-needs-canadas-help-now/)" [Source](https://docs.google.com/document/d/16nOJoUOcSRc8tg1Bm4aXlFJVru4mZLAf5N_sjim5g1g/edit?usp=drivesdk)
 * [Google Business Profiles new emergency help attributes for Ukraine support](https://searchengineland.com/google-business-profiles-new-emergency-help-attributes-for-ukraine-support-382839) (Google also added hotel attributes to define if your hotel offers support to those displaced from Ukraine.)
     * "Google Business Profiles is rolling out a new business attribute under a new category called “emergency help” where you can say if your _business or organization_ accepts donations, employs refugees, needs volunteers or offers free products or services."
 * "Volunteers are always welcome at [World Central Kitchen](https://wck.org/) in _Przemysl, Poland_ — 8 miles from the major border crossing from Ukraine.  
@@ -2516,11 +2646,23 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
 
     Donate [here](https://www.planusa.org/humanitarian-response-ukraine-plan-usa/?gclid=CjwKCAjw9LSSBhBsEiwAKtf0n5-1y3WUQdlPss0lryStBTY8UxXWu-jCnL_Q8ye8EUc_yoDLX_MxlhoCM4sQAvD_BwE&gclsrc=aw.ds). ([Facebook](https://www.facebook.com/planinternational/))([Twitter](https://twitter.com/planglobal))
 
+* [Mriya Aid](https://www.mriyaaid.org/) organizes and delivers aid to the frontlines of the war in Ukraine. They have boots on the ground in Poland & Romania. Their goals are: 
+    * "Delivery of non-lethal Military Aid to frontline defenders;
+    * delivery of medical supplies to support frontline defenders and those impacted by war;
+    * collaboration with partner organizations to assist with evacuation and immigration efforts."
+    * Individuals & organizations may [request aid](https://www.mriyaaid.org/request-aid).
+
+    Donate [here](https://www.mriyaaid.org/donate/). ([Twitter](https://twitter.com/Mriya_Aid?t=f8sE6fYJFFbp7wr9Ll6caw&s=09))
+
+* [Everybody Can Ua](https://en.everybodycan.com.ua/) provides funding to help children with disabilities to receive necessary medical care; to provide targeted and socio-psychological assistance to elderly women with disabilities; and to purchase medical equipment, supplies & pay for repair of equipment for Ukrainian hospitals.
+
+    Donate [here](https://everybodycan.com.ua/campaigns). ([Facebook](https://m.facebook.com/everybody.can.ua))([Instagram](https://www.instagram.com/everybodycan.ua/))
+
 
 
 ### **
 
-<p id="gdcalert30" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "—Animal Organizations"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert31">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert31" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "—Animal Organizations"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert32">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 [—Animal Organizations](#heading=h.rkgni6nh9ehq)**
 
@@ -2566,6 +2708,10 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
     * providing the population with basic necessities,providing one-time financial assistance, meeting other priority needs of human life."
 
     For donation information, go [here](https://www.msp.gov.ua/content/nacionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoi-dopomogi-ukraincyam-postrazhdalim-vid-rosiyskoi-agresii.html).
+
+* 🇺🇸 "[Human Rights Watch](https://www.hrw.org/europe/central-asia/ukraine) has verified and assessed hundreds of videos and photographs so far and is ensuring that all of it is being carefully logged and archived." HRW will assist in ensuring the adequate preservation of evidence documenting war crimes perpetrated against Ukraine and her citizens by the Russian aggressors.
+
+    Donate [here](https://donate.hrw.org/page/65440/donate/1?ea.tracking.id=EP2022EVpgdonate&promo_id=1000). ([Facebook](https://www.facebook.com/HumanRightsWatch))([Twitter](https://twitter.com/hrw))
 
 * 🇺🇸 [Nova Ukraine](https://novaukraine.org/delivering-emergency-aid-to-the-ukrainian-refugees/) is helping in a number of ways. They include:
     * "Directing evacuation requests from citizens in cities being affected most such as Kharkiv, Mykolayiv and Kyiv;
@@ -2644,7 +2790,7 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
 
 ### **
 
-<p id="gdcalert31" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "—Animal-Related Organizations"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert32">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert32" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "—Animal-Related Organizations"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert33">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 [—Animal-Related Organizations](#heading=h.n3zfpq7y1ar)**
 
@@ -2730,7 +2876,7 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
 
 ### **
 
-<p id="gdcalert32" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "~Maps & Situational Awareness"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert33">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert33" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "~Maps & Situational Awareness"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert34">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 [~Maps & Situational Awareness](#heading=h.z8fs29a2f0r2)**
 
@@ -2782,20 +2928,23 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
 
 ### **
 
-<p id="gdcalert33" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "~Mis & Dis Information"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert34">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert34" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "~Mis, Dis & Mal Information"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert35">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-[~Mis & Dis Information](#heading=h.oxzynqz13cmz)<span style="text-decoration:underline;"> </span>**
+[~Mis, Dis & Mal Information](#heading=h.oxzynqz13cmz)<span style="text-decoration:underline;"> </span>**
 
 
 
 * [EU Disinfo Lab](https://www.disinfo.eu/ukraine-hub/): Ukraine Conflict Resource Hub
-* [Newsguard | Russia-Ukraine Disinformation Tracking Center](https://www.newsguardtech.com/special-reports/russian-disinformation-tracking-center/)
+* [Newsguard | Russia-Ukraine Disinformation Tracking Center](https://www.newsguardtech.com/special-reports/russian-disinformation-tracking-center/) —
+
+    170+ Websites Spreading War Disinformation And The Top Myths They Publish
+
 * [Fight Russian Disinformation](https://demcast.com/disinfo/) — You can get involved! "This project will spread the truth and fight Putin’s active measures on social media."
 
 
 ### **
 
-<p id="gdcalert34" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "~Avoiding Scams"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert35">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert35" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "~Avoiding Scams"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert36">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 [~Avoiding Scams](#heading=h.1xve908zmzrc)**
 
@@ -2854,6 +3003,7 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
 
 
 
+* "The [Center for European Policy Analysis (CEPA)](https://cepa.org/) [is offering a] new fellowship fund to support Ukrainian journalists and researchers. The [Democracy Fellowship](https://cepa.org/programs/democracy-fellowship-fund/help-support-ukraines-civil-society/) provides a critical lifeline for Ukraine’s civil society with year-long fellowships for highly qualified independent journalists and researchers who are no longer able to continue their work due to Putin’s brutal war."
 * [JobAid Ukraine](https://www.jobaidukraine.com/): If you have left, or are planning to leave Ukraine and need help finding a job, you can view listings on their job board. (*The jobs are only available for people fleeing the war.)
 * "[UA Talents](https://www.uatalents.com/) is an employment platform for Ukrainians who have been forced to leave their homes and move to other cities in Ukraine or abroad."
 * "The European Commission has launched a Ukrainian version of the [EU Skills Profile Tool for Third Country Nationals](https://ec.europa.eu/migrantskills/). The tool will make it easier for people fleeing Russia’s invasion of Ukraine to map their skills and find jobs and other opportunities. It will also make it easier for Ukrainians to access information on where to get support for recognition or restoration of diplomas." [Source](https://euneighbourseast.eu/news-and-stories/latest-news/eu-skills-profile-tool-in-ukrainian-to-help-ukrainian-refugees-integrate-eu-labour-market/)
@@ -2910,11 +3060,17 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
 ---
 
 
-# **28. Crisis Responders & Helpers**
+# **28. Humanitarian  Responders, Volunteers & Journalists**
 
 
 
 * [Ukraine Refugees in the US: How Mental Health Professionals Can Prepare](https://pro.psycom.net/special_reports/trauma-survivors-ptsd-treatment-approaches/ukraine-refugees-in-the-us-how-mental-health-professionals-can-prepare) — "It is likely that refugees will have had experienced direct exposure to warfare, loss or separation from family, life-threatening journeys to safety, guilt about those left behind, food and shelter scarcity for prolonged periods, and complexities with acculturation by the time they reach our offices."
+* _Journalists_: "Here's a [list of resources](https://docs.google.com/document/d/14qxHZOCSrnQQ2OEbx7wpydyKVxRSIt4PgvgsTKvB3Vg/mobilebasic) and contacts for trauma relief & support. Created and updated by [Dart Centre Europe](https://dartcenter.org/), [@selbstlaut_k](https://twitter.com/selbstlaut_k) and [@nrecherche](https://twitter.com/nrecherche)."  [Source](https://t.co/gRmIj5Ehza)
+* [Refugee Trauma Initiative | Humanitarian Wellbeing Spaces](https://www.refugeetrauma.org/humanitarian-wellbeing-spaces)
+
+    "At RTI we know that self and team care are essential when providing emergency services and healing support with/for refugee communities. To support your wellbeing, _RTI is providing drop-in humanitarian wellbeing support spaces._
+
+    * The purpose of the groups is to provide a safe, confidential, grounding reflective practice space for humanitarian workers where group members can express any difficult emotions and are introduced to practices to support their wellbeing and emotional regulation."
 * [CDC | Emergency Responders - Tips For Taking Care Of Yourself](https://emergency.cdc.gov/coping/responders.asp#:~:text=Coping%20techniques%20like%20taking%20breaks,help%20can%20address%20these%20needs.): "Coping techniques like taking breaks, eating healthy foods, exercising, and using the buddy system can help prevent and reduce burnout and _secondary traumatic stress_. Recognize the signs of both of these conditions in yourself and other responders to be sure those who need a break or need help can address these needs."
     * [Secondary traumatic stress](https://www.acf.hhs.gov/trauma-toolkit/secondary-traumatic-stress) – stress reactions and symptoms resulting from exposure to another individual’s traumatic experiences, rather than from exposure directly to a traumatic event."
 * [Huff Post | How To Ease Some Of The Vicarious Trauma You May Be Feeling Right Now](https://www.huffpost.com/entry/vicarious-trauma-tips_l_6217a88de4b03d0c80350fc1): "Thanks to social media, news reports & violent images that bombard us at all hours, we can experience what experts call _[vicarious trauma](https://www.counseling.org/docs/trauma-disaster/fact-sheet-9---vicarious-trauma.pdf)_ when a horrific event occurs ― like the Russian invasion of Ukraine."
@@ -2962,7 +3118,7 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
 
 # **30. Contact Information**
 
-If you spot a mistake/information that should be updated or have additional information, please send us an **_[Email](http://disasterassistteam@gmail.com)_**, **_[Facebook Message](https://www.facebook.com/disasterassistteam/)_** or **_[Twitter DM](https://twitter.com/jr3597)_**. You may also send a text (only) to 502-509-1743. 
+If you spot a mistake/information that should be updated or have additional information, you can use the 'Suggest Changes' tool directly on the doc, or send us an **_[Email](http://disasterassistteam@gmail.com)_**, **_[Facebook Message](https://www.facebook.com/disasterassistteam/)_** or **_[Twitter DM](https://twitter.com/jr3597)_**. You may also send a text to 502-509-1743. 
 
 If you know of a resource that you believe should be added, please enter it here:** [Submission for Ukraine Resources & Information](https://docs.google.com/forms/d/e/1FAIpQLSd6XYEj_VFxF3WZCd_W4j6Es97CVDT3UxfyUcQFSed3pBFaLA/viewform).**
 
@@ -2987,23 +3143,29 @@ _broken places. _
 
 
 
-<p id="gdcalert35" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image26.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert36">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert36" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image24.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert37">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image26.jpg "image_tooltip")
+![alt_text](images/image24.jpg "image_tooltip")
 
 
 **_[Anhelina, age 7, Khmelnytsky ](https://www.instagram.com/p/CbP6ZZsNcSO/?utm_source=ig_web_copy_link)<span style="text-decoration:underline;">Region</span>_**
 
 Children’s artwork from Ukraine, showing the war through their eyes, is being displayed on an Instagram account entitled, ‘[Mom, I see war](http://t.co/DDpvpeoQSM)’.** **There are plans to create photo collages and sell them as [NFT](https://www.creativebloq.com/features/what-are-nfts).
 
+
+## **
+
+<p id="gdcalert37" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "Disclaimer"). Did you generate a TOC? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert38">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+[Disclaimer](#heading=h.2t2zq9igt97o)_ _**
+
 This resource document is updated, verified to the extent possible, and was developed by Disaster Assist Team (DAT), for humanitarian efforts.
 
 Many thanks to the individuals who have assisted in editing and the vetting of resources.
 
-Use is with attribution to the author and by written permission only. ⓒ2022
+Use, other than sharing via the link, is with attribution to the author and by written permission only. ⓒ2022
 
-[Jenn Ratcliff](https://twitter.com/jr3597) 502-509-1743
+DAT Team Lead, [Jenn Ratcliff](https://twitter.com/jr3597) 
 
-Louisville, KY
-
+502-509-1743 Louisville, KY
