@@ -140,29 +140,23 @@ The Office of the Prosecutor General, together with Ukrainian & international pa
     * 0 800 501 482 – Security Service of Ukraine Hotline
     * 1545 — [Government hotline](https://www.kmu.gov.ua/en/uryadova-garyacha-liniya-1545)
 
-* [Ukraine Ministry of Digital Transformation](https://www.kmu.gov.ua/en/yevropejska-integraciya/coordination/cifrova-transformaciya) has launched an 
-
-    _air raid alert_ [notification](https://t.co/D3ykpynCe1) app.
+* [Ukraine Ministry of Digital Transformation](https://www.kmu.gov.ua/en/yevropejska-integraciya/coordination/cifrova-transformaciya) has launched an _air raid alert_ [notification](https://t.co/D3ykpynCe1) app.
 
     * [Google Play](https://play.google.com/store/apps/details?id=com.ukrainealarm)
     * [AppStore](https://apps.apple.com/ua/app/%D0%BF%D0%BE%D0%B2%D1%96%D1%82%D1%80%D1%8F%D0%BD%D0%B0-%D1%82%D1%80%D0%B8%D0%B2%D0%BE%D0%B3%D0%B0/id1611955391)
-* [Practical Guide | In Case of Emergency or War](https://dovidka.info/en/): "It is important to know what each of us can do in an emergency, [which is] especially true when the police, ambulance, rescue and other services are [unable to respond].
-
+* [Practical Guide | In Case of Emergency or War](https://dovidka.info/en/): "It is important to know what each of us can do in an emergency, [which is] especially true when the police, ambulance, rescue and other services are [unable to respond].<br />
     In this handbook, you will find practical advice on preparing for an emergency and how to act in such a case." _(*This guide is really well done!)_
+    * In [Ukrainian](https://livewell.optum.com/pdfs/df57eb6c25018a77.pdf)
 
-* In [Ukrainian](https://livewell.optum.com/pdfs/df57eb6c25018a77.pdf)
-
-* "**What can I do if there is fighting?**
-
-    (*This advice is in regard to shelling/ missile strikes, etc. There is separate advice in relation to chemical & nuclear weapons attacks. See the '[Useful Information](#useful-information)' section. )
-
-1. If there's a basement, immediately, go there. Stay in a safe zone on lower ground with protective walls.
-2. Stay as far as possible from windows.
-3. Wait until the shooting is over before you move to a safer shelter.
-4. Don't pick up anything you haven't dropped yourself. During conflict, things that may look harmless could potentially be explosive objects. Stay away from unattended objects that do not belong to you." [Source](https://www.icrc.org/en/where-we-work/europe-central-asia/ukraine/help-useful-information-affected-people)
-5. "If you are trapped in debris, use a flashlight, whistle or tap on pipes to signal your location to rescuers.
-6. Shout only as a last resort to avoid inhaling dangerous dust.
-7. Cover your nose and mouth with anything you have on hand." [Source](https://www.ready.gov/explosions)
+* "**What can I do if there is fighting?**<br />
+(*This advice is in regard to shelling/ missile strikes, etc. There is separate advice in relation to chemical & nuclear weapons attacks. See the '[Useful Information](#useful-information)' section. )
+     1. If there's a basement, immediately, go there. Stay in a safe zone on lower ground with protective walls.
+     2. Stay as far as possible from windows.
+     3. Wait until the shooting is over before you move to a safer shelter.
+     4. Don't pick up anything you haven't dropped yourself. During conflict, things that may look harmless could potentially be explosive objects. Stay away from unattended objects that do not belong to you." [Source](https://www.icrc.org/en/where-we-work/europe-central-asia/ukraine/help-useful-information-affected-people)
+     5. "If you are trapped in debris, use a flashlight, whistle or tap on pipes to signal your location to rescuers.
+     6. Shout only as a last resort to avoid inhaling dangerous dust.
+     7. Cover your nose and mouth with anything you have on hand." [Source](https://www.ready.gov/explosions)
 * [WhatsApp | GPS Tracking/Live Location](https://faq.whatsapp.com/android/chats/how-to-use-live-location/?lang=en) allows you to share your movements with contacts you choose. You can use this when you travel or accept a ride from someone you don't know well. _Always let someone know where you are going and who you are with._
 
 [527 Org Ukraine](https://www.527.org.ua/) | [Safety Brochure](https://drive.google.com/file/d/1chQLWFx7s-KfwCJHfhMEnbUS1WO3ApL2/view?usp=drivesdk)

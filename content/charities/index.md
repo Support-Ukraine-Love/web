@@ -80,6 +80,10 @@ in offices there as of 23 Mar 2022. [Source - Reuters](https://www.reuters.com/w
 
     Additionally, many US financial institutions are waiving or refunding wire fees for money sent to Ukraine. Inquire at your bank. 
 
+* "Take political action to condemn the ongoing Russian war of annihilation in Ukraine. Call on your political representative in your own home districts and states to put an end to the war as soon as possible to prevent further destruction of Ukrainian infrastructure and the violent injury of soldiers and civilians.
+    * In the US: [Support Ukraine: Write to your Reps in Congress](https://docs.google.com/document/d/1s2RFC2nHgTGbI5-Aq8mhesEi__h3xsMWpyeSwXjbJVU/edit)
+    *  In UK, France, Spain, Italy: [Template letter to MPs](https://docs.google.com/document/d/10TbVCVm5eWghVRWnDKJzBCXdNovePPXk8p8B6I4B2Dc/edit?fbclid=IwAR3lUR0b6nZP9ptrLLDCVq4HrA5U9fmSnDePR3PVKyMsIM7E8ZOcqRUdyn8)
+    * In Canada: ​​[Write to your MP! Ukraine needs Canada’s help NOW!](https://www.ucc.ca/2022/02/25/write-to-your-mp-ukraine-needs-canadas-help-now/)" [Source](https://docs.google.com/document/d/16nOJoUOcSRc8tg1Bm4aXlFJVru4mZLAf5N_sjim5g1g/edit?usp=drivesdk)
 * [Google Business Profiles new emergency help attributes for Ukraine support](https://searchengineland.com/google-business-profiles-new-emergency-help-attributes-for-ukraine-support-382839) (Google also added hotel attributes to define if your hotel offers support to those displaced from Ukraine.)
     * "Google Business Profiles is rolling out a new business attribute under a new category called “emergency help” where you can say if your _business or organization_ accepts donations, employs refugees, needs volunteers or offers free products or services."
 * "Volunteers are always welcome at [World Central Kitchen](https://wck.org/) in _Przemysl, Poland_ — 8 miles from the major border crossing from Ukraine.<br />
@@ -365,6 +369,19 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
 
     Donate [here](https://www.planusa.org/humanitarian-response-ukraine-plan-usa/?gclid=CjwKCAjw9LSSBhBsEiwAKtf0n5-1y3WUQdlPss0lryStBTY8UxXWu-jCnL_Q8ye8EUc_yoDLX_MxlhoCM4sQAvD_BwE&gclsrc=aw.ds). ([Facebook](https://www.facebook.com/planinternational/))([Twitter](https://twitter.com/planglobal))
 
+
+* [Mriya Aid](https://www.mriyaaid.org/) organizes and delivers aid to the frontlines of the war in Ukraine. They have boots on the ground in Poland & Romania. Their goals are: 
+    * "Delivery of non-lethal Military Aid to frontline defenders;
+    * delivery of medical supplies to support frontline defenders and those impacted by war;
+    * collaboration with partner organizations to assist with evacuation and immigration efforts."
+    * Individuals & organizations may [request aid](https://www.mriyaaid.org/request-aid).
+
+    Donate [here](https://www.mriyaaid.org/donate/). ([Twitter](https://twitter.com/Mriya_Aid?t=f8sE6fYJFFbp7wr9Ll6caw&s=09))
+
+* [Everybody Can Ua](https://en.everybodycan.com.ua/) provides funding to help children with disabilities to receive necessary medical care; to provide targeted and socio-psychological assistance to elderly women with disabilities; and to purchase medical equipment, supplies & pay for repair of equipment for Ukrainian hospitals.
+
+    Donate [here](https://everybodycan.com.ua/campaigns). ([Facebook](https://m.facebook.com/everybody.can.ua))([Instagram](https://www.instagram.com/everybodycan.ua/))
+
 ---
 
 ### Animal Organizations
@@ -408,6 +425,10 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
     * providing the population with basic necessities,providing one-time financial assistance, meeting other priority needs of human life."
 
     For donation information, go [here](https://www.msp.gov.ua/content/nacionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoi-dopomogi-ukraincyam-postrazhdalim-vid-rosiyskoi-agresii.html).
+
+* 🇺🇸 "[Human Rights Watch](https://www.hrw.org/europe/central-asia/ukraine) has verified and assessed hundreds of videos and photographs so far and is ensuring that all of it is being carefully logged and archived." HRW will assist in ensuring the adequate preservation of evidence documenting war crimes perpetrated against Ukraine and her citizens by the Russian aggressors.
+
+    Donate [here](https://donate.hrw.org/page/65440/donate/1?ea.tracking.id=EP2022EVpgdonate&promo_id=1000). ([Facebook](https://www.facebook.com/HumanRightsWatch))([Twitter](https://twitter.com/hrw))
 
 * 🇺🇸 [Nova Ukraine](https://novaukraine.org/delivering-emergency-aid-to-the-ukrainian-refugees/) is helping in a number of ways. They include:
     * "Directing evacuation requests from citizens in cities being affected most such as Kharkiv, Mykolayiv and Kyiv;
@@ -506,6 +527,12 @@ Donate [here](https://secure.americares.org/site/Donation2?df_id=27490&mfc_pref=
 ### Crisis Responders & Helpers
 
 * [Ukraine Refugees in the US: How Mental Health Professionals Can Prepare](https://pro.psycom.net/special_reports/trauma-survivors-ptsd-treatment-approaches/ukraine-refugees-in-the-us-how-mental-health-professionals-can-prepare) — "It is likely that refugees will have had experienced direct exposure to warfare, loss or separation from family, life-threatening journeys to safety, guilt about those left behind, food and shelter scarcity for prolonged periods, and complexities with acculturation by the time they reach our offices."
+* _Journalists_: "Here's a [list of resources](https://docs.google.com/document/d/14qxHZOCSrnQQ2OEbx7wpydyKVxRSIt4PgvgsTKvB3Vg/mobilebasic) and contacts for trauma relief & support. Created and updated by [Dart Centre Europe](https://dartcenter.org/), [@selbstlaut_k](https://twitter.com/selbstlaut_k) and [@nrecherche](https://twitter.com/nrecherche)."  [Source](https://t.co/gRmIj5Ehza)
+* [Refugee Trauma Initiative | Humanitarian Wellbeing Spaces](https://www.refugeetrauma.org/humanitarian-wellbeing-spaces)
+
+    "At RTI we know that self and team care are essential when providing emergency services and healing support with/for refugee communities. To support your wellbeing, _RTI is providing drop-in humanitarian wellbeing support spaces._
+
+    * The purpose of the groups is to provide a safe, confidential, grounding reflective practice space for humanitarian workers where group members can express any difficult emotions and are introduced to practices to support their wellbeing and emotional regulation."
 * [CDC | Emergency Responders - Tips For Taking Care Of Yourself](https://emergency.cdc.gov/coping/responders.asp#:~:text=Coping%20techniques%20like%20taking%20breaks,help%20can%20address%20these%20needs.): "Coping techniques like taking breaks, eating healthy foods, exercising, and using the buddy system can help prevent and reduce burnout and _secondary traumatic stress_. Recognize the signs of both of these conditions in yourself and other responders to be sure those who need a break or need help can address these needs."
     * [Secondary traumatic stress](https://www.acf.hhs.gov/trauma-toolkit/secondary-traumatic-stress) – stress reactions and symptoms resulting from exposure to another individual’s traumatic experiences, rather than from exposure directly to a traumatic event."
 * [Huff Post | How To Ease Some Of The Vicarious Trauma You May Be Feeling Right Now](https://www.huffpost.com/entry/vicarious-trauma-tips_l_6217a88de4b03d0c80350fc1): "Thanks to social media, news reports & violent images that bombard us at all hours, we can experience what experts call _[vicarious trauma](https://www.counseling.org/docs/trauma-disaster/fact-sheet-9---vicarious-trauma.pdf)_ when a horrific event occurs ― like the Russian invasion of Ukraine."
