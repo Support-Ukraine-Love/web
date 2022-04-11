@@ -243,7 +243,8 @@ misuse and reported as a risk of trafficking as a result.
 ### Identifying Mis & Dis Information
 
 * [EU Disinfo Lab](https://www.disinfo.eu/ukraine-hub/): Ukraine Conflict Resource Hub
-* [Newsguard | Russia-Ukraine Disinformation Tracking Center](https://www.newsguardtech.com/special-reports/russian-disinformation-tracking-center/)
+* [Newsguard | Russia-Ukraine Disinformation Tracking Center](https://www.newsguardtech.com/special-reports/russian-disinformation-tracking-center/) <br />
+  (170+ Websites Spreading War Disinformation And The Top Myths They Publish)
 * [Fight Russian Disinformation](https://demcast.com/disinfo/) — You can get involved! "This project will spread the truth and fight Putin’s active measures on social media."
 
 
