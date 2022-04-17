@@ -14,26 +14,43 @@ Note: where relevant there are language indicators between English
 (abbrev: EN), Ukrainian (abbrev: 🇺🇦), and/or Russian (abbrev:
 🇷🇺).
 
-**Page last updated: 10 Apr 2022**
+**Page last updated: 16 Apr 2022**
 
 ## Announcements / New
 
-**Thursday, 7 April -  Sunday, 10 April:**
+**For Week of 17 April:**
 
-* "The movie ["Fairytale"](https://t.co/oDuiok8utT) about the WAR has appeared online. The film tells about the first weeks of the full-scale Russian invasion of Ukraine. It contains a huge amount of facts and evidence of Russian Aggression in Ukraine." [Source](https://twitter.com/armyinformcomua/status/1513102375233462279?t=6m-pQlhFVMXdMufddHg2Sw&s=19)
-* [Survivor's guilt syndrome: what to do if you are ashamed to be safe](https://tsn.ua/ukrayina/yak-otrimati-pensiyu-ta-groshovi-viplati-v-ukrposhti-yakscho-vi-evakuyuvalisya-1998718.html) — this is a _very_ common feeling experienced by Survivors. This article has some really good information & advice on dealing with those feelings. In Ukr.
-* "The government has extended the period for [receiving assistance](https://t.co/cGXUfHESZu) to IDPs. The application deadline for assistance to IDPs has been extended to April 30."
-    * "Adults are able to receive UAH 2,000 and UAH 3,000 per child.
-    * Now it is possible to obtain immigrant status after employment." [Source](https://twitter.com/Now_in_Ukraine/status/1513086527009611776?t=j4FB-um5yqMKq8pp-tYl7Q&s=19)
+* [UNMAS | Landmines, Explosive Remnants of War & IED Safety Handbook](https://www.unmas.org/sites/default/files/handbook_english.pdf) — "Landmines are almost always hidden and camouflaged to match their surroundings, making them seldom seen and difficult to locate. They are usually buried or hidden in grass or buildings, fixed on stakes or to trees."
+* [What to do when a loved one is taken by the Russians](https://www.ukrinform.ua/rubric-society/3458231-ak-diati-koli-rodici-ci-znajomi-potrapili-v-polon-do-rosian.html) — "If your relatives or acquaintances are captured, report it to the nearest police station or other authorities. You should also contact the [Joint Center for Search and Release of Prisoners](https://ssu.gov.ua/en/zakhyshchaiemo-ukrainu-razom) by phone +38 067 650 83 32; +38 098 087 36 01 or to [united.centre.ssu@gmail.com](mailto:united.centre.ssu@gmail.com), the Central Office advises."
+    * "It is also advisable to collect facts and evidence needed to search for a person - screenshots of messages, audio recordings of conversations, video from surveillance cameras and more." [Source](https://www.facebook.com/JusticeKyiv/posts/353270316844203)
+* "Bus operator [FlixBus](https://global.flixbus.com/) resumes routes to _Kyiv_ and a number of other Ukrainian cities: _Zhytomyr, Rivne, Vinnytsia, Uman, Khmelnytsky, Ternopil._" [Source](https://www-kmu-gov-ua.translate.goog/news/14-kvitnya-situaciya-v-transportnij-infrastrukturi-na-2000?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en)
+* 14/4 _Poltava_, _Ternopil_ & _Rivne_ _oblasts_: "...doctors' visits to the places of residence of displaced persons have begun." _Chernivtsi_ & _Kirovohrad_ _regions_ will be next. 
+    * Vaccinations are provided for: Covid19, tetanus, diphtheria, polio, etc. and vaccine info is given to parents for children. 
+    * Information about actions to take in case of threats of biological, chemical & radiological weapons use is offered.
+    * COVID19 rapid tests are done.
+
+        [Source](https://www-ukrinform-ua.translate.goog/rubric-ato/3458007-u-troh-oblastah-pocalisa-viziti-likariv-do-pereselenciv-moz.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en)
+
+* [Office Of The Prosecutor General](https://gp.gov.ua/ua/posts/podati-zvernennya)
+    * "Please note that appeals about the activities of sabotage and reconnaissance groups (DRG), manifestations of terrorist & subversive activities, other crimes against humanity [RAPE BY RUS TROOPS, ETC] related to the armed conflict and aggression of the Russian Federation against Ukraine, can be submitted around the clock to:
+
+        [conflict2022.ua@gmail.com](mailto:conflict2022.ua@gmail.com)
+
+    * In addition, round-the-clock applications are accepted on the hotline at: +38 (096) 755-02-40
+    * When sending appeals, it is necessary to indicate the addressee (Office of the Prosecutor General), last name, first name, patronymic, address & contact telephone number of the applicant."
+* [Some Ukrainian families will be able to receive UAH 33,000 in assistance](https://tsn.ua/ukrayina/deyaki-vnutrishno-peremischeni-osobi-zmozhut-otrimati-33-tis-grn-dopomogi-2035897.html): "Such financial assistance is intended for IDPs, both parents and adoptive parents, who:
+    * Raise three or more minor children, provided that _at least one child must be under 2 years old._ 
+    * Families with two or more children under the age of 18, provided that _at least one child has a disability_.
+    * UAH 2,220 per month is allocated for each family member, the benefit is accrued for all for three months. That is, if the family consists of 2 adults & 3 children, the assistance will amount to UAH 33,300 in one payment.
+    * To receive a payment, you need to fill out an application on the  [UNICEF](https://register.unicef.org/) website."
+* There are a lot of updates to the [Useful Information On Warfare](#war-crimes--reporting-documentation--archives) section, concerning landmines, chemical weapons & white phosphorus bombs.
+* [Survivor's guilt syndrome: what to do if you [feel] ashamed to be safe](https://tsn.ua/ukrayina/yak-otrimati-pensiyu-ta-groshovi-viplati-v-ukrposhti-yakscho-vi-evakuyuvalisya-1998718.html) — this is a _very_ common feeling experienced by Survivors. This article has some really good information & advice on dealing with those feelings. In Ukr.
 * [Self-blame | Rape Crisis](https://rapecrisis.org.uk/get-help/tools-for-victims-and-survivors/self-blame-and-guilt/) — "Many victims and survivors feel like they _blame themselves for what happened_, _feel guilty, or feel ashamed_.
 
     These feelings of shame, guilt and self-blame can be very hard to deal with. But, if you are feeling like this, you are not alone - it's a really common response."
 
     * You can chat with a rape crisis counselor if you'd like to — services are _anonymous_ and text-based. Go here: [Live Chat Helpline](https://rapecrisis.org.uk/get-help/live-chat-helpline/).
     * Go at your own pace — when _you_ are ready to reach out. There is no timeline & no rules for sharing your story. Support will be there, when _you_ are ready.
-* [Ukrposhta](https://www.ukrposhta.ua/en) Free Delivery Information: "14 postal operators have announced that they are ready to send parcels to Ukraine free of charge. This information [was reported](https://www.ukrposhta.ua/ua/news/57615-ukrposhta-spilno-z-partnerami-proponu-bezkoshtovnu-dostavku-dodomu) in the press service of Ukrposhta."
-* "[Women’s Information Consultative Center (WICC)](https://civilmplus.org/en/actors/women-s-information-and-consultative-centre/) is supporting women and women with children who find themselves in a difficult or hopeless situation. In addition, they constantly publish current, useful information on their [website](http://wicc.net.ua/en/category/viyna), such as: daily schedules of evacuation trains; instructions on how to act in a crisis situation (explosion, occupation, mental health, and much more); lists of official information channels and other useful information during the war." [Source](https://wave-network.org/42-days-of-war/) ([Facebook](https://www.facebook.com/WICC.NET.UA/))
-* ["Europe without Barriers"](https://english.europewb.org.ua/) provides information concerning documentation, fleeing with children, and legal routes/choices you have for remaining in the EU legally: ['The way home: how to return to Ukraine for those who fled the war'](https://www.eurointegration.com.ua/articles/2022/04/7/7137414/)
 
 ---
 
@@ -62,6 +79,18 @@ Note: where relevant there are language indicators between English
 * [Twitter](https://twitter.com/klitschko)
 * [Telegram](https://t.me/vitaliy_klitschko)
 
+[Office Of The Prosecutor General](https://www.gp.gov.ua/)
+
+* [Facebook](https://www.facebook.com/pgo.gov.ua/)
+* [Twitter](https://mobile.twitter.com/gp_ukraine)
+* [Telegram](https://t.me/pgo_gov_ua)
+
+[Cabinet of Ministers of Ukraine](https://www.kmu.gov.ua/en)
+
+* [Facebook](https://www.facebook.com/KabminUA)
+* [Twitter](https://twitter.com/Kabmin_UA)
+
+
 [Ministry of Health Ukraine ](https://en.moz.gov.ua/)
 
 * [Facebook](https://m.facebook.com/profile.php?id=247810101979500)
@@ -77,12 +106,23 @@ Note: where relevant there are language indicators between English
 
 [Defence Intelligence of Ukraine ](https://gur.gov.ua/en.html)
 
-* [Telegram](https://t.me/DIUkraine)
 * [Twitter](https://twitter.com/DefenceU?t=7MxacXM6G67MDeF9FcSNzQ&s=09)
+* [Telegram](https://t.me/DIUkraine)
+
+[Ministry of Culture & Information Policy](https://mkip.gov.ua/en/)
+
+* [Facebook](https://m.facebook.com/profile.php?id=104868651165124)
+* [Twitter](https://twitter.com/mkipukraine?lang=en)
+* [Telegram](https://t.me/mkipu)
 
 [Verkhovna Rada of Ukraine | Twitter](https://twitter.com/ua_parliament?t=pMeQ-hBnZ90vjxSN4V_cGg&s=09)
 
 * [Telegram](https://t.me/verkhovnaradaofukraine)
+
+[Commissioner for Human Rights, Lyudmyla Denisova](http://www.ombudsman.gov.ua/)
+
+* [Facebook](https://www.facebook.com/denisovaombudsman/)
+* [Telegram](https://t.me/denisovaombudsman)
 
 [Ukraine United Nations](http://ukraineun.org/)
 
@@ -97,14 +137,23 @@ Note: where relevant there are language indicators between English
 
 [Ukraine Embassies & Consulates](https://www.embassy-worldwide.com/country/ukraine/) (Search tool)
 
-1545 — [Government hotline](https://www.kmu.gov.ua/en/uryadova-garyacha-liniya-1545) (Access to medical support, humanitarian aid, care for individuals with disabilities, access to charities, care for children & parenting support, eldercare and financial & legal aid.)
+[Government Hotline](https://www.kmu.gov.ua/en/uryadova-garyacha-liniya-1545) — Call 1545. (Access to medical support, humanitarian aid, care for individuals with disabilities, access to charities, care for children & parenting support, eldercare and financial & legal aid.)
 
 * For Ukraine’s citizens abroad: +38 044 284 19 15
 
+[State Migration Service](https://visitukraine.today/blog/193/state-migration-service-resumes-administrative-services): "For checking the status of documents: +38-096-033-24-42 (Kyivstar) - voice calls: This number also allows you to communicate with the operator in Viber & Whatsapp messengers via text messages (without voice calls).
+
+* Hours of the hotline: 9.00 to 18.00."
+
+<img src="assets/images/image32.jpg" width="50%" />
+
+[Ukrposhta](https://www.ukrposhta.ua/en) Free Delivery Information: "14 postal operators have announced that they are ready to send parcels to Ukraine free of charge. This information [was reported](https://www.ukrposhta.ua/ua/news/57615-ukrposhta-spilno-z-partnerami-proponu-bezkoshtovnu-dostavku-dodomu) in the press service of Ukrposhta."
 
 ### War Crimes — Reporting, Documentation & Archives
 
-The Office of the Prosecutor General, together with Ukrainian & international partners, created **[this resource](https://warcrimes.gov.ua/)** where you can report war crimes & crimes against humanity committed by the Russian army.
+[The Office of the Prosecutor General](https://gp.gov.ua), together with Ukrainian & international partners, created **[this resource](https://warcrimes.gov.ua/)** where you can report war crimes & crimes against humanity committed by the Russian army.
+
+In addition, round-the-clock applications are accepted on the hotline at: +38 (096) 755-02-40.
 
 **OR**
 
@@ -124,6 +173,8 @@ The Office of the Prosecutor General, together with Ukrainian & international pa
 * "The [MIA](https://mvs.gov.ua/en/) of Ukraine, together with Google, have launched a [project](https://t.co/AvkbS1BdkZ) to digitize the consequences of the Russian invasion. It should help the state to track losses, reconstruction services to plan their work, and citizens [to] know the situation with property." [Source](https://twitter.com/EuromaidanPress/status/1512284851738664962?t=xG_f5blXO8SUFVNgPsX5UA&s=19)
     * Read more [here](https://bit.ly/3LEGXXk).
     * Watch the video [here](https://youtu.be/Kt8rBE85oZY).
+* Chatbot that collects your photos & videos about the war:  [Telegram | @hromadske_report_bot](https://t.me/hromadske_report_bot)
+
 
 ---
 
@@ -139,6 +190,7 @@ The Office of the Prosecutor General, together with Ukrainian & international pa
     * 104 – Emergency Services: Gas Network
     * 0 800 501 482 – Security Service of Ukraine Hotline
     * 1545 — [Government hotline](https://www.kmu.gov.ua/en/uryadova-garyacha-liniya-1545)
+    * 7333 — [Ukraine Lifeline](https://lifelineukraine.com/en) Suicide Prevention Hotline
 
 * [Ukraine Ministry of Digital Transformation](https://www.kmu.gov.ua/en/yevropejska-integraciya/coordination/cifrova-transformaciya) has launched an _air raid alert_ [notification](https://t.co/D3ykpynCe1) app.
 
@@ -147,23 +199,18 @@ The Office of the Prosecutor General, together with Ukrainian & international pa
 * [Practical Guide | In Case of Emergency or War](https://dovidka.info/en/): "It is important to know what each of us can do in an emergency, [which is] especially true when the police, ambulance, rescue and other services are [unable to respond].<br />
     In this handbook, you will find practical advice on preparing for an emergency and how to act in such a case." _(*This guide is really well done!)_
     * In [Ukrainian](https://livewell.optum.com/pdfs/df57eb6c25018a77.pdf)
-
-* "**What can I do if there is fighting?**<br />
-(*This advice is in regard to shelling/ missile strikes, etc. There is separate advice in relation to chemical & nuclear weapons attacks. See the '[Useful Information](#useful-information)' section. )
-     1. If there's a basement, immediately, go there. Stay in a safe zone on lower ground with protective walls.
-     2. Stay as far as possible from windows.
-     3. Wait until the shooting is over before you move to a safer shelter.
-     4. Don't pick up anything you haven't dropped yourself. During conflict, things that may look harmless could potentially be explosive objects. Stay away from unattended objects that do not belong to you." [Source](https://www.icrc.org/en/where-we-work/europe-central-asia/ukraine/help-useful-information-affected-people)
-     5. "If you are trapped in debris, use a flashlight, whistle or tap on pipes to signal your location to rescuers.
-     6. Shout only as a last resort to avoid inhaling dangerous dust.
-     7. Cover your nose and mouth with anything you have on hand." [Source](https://www.ready.gov/explosions)
+* [Telegram | Chat bot: “Ready For Everything”](https://t.me/Hotovyi_do_vsioho_bot): Information on what to do in an emergency.
 * [WhatsApp | GPS Tracking/Live Location](https://faq.whatsapp.com/android/chats/how-to-use-live-location/?lang=en) allows you to share your movements with contacts you choose. You can use this when you travel or accept a ride from someone you don't know well. _Always let someone know where you are going and who you are with._
+* [Five Ways To Purify Water Without A Filter](https://www.primalsurvivor.net/ways-to-purify-water-survival/) — [Source](https://twitter.com/StephenKolanko1/status/1501771824128008193?t=epxspR8ec09ELBHfmy3J_A&s=19)
+* [How to make water drinkable](https://www.fema.gov/press-release/20210318/fact-sheet-how-make-your-water-safe-drink).
 
 [527 Org Ukraine](https://www.527.org.ua/) | [Safety Brochure](https://drive.google.com/file/d/1chQLWFx7s-KfwCJHfhMEnbUS1WO3ApL2/view?usp=drivesdk)
 
-| ![](assets/images/image8.jpg) | ![](assets/images/image18.jpg) |
+<img src="assets/images/image33.jpg" width="50%" />
+
+| ![](assets/images/image34.jpg) | ![](assets/images/image35.jpg) |
 |-------|-------|
-| ![](assets/images/image11.jpg) | ![](assets/images/image5.jpg) |
+| <br /> | <br /> |
 
 ### Persons Inside Ukraine
 
@@ -202,24 +249,48 @@ The ICRC & UNHCR Advise:
 ### Useful Information
 
 
-* [Telegram | Chat bot: “Ready For Everything”](https://t.me/Hotovyi_do_vsioho_bot): Information on what to do in an emergency.
-* Be careful of [mines](https://www.facebook.com/100505105900087/posts/121511370466127/). Warn your children that they may appear colorful and look like toys!<br />
-  Remember: "If _you_ didn't drop it; _don't_ pick it up!"
-* What to do in the case of an [ammonia leak](https://twitter.com/ukrpravda_news/status/1505735077371777028?t=GTyB95jStlHxH0UFdtF-zA&s=19). Follow all directions for evacuation from officials. (In Ukr)
-* [CDC | Radiation Emergencies](https://www.cdc.gov/nceh/radiation/emergencies/index.htm)
-    * [Questions About Radiation (FAQ)](https://www.cdc.gov/nceh/radiation/emergencies/emergencyfaq.htm)
-    * [Preventing and Treating Radiation Injuries and Illness](https://www.cdc.gov/nceh/radiation/emergencies/symptoms.htm)
-    * [Radiation | Food & Water Safety](https://www.cdc.gov/nceh/radiation/emergencies/food_water_safety.html)
-* "The [Thomson Foundation](https://www.thomsonfoundation.org/) has created a course on reacting to a _chemical weapons attack_ that is delivered via a Telegram bot, with the help of chemical and biological weapons expert Hamish de Bretton-Gordon." [Source](https://twitter.com/NovelSci/status/1509687859388715022?t=9uA1zaWFRgkdd0OMhV_1Yw&s=19)
+* "**What can I do if there is fighting?**
+
+    (*This advice is in regard to shelling/ missile strikes, etc. There is separate advice in relation to chemical & nuclear weapons attacks.)
+
+1. If there's a basement, immediately, go there. Stay in a safe zone on lower ground with protective walls.
+2. Stay as far as possible from windows.
+3. Wait until the shooting is over before you move to a safer shelter.
+4. Don't pick up anything you haven't dropped yourself. During conflict, things that may look harmless could potentially be explosive objects. Stay away from unattended objects that do not belong to you." [Source](https://www.icrc.org/en/where-we-work/europe-central-asia/ukraine/help-useful-information-affected-people)
+5. "If you are trapped in debris, use a flashlight, whistle or tap on pipes to signal your location to rescuers.
+6. Shout only as a last resort to avoid inhaling dangerous dust.
+7. Cover your nose and mouth with anything you have on hand." [Source](https://www.ready.gov/explosions)
+* Be careful of [mines](https://www.facebook.com/100505105900087/posts/121511370466127/) — warn children that they may look like colorful toys!
+
+    **Remember: "If _you_ didn't drop it; _don't_ pick it up!"** [Video](https://m.facebook.com/story.php?story_fbid=pfbid034JomvpmFqoKikUEACksUgd5Tj3zvbAYT3D1KKEhV7XDRDfDzhwqikfcXtgrVbbyMl&id=353667671424634&m_entstream_source=timeline&__tn__=%2As%2As-R).
+
+* "This page contains [educational materials](https://www.osce.org/project-coordinator-in-ukraine/514423) produced in response to significantly increased risks to civilians in Ukraine from mines, abandoned ordnance and other explosive remnants of war."
+* [UNMAS | Landmines, Explosive Remnants of War & IED Safety Handbook](https://www.unmas.org/sites/default/files/handbook_english.pdf) — "Landmines are almost always hidden and camouflaged to match their surroundings, making them seldom seen and difficult to locate. They are usually buried or hidden in grass or buildings, fixed on stakes or to trees." (*IED: Improvised Explosive Device)
+* _Interactive Map_: [Demining by SES units](https://dsns.gov.ua/map-demining#) in Ukraine — "An interactive map with places of explosive objects has been launched. It is possible to monitor the detailed dynamics of demining work on a daily basis: # of departures, demined areas and # of demined explosive devices." [Source](https://t.co/8j5RtmIJYC)
+* "[Video for children](https://t.co/KonVSltAEy) about explosives, various landmines, bombs & missiles and rules on how to deal with them.
+
+    Video is very important & only 3 minutes long." (In Ukr) [Source](https://twitter.com/ferlain/status/1514124123248726021?t=ke_FKzDFEFJ3WwzDj2Hg3Q&s=19)
+
+* What to do in the case of an **[ammonia leak](https://twitter.com/ukrpravda_news/status/1505735077371777028?t=GTyB95jStlHxH0UFdtF-zA&s=19)**. Follow all directions for evacuation from officials. (In Ukr)
+* [What to Know About White Phosphorus Bombs](https://www.webmd.com/a-to-z-guides/white-phosphorus-bombs-overview) — "It’s a chemical made from phosphate rocks. In solid form, it has a waxy texture and a garlic-like odor. It may be white or yellow in color, or clear (colorless)." _It ignites upon contact with oxygen._
+
+    "White phosphorus is highly soluble in fat and therefore deeply burns human flesh. If fragments of white phosphorus enter the bloodstream, they can lead to multiple organ failure. Already-dressed wounds can reignite when dressings are removed, and they are re-exposed to oxygen." [Source](https://www.hrw.org/news/2022/03/17/qa-incendiary-weapons-ukraine#Five)
+
+
+    [First Aid & Decontamination](https://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750025.html)**: **"Initial treatment is primarily supportive. In cases of skin or eye exposure, immediately remove burning particles of white phosphorus from the patient/victim’s eyes or skin. If skin or eyes are contaminated with white phosphorus, cover them with cool wet cloths to avoid re-ignition.
+
+    * There is _no antidote_ for white phosphorus toxicity.
+    * Click the first aid link for detailed information — scroll way down on the page.
+* "The [Thomson Foundation](https://www.thomsonfoundation.org/) has created a course on reacting to a **_chemical weapons attack_** that is delivered via a Telegram bot, with the help of chemical and biological weapons expert Hamish de Bretton-Gordon." [Source](https://twitter.com/NovelSci/status/1509687859388715022?t=9uA1zaWFRgkdd0OMhV_1Yw&s=19)
     * [English](http://t.co/9pjRO7oBK8)
     * [Ukrainian](http://t.co/RxMyjGEb7b)
-* [Chemical Attack Safety Information](https://www.dhs.gov/xlibrary/assets/prep_chemical_fact_sheet.pdf): "If they are near an outdoor chemical release, people should:
+* **[Chemical Attack Safety Information](https://www.dhs.gov/xlibrary/assets/prep_chemical_fact_sheet.pdf)**: "If they are near an outdoor chemical release, people should:
 1. Avoid any obvious plume or vapor cloud.
-2. Walk away from the site and into a building in order to shelter-in-place.
+2. Walk away from the site and into a building in order to shelter-in-place. Do not run.
 3. Bring family and pets inside. 
 4. Lock doors, close windows, air vents, and fireplace dampers. 
 5. Turn off fans, air conditioning, and forced air heating systems. 
-6. Go into a room with as few windows as possible. Seal the room to create a temporary barrier between people and the contaminated air outside.
+6. Go into a room with as few windows as possible. Seal the room to create a temporary barrier between people and the contaminated air outside. [_NOT THE BASEMENT_]
 7. Seal all windows, doors, and air vents with plastic sheeting and duct tape. 
 8. Improvise with what is on hand to seal gaps to create a barrier from any contamination. 
 9. Watch TV, listen to the radio, or check the Internet often for official news and instructions as they become available."
@@ -231,13 +302,71 @@ The ICRC & UNHCR Advise:
 3. use gas masks or cotton gauze bandages soaked in water or preferably 2-5% solution of baking soda (for chlorine), acetic or citric acid (for ammonia);
 4. leave the room by stairs;
 5. do not touch any objects on the street." [Source](https://www.pravda.com.ua/news/2022/03/24/7334047/)
+* [TSN.ua | Chemical Attack by Sarin: how to act in case of poisoning](https://tsn.ua/ukrayina/himichna-ataka-zarinom-yak-rozpiznati-ta-yak-diyati-2020435.html) — "Sarin belongs to the organophosphorus weapons of neuro-paralytic action. In appearance it is a liquid, when evaporated, a colorless and odorless gas, extremely toxic." 
+
+    "Most [sarin](https://www.cdc.gov/niosh/ershdb/emergencyresponsecard_29750001.html) affects the nervous system, over-activating it, which is accompanied by a variety of symptoms." 
+
+
+    **How does sarin get into the human body?**
+
+    * The gas enters the human body through the skin, mucous membranes of the eyes and respiratory system.
+    * Clothing contaminated with sarin is also a threat because it evaporates and poisons people around. 
+    * Sarin is heavier than air, so the risk of sarin poisoning is higher in the lowlands, even higher - in the basement."
+
+    **What to do — According to the [National Library of Medicine](https://webwiser.nlm.nih.gov/substance?substanceId=151&identifier=Sarin&identifierType=name&menuItemId=61&catId=85):**
+
+    * "If you wear glasses, wear them.
+    * If the projectile with sarin exploded near the house, you need to immediately close the windows, doors, and close all vents [and fireplace dampers]. _Never turn on the air conditioner._
+    * Do not go outside immediately after a chemical weapon attack, most poisons last for hours. It is necessary to wait for the notification that the chemical threat has passed, information about the ways of safe evacuation.
+    * If an explosion occurs on the street, you must immediately leave the place, moving against the wind. You need to move quickly, but do not run, so as not to speed up breathing. It is desirable to hide in the nearest room, or at least in a car with raised windows.
+    * If you have a chemical attack, you need to get rid of your clothes as soon as possible. Sarin on clothes evaporates and is dangerous. Clothes should not be removed over the head, it is better to cut and thus remove it.
+    * After removing the clothes, you need to wash all areas of skin in contact with the poison with water, preferably also with soap. The more, the better.
+    * Eyes should also be rinsed thoroughly with water for at least 10 minutes.
+    * Do not touch surfaces that may be contaminated with sarin.
+    * Artificial ventilation of the lungs, especially artificial respiration in this situation is unacceptable."
+    * "If it is not possible to turn to specialists, then, according to cardiologist Daria Stepchina, if the enemy uses sarin, which is a neuro-paralytic, the best antidote is:
+        * Diazepam;
+        * Anthropine."
+    * "You should also use aqueous solutions of ammonia, alkalis, hydrogen peroxide, hydroxylamine solution in a slightly alkaline environment to disinfect surfaces, rooms, objects and even clothing."
+    * "One antidote, [atropine](https://go.drugbank.com/drugs/DB00572), blocks acetylcholine receptors, sparing the body's muscles from overstimulation. The other, [pralidoxime](https://go.drugbank.com/drugs/DB00733), or 2-PAM, removes sarin from the enzyme that stops acetylcholine from accumulating, Nelson said. However, both antidotes must be given within about 10 minutes of exposure in order to be effective, he said." [Source](https://www.livescience.com/58593-facts-about-sarin.html)
+* **[Nuclear Explosion](https://www.ready.gov/nuclear-explosion)** — "Nuclear devices range from a small portable device carried by an individual to a weapon carried by a missile.
+
+    Fallout is most dangerous in the first few hours after the detonation when it is giving off the highest levels of radiation. It takes time for fallout to arrive back to ground level, often more than 15 minutes for areas outside of the immediate blast damage zones." Conceivably, this provides some time to react and protect yourself to at least some degree — learn what best to do in case of a potential emergency. 
+
+* [CDC | Radiation Emergencies](https://www.cdc.gov/nceh/radiation/emergencies/nuclearfaq.htm)
+
+    **"How can I protect my family and myself during a nuclear blast?**
+
+
+    **If you are near the blast when it occurs:**
+
+    * Turn away and close and cover your eyes to prevent damage to your sight.
+    * Drop to the ground face down and place your hands under your body.
+    * Remain flat until the heat and two shock waves have passed.
+
+    **If you are outside when the blast occurs:**
+
+    * Find something to cover your mouth and nose, such as a scarf, handkerchief, or other cloth.
+    * Remove any dust from your clothes by brushing, shaking, and wiping in a ventilated area, however, cover your mouth and nose while you do this.
+    * Move to a shelter, basement, or other underground area, preferably located away from the direction that the wind is blowing.
+    * Remove clothing since it may be contaminated; if possible, take a shower, wash your hair, and change clothes before you enter the shelter.
+* **If you are already in a shelter or basement:**
+    * Cover your mouth and nose with a face mask or other material (such as a scarf or handkerchief) until the fallout cloud has passed.
+    * Shut off ventilation systems and seal doors or windows until the fallout cloud has passed. However, after the fallout cloud has passed, unseal the doors and windows to allow some air circulation.
+    * Stay inside until authorities say it is safe to come out.
+    * Listen to the local radio or television for information and advice. Authorities may direct you to stay in your shelter or evacuate to a safer place away from the area.
+    * If you must go out, cover your mouth and nose with a damp towel.
+    * Use stored food and drinking water. Do not eat local fresh food or drink water from open water supplies.
+    * Clean and cover any open wounds on your body."
+    * [Nuclear Emergency Types](https://www.cdc.gov/nceh/radiation/emergencies/moretypes.htm)
+    * [Questions About Radiation (FAQ)](https://www.cdc.gov/nceh/radiation/emergencies/emergencyfaq.htm)
+    * [Preventing and Treating Radiation Injuries and Illness](https://www.cdc.gov/nceh/radiation/emergencies/symptoms.htm)
+    * [Radiation | Food & Water Safety](https://www.cdc.gov/nceh/radiation/emergencies/food_water_safety.html)
 * "How to [recognize a saboteur](https://www.facebook.com/100505105900087/posts/120518213898776/): an explanation from the [Center for Popular Resistance](https://sprotyv.mod.gov.ua/)." (In Ukr) 
     * Their [Facebook](https://www.facebook.com/sprotyv.official/) page has valuable safety & awareness information.
-* [How to make water drinkable](https://www.fema.gov/press-release/20210318/fact-sheet-how-make-your-water-safe-drink).
-
-<img src="assets/images/image4.jpg" width="50%">
-
-* [Five Ways To Purify Water Without A Filter](https://www.primalsurvivor.net/ways-to-purify-water-survival/) — [Source](https://twitter.com/StephenKolanko1/status/1501771824128008193?t=epxspR8ec09ELBHfmy3J_A&s=19)
+* ["Who Are You" App](https://gur.gov.ua/content/tykhto.html) — An application for checking suspects has been launched in Ukraine. "...the main purpose of this app is to simplify the procedure for checking suspects at checkpoints, on the streets during curfew, at the entrance to the shelter or in other situations." 
+    * Click the link above to see what data points the app will reveal about a person you wish to check.
+* [The Mini-Manual For The Urban Defender | A Guide To The Strategies And Tactics Of Defending A City](https://www.johnspenceronline.com/urban-warfare) by Col John Spencer (In Eng, Ukr, Latvian & Japanese)
 
 ---
 
@@ -254,11 +383,11 @@ The ICRC & UNHCR Advise:
 * 🇺🇦 [How to get help and a temporary home in Ukraine: instructions from "Action"](https://www.unian.ua/society/yak-otrimati-dopomogu-ta-timchasoviy-dim-v-ukrajini-instrukciya-vid-diji-novini-ukrajini-11742667.html?utm_source=twitter&utm_medium=twitter&utm_campaign=twitter_site): "Currently, [CNAPs](https://koda.gov.ua/en/interactive-map-of-cnaps/) operate as Care Centers in 120 settlements of Ukraine.
     * Internally displaced persons can receive assistance and temporary shelter at administrative service centers (ADCs) in 14 oblasts of Ukraine.
     * CNAPs operate as Care Centers where you can get basic necessities and temporary shelter. You can find out exactly [where the Care Center works with a chatbot](https://www.unian.ua/techno/communications/mincifri-zapustilo-chatbot-dlya-dopomogi-pereselencyam-11721988.html) on Telegram [@turbotnyk_bot](https://t.me/turbotnyk_bot)." (For [Viber](https://tinyurl.com/turbotnyk))
-    * "Assistance is available in Rivne, Poltava, Zhytomyr, Chernivtsi, Ternopil, Zakarpattia, Zaporizhia, Luhansk, Khmelnytsky, Volyn, Lviv, Cherkasy, Vinnytsia and Ivano-Frankivsk regions." [CNAPs Interactive Map](https://koda.gov.ua/en/interactive-map-of-cnaps/)
+    * "Assistance is available in Rivne, Poltava, Zhytomyr, Chernivtsi, Ternopil, Zakarpattia, Zaporizhia, Luhansk, Khmelnytsky, Volyn, Lviv, Cherkasy, Vinnytsia and Ivano-Frankivsk regions." [CNAPs Interactive Map](https://koda.gov.ua/en/interactive-map-of-cnaps/) ([https://koda.gov.ua/en/interactive-map-of-cnaps](https://koda.gov.ua/en/interactive-map-of-cnaps))
     * The coordinators are available 24/7 at these numbers: +380501010454; +380993121127.
 * 🇺🇦 [Settlement opportunities for IDPs](https://r2p.org.ua/vnutrishno-peremishheni-osoby/#):
 
-    "Availability of housing facilities in _Dnipropetrovsk, Zaporizhia and Kharkiv oblasts_ that can be used as temporary/social housing for internally displaced persons under the condition of reconstruction or cosmetic repairs. They were placed on an interactive online map. If you need advice or more detailed information about these facilities, fill out the **[form](https://ee.humanitarianresponse.info/x/FdG9QOsD)** and you will be contacted by representatives of the [Right to Protection Charitable Foundation](https://ua.linkedin.com/company/right-to-protection-cf) within three working days. Data is not passed on to third parties." 
+    "Availability of housing facilities in _Dnipropetrovsk, Zaporizhia and Kharkiv oblasts_ that can be used as temporary/social housing for internally displaced persons under the condition of reconstruction or cosmetic repairs. They were placed on an interactive online map. If you need advice or more detailed information about these facilities, fill out the **[form](https://ee.humanitarianresponse.info/x/FdG9QOsD)** and you will be contacted by representatives of the [Right to Protection Charitable Foundation](https://ua.linkedin.com/company/right-to-protection-cf) within three working days. Data is not passed on to third parties." (Form: [https://ee.humanitarianresponse.info/x/FdG9QOsD](https://ee.humanitarianresponse.info/x/FdG9QOsD))
 
 * [Dopomagai Org | Shelter](https://shelter.dopomagai.org/) — "Free temporary housing in safe cities of Ukraine or abroad, provided by caring people. Search among thousands of ads, or call the hotline 0 (800) 332 238." More information, from [Kyiv City Gov](https://www.facebook.com/100064898971743/posts/340752394764724/).
 * 🇺🇦 List of [Caritas Ukraine organizations](http://news.ugcc.ua/news/ugkts_nadaie_pritulok_b%D1%96zhentsyam_na_zahod%D1%96_ukraini_spisok_kontakt%D1%96v_95802.html) that are ready to provide shelter in Ukraine. 
@@ -339,16 +468,18 @@ The ICRC & UNHCR Advise:
 * [Help & Transport Ukraine PL/UA/Pomoc](https://www.facebook.com/groups/help.pomoc.ukraine/?ref=share)<br /><img src="assets/images/image6.jpg" width="50%" />
 * [Transport A Sister / Help Ukraine 2022](https://www.facebook.com/groups/2182253995256054/)<br /><img src="assets/images/image28.jpg" width="50%" />
 
-### Plane, Train & Bus Information
+### Plane, Train, Bus, Trolley, & Tram Information
 
-* 🇺🇦 **[Ukrainian Railways](https://www.uz.gov.ua/en/)**: You can find updated maps and press release updates on the status functionality of railway stations and rail transport in Ukraine on this site. (*The site is currently only accessible in the EU.)
+* 🇺🇦 Regular transport infrastructure updates can be found on either of these pages: [Facebook](https://www.facebook.com/KabminUA) or [Twitter](https://twitter.com/Kabmin_UA?t=IRF8E29n1cfrNh0QWzBFnA&s=09).
+* 🇺🇦 [Ukrainian Railways](https://www.uz.gov.ua/en/): You can find updated maps and press release updates on the status functionality of railway stations and rail transport in Ukraine on this site. (*The site is currently only accessible in the EU.)
+    * 14/4 Also see this [update](https://www.kmu.gov.ua/news/14-kvitnya-situaciya-v-transportnij-infrastrukturi-na-2000).
     * Their [Telegram channel](http://t.me/UkrzalInfo/1332) shows updated schedules & maps daily (see their pinned post for more information). Schedules are posted at approximately 21:00 daily.
-    * At the volunteer camps in _Zakarpattia_ _and Lviv regions_ volunteer centers, it is possible to receive medical care and food - including vegetarian meals.
-    * The below map was posted as an example on 3/31/22.
     * [Ukrzaliznytsia](https://uz-vezemo.com) is the web portal created to inform passengers during the war. You can plan your trip and buy a ticket via a form on the site.
         * On the portal you just need to select the station of departure, arrival and date. Then, with tips, you can easily buy a ticket.
-        * You can find the current list of long-distance trains, directions of commuter trains, international routes, a map of operating stations, and current rules of transportation.
+        * You can find the current list of long-distance trains, directions of commbbbbb;bbby bnb n.vmluter trains, international routes, a map of operating stations, and current rules of transportation.
         * Contact Center: 0 800 503 111, 044 465 33 44
+    * At the volunteer camps in _Zakarpattia_ _and Lviv regions_ volunteer centers, it is possible to receive medical care and food - including vegetarian meals.
+    * The below map was posted as an example on 5 April.
 <br /><img src="assets/images/image10.jpg" width="50%">
 * 🇺🇦 The _Kyiv_ City State Administration explained how land [public transport](https://t.co/Um7ilvTLy0) will work.
 * 🇪🇺 [Information on free travel options offered by European transport companies](https://ec.europa.eu/info/strategy/priorities-2019-2024/stronger-europe-world/eu-solidarity-ukraine/eu-assistance-ukraine/information-people-fleeing-war-ukraine_en#information-on-free-travel-options-offered-by-european-transport-companies): Information for the following countries: Austria, Belgium, Bulgaria, Czechia, Denmark, Finland, France, Germany, Hungary, Italy, Latvia, Lithuania, Luxembourg, Netherlands, Poland, Romania, Slovakia, Slovenia, Spain & Sweden. (Also see: [EU Transport](https://transport.ec.europa.eu/index_en)  [Twitter](https://twitter.com/transport_eu?lang=en))
