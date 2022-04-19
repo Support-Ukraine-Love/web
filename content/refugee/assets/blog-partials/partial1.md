@@ -427,7 +427,7 @@ Passengers only need to refuel the car themselves. The driver must have a drivin
     * [How does it work?](https://support.blablacar.com/hc/uk/articles/360015367779-%D0%AF%D0%BA-%D0%BF%D1%80%D0%B0%D1%86%D1%8E%D1%94-BlaBlaCar-)
     * [Uber](https://t.co/0orvOyEITr) is offering free rides from the <em>Poland-Ukraine</em> border.
         * Update 3/16: "We plan to expand our support for refugees in other neighboring countries. With hundreds of thousands of people also fleeing Ukraine towards _Romania and Czechia_, we will extend our support of free rides to both countries."
-        * ![](assets/images/image19.jpg)
+        * <img src="assets/images/image19.jpg" width="50%" />
 
 * 🇪🇺 Transportation/Accommodation Request From The Border With The EU: "[This form](http://docs.google.com/forms/d/e/1FAIpQLSeHuzZ3ppgF5iKOXpFKeikguWn0ykZzLruJKZpiQHx23hnYbw/viewform) is for refugees from Ukraine who require transport from the _EU border with Ukraine_ (or elsewhere within the EU) and/or accommodation. We will coordinate people who are ready to help and give them your contact information. Please keep in mind that we are not always able to find suitable transportation. We advise you to look for alternatives in parallel."
 
@@ -522,7 +522,7 @@ Reminder: In a state of war, patients can receive "Affordable Medicines" both el
     * You can contact the MoH hotline at: 0800 60 20 19. The operator will submit your application for processing and insulin will be found either in a pharmacy or delivered by volunteers.
     * Ukraine Pharmacy Locator <a href="https://www.google.com/maps/d/embed?mid=11ftUM5axVYLzh23VvRRUNBcDZ4stmh1l&ehbc=2E312F&ll=50.54066462166791%2C30.515160743160727&z=6&fbclid=IwAR3AYuntsTaQ9VATEjfpNxlxW5bfWWimu4jLevXwCdpf08uKK6SyiqHu6eg">Map</a>.
     * Kyiv Pharmacy Locator <a href="https://www.google.com/maps/d/viewer?mid=1dDKrnjMJs3vcFfoE77CVYV-X2tF9jzeZ&ll=50.22666457982802%2C28.946304030713467&z=9">Map</a>.
-* How to make and apply a tournequet: <img src="assets/images/image6.jpg" width="50%" />
+* How to make and apply a tournequet:<br /> <img src="assets/images/image6.jpg" width="50%" />
 * The Ministry of Health published recommendations on home care during martial law. Go <a href="https://moz.gov.ua/article/news/pidgotovlenij-%e2%80%93-znachit-zahischenij">here</a>.
 * Brigham and Women's Hospital made videos showing Ukrainians how to recognize and react to life-threatening bleeding. <a href="https://m.youtube.com/watch?v=epCU2EiDXsc&feature=youtu.be">Stop The Bleed</a> is in Ukrainian. 
 * This is an excellent resource to use in case of emergency, when medical personnel are unavailable or cannot immediately respond: [Ukraine Humanitarian Aid: Medical Quick Guide](https://docs.google.com/document/d/1-li6T8KwFSB3zSEG_hP4ffa5yR1zS15t7MwJmYPKSPs/edit?usp=drivesdk). 
